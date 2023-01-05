@@ -1,0 +1,182 @@
+,Name,Qualification,Years_Of_Experience,Speciality_of_doctor,Location,dp_score,npv,consultation_fee
+0,Dr. Ganesh K Murthy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",32 Years Experience Overall  (23 years as specialist),Neurosurgeon,"Jayanagar, Bangalore",0,0,₹1000
+1,Dr. Arjun Srivatsa,"MBBS, DNB - Neurosurgery",31 Years Experience Overall  (27 years as specialist),Neurosurgeon,"Kalyan Nagar, Bangalore",98% ,(129 votes),₹1000
+2,Dr. Sunil V Furtado,"MBBS, MS - General Surgery, MCh - Neuro Surgery, DNB - Neurosurgery",22 Years Experience Overall  (17 years as specialist),Neurosurgeon,"Sahakaranagar, Bangalore",99% ,(164 votes),₹700
+3,Dr. K Kartik Revanappa,"MS - Orthopaedics, MCh - Neuro Surgery, MBBS",22 Years Experience Overall  (19 years as specialist),Neurosurgeon,"JP Nagar 8 Phase, Bangalore",99% ,(141 votes),₹1000
+4,Dr. Deepak A N,"MBBS, MS - General Surgery, MCh - Neuro Surgery",14 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Kundalahalli, Bangalore",0,0,₹800
+5,Dr. Abdul Aziz Riyaz,"MBBS, MS - General Surgery, MCh - Neuro Surgery",10 Years Experience Overall  (4 years as specialist),Neurosurgeon,"BTM Layout 2nd Stage, Bangalore",87% ,(45 votes),₹800
+6,Dr. Sridhar R,MS - Neuro Surgery,19 Years Experience Overall,Neurosurgeon,"Kanakpura Road, Bangalore",100% ,(20 votes),₹800
+7,Dr. Deepak Somasundar,"MBBS, MS - General Surgery, DNB - Neurosurgery",13 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Yelahanka New Town, Bangalore",99% ,(69 votes),₹700
+8,Dr. Sunil Buddappa,"MBBS, MS - General Surgery, MCh - Neuro Surgery",12 Years Experience Overall  (3 years as specialist),Neurosurgeon,"Sahakaranagar, Bangalore",0,0,₹1300
+9,Dr. Ganesh Veerabhadraiah,"MBBS, DNB - Neurosurgery, Fellowship in Interventional Neurosurgery (FINR)",21 Years Experience Overall  (9 years as specialist),Neurosurgeon,"Jayanagar, Bangalore",0,0,₹700
+10,Dr. Aniruddh T Jagannath,"MCh - Neuro Surgery, MBBS",19 Years Experience Overall  (12 years as specialist),Neurosurgeon,"MG Road, Bangalore",100% ,(86 votes),₹1000
+11,Dr. Sabyasachi Basu,"MBBS, MS - General Surgery, MCh - Neuro Surgery",16 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Koramangala 5 Block, Bangalore",0,0,₹1250
+12,Dr. Hariprakash Chakravarthy,"MBBS, DNB - Neurosurgery",21 Years Experience Overall  (11 years as specialist),Neurosurgeon,"JP Nagar, Bangalore",0,0,₹950
+13,Dr. Aravinth Kumar. A,"MBBS, MCh - Neuro Surgery",12 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Nagasandra, Bangalore",0,0,₹700
+14,Dr. Yadhu K Lokanath,"MBBS, MS - General Surgery, MCh - Neuro Surgery",6 Years Experience Overall,Neurosurgeon,"JP Nagar, Bangalore",0,0,₹950
+15,Dr. N Chandrashekar,"MCh - Neuro Surgery, MBBS",36 Years Experience Overall  (27 years as specialist),Neurosurgeon,"HSR Layout, Bangalore",97% ,(222 votes),₹750
+16,Dr. Ravi Gopal Varma,"MBBS, MS - General Surgery, MCh - Neuro Surgery",31 Years Experience Overall  (24 years as specialist),Neurosurgeon,"Hebbal, Bangalore",98% ,(43 votes),₹900
+17,Dr. Abhilash Bansal,"DNB - Neurosurgery, MBBS",13 Years Experience Overall,Neurosurgeon,"Bannerghatta Road, Bangalore",100% ,(24 votes),₹1000
+18,Dr. Umesh Srikantha,"MBBS, MCh - Neuro Surgery",21 Years Experience Overall  (14 years as specialist),Neurosurgeon,"Hebbal, Bangalore",89% ,(35 votes),₹900
+19,Dr. Avinash K M,"MBBS, MS - General Surgery, MRCS (UK), MCh - Neuro Surgery",15 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Hebbal, Bangalore",91% ,(23 votes),₹1090
+20,Dr. Nirmala S,"MBBS, MS - General Surgery, MCh - Neuro Surgery",19 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Hebbal, Bangalore",0,0,₹900
+21,Dr. Akshay Hari,"DNB - Neurosurgery, MBBS",12 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Hebbal, Bangalore",98% ,(59 votes),₹900
+22,Dr. Santhosh,"MBBS, MS - General Surgery, MCh - Neuro Surgery",15 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Hebbal, Bangalore",82% ,(11 votes),₹900
+23,Dr. Lakshman I K,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Kengeri, Bangalore",93% ,(14 votes),₹700
+24,Dr. Arun L Naik,"MBBS, MS - General Surgery, MCh - Neuro Surgery",22 Years Experience Overall,Neurosurgeon,"Bannerghatta Road, Bangalore",92% ,(360 votes),₹1000
+25,Dr. K M Bopanna,"MBBS, DNB - Neurosurgery",26 Years Experience Overall  (21 years as specialist),Neurosurgeon,"Old Airport Road, Bangalore",86% ,(22 votes),₹900
+26,Dr. Deshpande V Rajakumar,"MBBS, MCh - Neuro Surgery",40 Years Experience Overall  (33 years as specialist),Neurosurgeon,"Bannerghatta Road, Bangalore",96% ,(23 votes),₹900
+27,Dr. Sathwik R Shetty,"MBBS, DNB - Neurosurgery",19 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Old Airport Road, Bangalore",100% ,(16 votes),₹900
+28,Dr. Ajay Herur,"MBBS, DNB - Neurosurgery",23 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Jayanagar, Bangalore",0,0,₹750
+29,Dr. Arvind Bhateja,"MBBS, MS - General Surgery, MCh - Neuro Surgery",29 Years Experience Overall  (22 years as specialist),Neurosurgeon,"Vasanthnagar, Bangalore",96% ,(136 votes),₹850
+30,Dr. Praveen Ganigi,"MCh - Neuro Surgery, MBBS",26 Years Experience Overall  (18 years as specialist),Neurosurgeon,"Old Airport Road, Bangalore",92% ,(13 votes),₹900
+31,Dr. NAGARJUN M N,"MBBS, MCh - Neuro Surgery",13 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Jayanagar 9 Block, Bangalore",0,0,₹750
+32,Dr. Paritosh Pandey,"MBBS, MCh - Neuro Surgery",22 Years Experience Overall  (19 years as specialist),Neurosurgeon,"Old Airport Road, Bangalore",86% ,(14 votes),₹900
+33,Dr. Naveen M A,"MBBS, MS - General Surgery, MCh - Neuro Surgery",11 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Kengeri, Bangalore",0,0,₹700
+34,Dr. Praharaj  S S,"MBBS, MS - General Surgery, DNB - Neurology, MCh - Neuro Surgery",37 Years Experience Overall  (30 years as specialist),Neurosurgeon,"Bannerghatta Road, Bangalore",68% ,(22 votes),₹900
+35,Dr. Harisha P N,"MBBS, MCh - Neuro Surgery",18 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Millers Road, Bangalore",0,0,₹1000
+36,Dr. Shiva S Kupanur,"MBBS, DNB - Neurosurgery",26 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Yeshwanthpur, Bangalore",96% ,(74 votes),₹600
+37,Dr. Prathap Kumar Pani,"MBBS, MS - General Surgery, MCh - Neuro Surgery",40 Years Experience Overall  (31 years as specialist),Neurosurgeon,"Rajarajeshwarinagar, Bangalore",65% ,(20 votes),₹700
+38,Dr. Sharan Srinivasan,"MBBS, DNB - Neurosurgery",21 Years Experience Overall,Neurosurgeon,"Malleswaram, Bangalore",0,0,₹750
+39,Dr. Santhosh Kumar S A,"MBBS, MS - General Surgery, MCh - Neuro Surgery",13 Years Experience Overall  (3 years as specialist),Neurosurgeon,"Kengeri, Bangalore",0,0,₹700
+40,Dr. Kishor Rao,"MS - General Surgery, MCh - Neuro Surgery",12 Years Experience Overall  (8 years as specialist),Neurosurgeon,"HBR Layout, Bangalore",0,0,₹800
+41,Dr. Raghuram G,"MBBS, DNB - Neurosurgery",15 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Yeshwanthpur, Bangalore",0,0,₹950
+42,Dr. Satish Sathyanarayana,"MBBS, MCh - Neuro Surgery",33 Years Experience Overall,Neurosurgeon,"Bannerghatta Road, Bangalore",75% ,(24 votes),₹900
+43,Dr. Jagdish Chattnalli,"DNB - Neurosurgery, MBBS",22 Years Experience Overall  (16 years as specialist),Neurosurgeon,"Ashoknagar, Bangalore",74% ,(19 votes),₹800
+44,Dr. Praveen K.S,"MBBS, DNB - General Surgery, MCh - Neuro Surgery, MS - General Surgery",20 Years Experience Overall  (15 years as specialist),Neurosurgeon,"Sampangiramnagar, Bangalore",0,0,₹800
+45,Dr. S R Patil,"MCh - Neuro Surgery, MS - General Surgery, MBBS",15 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Hennur, Bangalore",0,0,₹800
+46,Dr. Karthikeyan Y R,"MBBS, MS - General Surgery, MCh - Neuro Surgery",16 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Seshadripuram, Bangalore",0,0,₹740
+47,Dr. Harsha Hegde,"MBBS, MS - General Surgery, MCh - Neuro Surgery",5 Years Experience Overall  (2 years as specialist),Neurosurgeon,"Banashankari 6th Stage, Bangalore",0,0,₹800
+48,Dr. Abhinandhan J Gangannavar,"MBBS, DNB - Neurosurgery",9 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Yeshwanthpur, Bangalore",100% ,(42 votes),₹600
+49,Dr. B. Ravi Mohan Rao,"MCh - Neuro Surgery, MBBS",36 Years Experience Overall  (28 years as specialist),Neurosurgeon,"Seshadripuram, Bangalore",0,0,₹1000
+50,Dr. Satish Babu HV,"MBBS, MCh - Neuro Surgery",31 Years Experience Overall  (23 years as specialist),Neurosurgeon,"HRBR Layout, Bangalore",0,0,₹1000
+51,Dr. Karthik Malepathi,"MBBS, MCh - Neuro Surgery",13 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Seshadripuram, Bangalore",0,0,₹740
+52,Dr. Dibanath Chakraborthy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",24 Years Experience Overall,Neurosurgeon,"Malleswaram, Bangalore",0,0,₹750
+53,Dr. Kiran Khanapure,"MBBS, MCh - Neuro Surgery",23 Years Experience Overall  (20 years as specialist),Neurosurgeon,"Millers Road, Bangalore",0,0,₹1000
+54,Dr. Sundeep V K,"MCh - Neuro Surgery, MBBS, MS - General Surgery",10 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Ashoknagar, Bangalore",0,0,₹800
+55,Dr. Dhananjaya  Bhat,"MBBS, MCh - Neuro Surgery",24 Years Experience Overall  (19 years as specialist),Neurosurgeon,"JP Nagar, Bangalore",0,0,₹950
+56,Dr. Anirudh S,"MBBS, MS - General Surgery, MCh - Neuro Surgery",12 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Rajarajeshwarinagar, Bangalore",0,0,₹700
+57,Dr. Veeresha U Mathad,"MBBS, MS - General Surgery, MCh - Neuro Surgery",13 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Sarjapur Road, Bangalore",0,0,₹1000
+58,Dr. Keshav G.C,"MBBS, MS - General Surgery, MCh - Neuro Surgery",10 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Kammana Halli, Bangalore",0,0,₹500
+59,Dr. Mohamed Mujahid Usman,"MBBS, MS - General Surgery, MCh - Neuro Surgery",18 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Vasanthnagar, Bangalore",0,0,₹750
+60,Dr. Vinayaka M,"MBBS, DNB - Neurosurgery",15 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Whitefield, Bangalore",0,0,₹850
+61,Dr. Sandesh O,"MBBS, MS - General Surgery, MCh - Neuro Surgery",9 Years Experience Overall  (2 years as specialist),Neurosurgeon,"Yeshwanthpur, Bangalore",0,0,₹500
+62,Dr. Manish Ganesh Pai,"MBBS, MS - General Surgery, MCh - Neuro Surgery",21 Years Experience Overall  (11 years as specialist),Neurosurgeon,"JP Nagar, Bangalore",0,0,₹950
+63,Dr. Shylesh M P,"MS - General Surgery, MCh - Neuro Surgery, MBBS",8 Years Experience Overall  (1 year as specialist),Neurosurgeon,"HBR Layout, Bangalore",0,0,₹800
+64,Dr. Vishal Bhasme,"MCh - Neuro Surgery, MS - General Surgery, MBBS",18 Years Experience Overall  (9 years as specialist),Neurosurgeon,"Wakad, Pune",0,0,₹1000
+65,Dr. Sarang Gotecha,"MBBS, MS - General Surgery, MCh - Neuro Surgery",15 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Wakad, Pune",100% ,(12 votes),₹850
+66,Dr. Mandar Patil,"MBBS, DNB - Neurosurgery",13 Years Experience Overall  (3 years as specialist),Neurosurgeon,"Wakad, Pune",0,0,₹800
+67,Dr. Rahul Patil,"MCh - Neuro Surgery, MBBS, MS - General Surgery",16 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Wakad, Pune",0,0,₹1000
+68,Dr. Sabnis Manish,"DNB - Neurosurgery, MBBS",20 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Hadapsar, Pune",100% ,(13 votes),₹700
+69,Dr. Nikhil Talathi,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Kothrud, Pune",100% ,(14 votes),₹600
+70,Dr. Mahajan Sachin D.,"MBBS, MS - General Surgery, MCh - Neuro Surgery, Fellow in Spine Surgery",12 Years Experience Overall,Neurosurgeon,"Nagar Road, Pune",0,0,₹850
+71,Dr. Ninad Ramesh Patil,"MBBS, MS - General Surgery, MCh - Neuro Surgery",8 Years Experience Overall  (3 years as specialist),Neurosurgeon,"Wakad, Pune",0,0,₹900
+72,Dr. Pravin Tukaram Survashe,"MBBS, MS - General Surgery, MCh - Neuro Surgery",16 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Kharadi, Pune",0,0,₹850
+73,Dr. Sarang Rote,"MBBS, MS - General Surgery, MCh - Neuro Surgery",13 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Camp, Pune",0,0,₹1500
+74,Dr. Siraj Basade,"MBBS, DNB - Neurosurgery",15 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Loni Kalbhor, Pune",0,0,₹500
+75,Dr. Ramandeep S. Dang,"MBBS, MS - General Surgery, MCh - Neuro Surgery",27 Years Experience Overall  (14 years as specialist),Neurosurgeon,"Greater Kailash Part 1, Delhi",92% ,(280 votes),₹1500
+76,Dr. Shailesh Jain,"MBBS, MS - General Surgery, MCh - Neuro Surgery",20 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Pitampura, Delhi",95% ,(142 votes),₹1200
+77,Dr. Amit Gupta,"MCh - Neuro Surgery, MS - General Surgery, MBBS",20 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Rohini, Delhi",100% ,(17 votes),₹1000
+78,Dr. Sanjeev Dua,"MBBS, MS - General Surgery, MCh - Neuro Surgery",44 Years Experience Overall  (39 years as specialist),Neurosurgeon,"Patparganj, Delhi",91% ,(11 votes),₹1000
+79,Dr. Ashish Gupta,"MCh - Neuro Surgery, DNB - Neurosurgery, MBBS",26 Years Experience Overall  (19 years as specialist),Neurosurgeon,"Greater Kailash Part 1, Delhi",91% ,(11 votes),₹1200
+80,Dr. Sunilkumar Baranwal,"MCh - Neuro Surgery, MS - General Surgery, MBBS",17 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Pitampura, Delhi",71% ,(28 votes),₹1100
+81,Dr. Amitabh Gupta,"MBBS, MS - General Surgery, MCh - Neuro Surgery",20 Years Experience Overall  (15 years as specialist),Neurosurgeon,"Vasant Kunj, Delhi",87% ,(23 votes),₹1200
+82,Dr. P K Sachdeva,"MBBS, MS - General Surgery, MCh - Neuro Surgery",27 Years Experience Overall  (23 years as specialist),Neurosurgeon,"Dwarka Sector 12, Delhi",0,0,₹1500
+83,Dr. Amitabh Goel,"MBBS, MS - General Surgery, MCh - Neuro Surgery",32 Years Experience Overall  (26 years as specialist),Neurosurgeon,"Patparganj, Delhi",98% ,(50 votes),₹1000
+84,Dr. Aditya Singh Bhati,"MBBS, DNB - Neurosurgery",18 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Vasant Kunj, Delhi",0,0,₹1000
+85,Dr. Rakesh Kumar Dua,"MBBS, MCh - Neuro Surgery",44 Years Experience Overall  (42 years as specialist),Neurosurgeon,"Shalimar Bagh, Delhi",75% ,(12 votes),₹1200
+86,Dr. Sonal Gupta,"MBBS, MCh - Neuro Surgery",30 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Shalimar Bagh, Delhi",91% ,(11 votes),₹1200
+87,Dr. Sudheer Kumar Tyagi,"MBBS, MS - General Surgery, MCh - Neuro Surgery",33 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹2000
+88,Dr. S K Sogani,"MBBS, MCh - Neuro Surgery",45 Years Experience Overall  (39 years as specialist),Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹2000
+89,Dr. Richa Singh,"MBBS, DNB - Neurosurgery, MA - Psychology",21 Years Experience Overall  (11 years as specialist),Neurosurgeon,"New Rajendra Nagar, Delhi",85% ,(46 votes),₹700
+90,Dr. Rajendra Prasad,"MBBS, FRCS - Neurosurgery",36 Years Experience Overall,Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹2000
+91,Dr. Chander Mohan Malhotra,"MBBS, MS - General Surgery, MCh - Neuro Surgery",31 Years Experience Overall,Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹1500
+92,Dr. Ravi Bhatia,"MBBS, MS - General Surgery, MCh - Neuro Surgery",60 Years Experience Overall  (50 years as specialist),Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹2000
+93,Dr. Sunit Mediratta,"MBBS, MS - General Surgery, DNB - Neurosurgery, MCh - Neuro Surgery",26 Years Experience Overall  (18 years as specialist),Neurosurgeon,"Sarita Vihar, Delhi",0,0,₹1500
+94,Dr. V. K. Jain,"MBBS, MCh - Neuro Surgery",45 Years Experience Overall  (41 years as specialist),Neurosurgeon,"Saket, Delhi",83% ,(30 votes),₹1500
+95,Dr. Rahul Jain,"MS - General Surgery, MCh - Neuro Surgery, MBBS",18 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Dwarka Sector 19, Delhi",91% ,(145 votes),₹1000
+96,Dr. Rohit Bansil,"MBBS, DNB - Neurosurgery",14 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Pusa Road, Delhi",0,0,₹1500
+97,Dr. Anil Kansal,"MBBS, MS - General Surgery, MCh - Neuro Surgery",28 Years Experience Overall  (21 years as specialist),Neurosurgeon,"Shalimar Bagh, Delhi",76% ,(29 votes),₹1500
+98,Dr. Anurag Saxena,"MBBS, MCh - Neuro Surgery, FRCS - Neurosurgery, MS - General Surgery",18 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Dwarka Sector 6, Delhi",0,0,₹1100
+99,Dr. Deepak Varshney,"MBBS, MS - General Surgery, DNB - Neurosurgery",17 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Tuglakabad, Delhi",0,0,₹700
+100,Dr. Rahul Gupta,"MBBS, MS - General Surgery, MCh - Neuro Surgery",26 Years Experience Overall  (16 years as specialist),Neurosurgeon,"Okhla, Delhi",75% ,(16 votes),₹1500
+101,Dr. Manish Garg,"MBBS, MS - General Surgery, MCh - Neuro Surgery",14 Years Experience Overall  (4 years as specialist),Neurosurgeon,"IP Extension, Delhi",0,0,₹1000
+102,Dr. Kapil Jain,"MBBS, MCh - Neuro Surgery",20 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Saket, Delhi",0,0,₹1000
+103,Dr. Manish Bummerkar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",29 Years Experience Overall  (17 years as specialist),Neurosurgeon,"Pandav Nagar, Delhi",0,0,₹800
+104,Dr. Bipin S Walia,"MBBS, MS - General Surgery, MCh - Neuro Surgery",38 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Saket, Delhi",0,0,₹1500
+105,Dr. Girish Rajpal,"MCh - Neuro Surgery, MS - General Surgery, MBBS",15 Years Experience Overall,Neurosurgeon,"Patparganj, Delhi",0,0,₹1000
+106,Dr. Vikrant Katiyar,"MS - General Surgery, MCh - Neuro Surgery",8 Years Experience Overall  (3 years as specialist),Neurosurgeon,"Patparganj, Delhi",0,0,₹800
+107,Dr. Zahid Khan,"MBBS, DNB - Neurosurgery",28 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Saket, Delhi",0,0,₹1000
+108,Dr. Anil Dhar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",16 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Patparganj, Delhi",0,0,₹700
+109,Dr. Siddhartha Ghosh,"MBBS, MCh - Neuro Surgery",41 Years Experience Overall  (33 years as specialist),Neurosurgeon,"Vanagaram, Chennai",75% ,(24 votes),₹2000
+110,Dr. V.Soundappan,"MBBS, MS - General Surgery, MCh - Neuro Surgery",42 Years Experience Overall  (23 years as specialist),Neurosurgeon,"Adyar, Chennai",99% ,(133 votes),₹900
+111,Dr. S. Selvapandian,"MBBS, MCh - Neuro Surgery",35 Years Experience Overall  (28 years as specialist),Neurosurgeon,"Vanagaram, Chennai",0,0,₹800
+112,Dr. M. Kodeeswaran,"MBBS, MCh - Neuro Surgery",21 Years Experience Overall  (14 years as specialist),Neurosurgeon,"Anna Nagar, Chennai",99% ,(3569 votes),₹500
+113,Dr. Nigel Symss,"MBBS, DNB - Neurosurgery",29 Years Experience Overall  (17 years as specialist),Neurosurgeon,"Perumbakkam, Chennai",0,0,₹800
+114,Dr. K.R.Suresh Bapu,"MBBS, MS - General Surgery, MCh - Neuro Surgery",47 Years Experience Overall  (38 years as specialist),Neurosurgeon,"Vadapalani, Chennai",98% ,(81 votes),₹1500
+115,Dr. Chendilnathan,"MBBS, MCh - Neuro Surgery",36 Years Experience Overall  (30 years as specialist),Neurosurgeon,"Teynampet, Chennai",89% ,(18 votes),₹1000
+116,Dr. M Anbuselvam,"MCh - Neuro Surgery, MBBS",36 Years Experience Overall  (28 years as specialist),Neurosurgeon,"Chromepet, Chennai",0,0,₹800
+117,Dr. Vijay Sankaran,"MBBS, MCh - Neuro Surgery",25 Years Experience Overall  (19 years as specialist),Neurosurgeon,"Vadapalani, Chennai",0,0,₹1500
+118,Dr. V R Roopesh Kumar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",24 Years Experience Overall  (17 years as specialist),Neurosurgeon,"Tharamani, Chennai",0,0,₹2000
+119,Dr. Srinivasan Paramasivam,"MBBS, MCh - Neuro Surgery",22 Years Experience Overall  (16 years as specialist),Neurosurgeon,"Thousand Lights, Chennai",100% ,(12 votes),₹1500
+120,Dr. Joy Varghese,"MBBS, MS - General Surgery, MCh - Neuro Surgery, Fellowship in Interventional Neurosurgery (FINR)",17 Years Experience Overall,Neurosurgeon,"Greams Road, Chennai",0,0,₹1500
+121,Dr. Chandrasekar K,"MBBS, MCh - Neuro Surgery",33 Years Experience Overall  (28 years as specialist),Neurosurgeon,"Greams Road, Chennai",0,0,₹1000
+122,Dr. BalaMurugan S,"MBBS, MCh - Neuro Surgery",18 Years Experience Overall  (14 years as specialist),Neurosurgeon,"Kilpauk, Chennai",0,0,₹500
+123,Dr. M. Balamurugan,"MBBS, DNB - Neurosurgery",24 Years Experience Overall,Neurosurgeon,"Teynampet, Chennai",92% ,(12 votes),₹1500
+124,Dr. Shankar Ganesh,"MBBS, MS - General Surgery, MCh - Neuro Surgery",21 Years Experience Overall  (15 years as specialist),Neurosurgeon,"Teynampet, Chennai",0,0,₹1500
+125,Dr. Anil Pande,"MBBS, DNB - Neurosurgery",28 Years Experience Overall  (21 years as specialist),Neurosurgeon,"OMR Road, Chennai",0,0,₹700
+126,Dr. Suresh Paramasivam,"MCh - Neuro Surgery, MS - Orthopaedics, MBBS",13 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Mylapore, Chennai",92% ,(12 votes),₹500
+127,Dr. Paraneetharan M.,"MBBS, MCh - Neuro Surgery",15 Years Experience Overall,Neurosurgeon,"Chromepet, Chennai",0,0,₹800
+128,Dr. Santosh Mohan Rao,"MBBS, DNB - Neurosurgery",19 Years Experience Overall  (10 years as specialist),Neurosurgeon,"Saidapet, Chennai",0,0,₹950
+129,Dr. Nitin Dange,"MCh - Neuro Surgery, MS - General Surgery, MBBS",27 Years Experience Overall  (16 years as specialist),Neurosurgeon,"Parel, Mumbai",0,0,₹2600
+130,Dr. Suresh Sankla,"MBBS, DNB - Neurosurgery",39 Years Experience Overall  (30 years as specialist),Neurosurgeon,"Parel, Mumbai",0,0,₹1850
+131,Dr. Kapil Khandelwal,"MBBS, MCh - Neuro Surgery, MS - General Surgery",13 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Mulund West, Mumbai",92% ,(37 votes),₹2000
+132,Dr. Vinod Rambal,"MCh - Neuro Surgery, MBBS, MS - General Surgery",40 Years Experience Overall  (22 years as specialist),Neurosurgeon,"Mira Road, Mumbai",95% ,(19 votes),₹1000
+133,Dr. Ashwin Borkar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Mira Road, Mumbai",0,0,₹1000
+134,Dr. Gurneet,"MBBS, MS - General Surgery, MCh - Neuro Surgery",19 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Mulund West, Mumbai",0,0,₹2000
+135,Dr. Mahesh Chaudhari,"MBBS, MCh - Neuro Surgery",44 Years Experience Overall  (37 years as specialist),Neurosurgeon,"Mahim, Mumbai",0,0,₹2300
+136,Dr. Saurav Samantray,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Santacruz West, Mumbai",0,0,₹2000
+137,Dr. Sachin Ashokrao Giri,"MBBS, MS - General Surgery, MCh - Neuro Surgery, FCPS - General Surgery",12 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Powai, Mumbai",0,0,₹1600
+138,Dr. Neeraj Singh,"MBBS, Fellow Of National Board In Neurovascular Intervention, DNB - Neurosurgery",14 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Mulund West, Mumbai",0,0,₹2000
+139,Dr. D. P. Muzumdar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",32 Years Experience Overall  (24 years as specialist),Neurosurgeon,"Mahim, Mumbai",0,0,₹1300
+140,Dr. Sumeet G Pawar,"DNB - Neurosurgery, MBBS",13 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Chembur, Mumbai",0,0,₹1500
+141,Dr. Abhidha Shah,"MBBS, MS - General Surgery, MCh - Neuro Surgery",14 Years Experience Overall,Neurosurgeon,"Colaba, Mumbai",0,0,₹2500
+142,Dr. Batuk Diyora,"MBBS, MS - General Surgery, DNB - Neurosurgery",22 Years Experience Overall  (15 years as specialist),Neurosurgeon,"Mahim, Mumbai",0,0,₹1800
+143,Dr. Pandurang Reddy M,"DNB - Neurosurgery, MS - General Surgery, MBBS, Fellowship in Interventional Neurosurgery (FINR)",20 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Mahim, Mumbai",0,0,₹2800
+144,Dr. Aditya Patil,"MBBS, MS - General Surgery, MCh - Neuro Surgery",13 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Wadala, Mumbai",0,0,₹1500
+145,Dr. Ajit Mishra,"MBBS, MS - General Surgery, MCh - Neuro Surgery",12 Years Experience Overall  (4 years as specialist),Neurosurgeon,"Malad West, Mumbai",0,0,₹1200
+146,Dr. Smita Thorve,"MBBS, DNB - General Surgery, DNB - Neurosurgery",8 Years Experience Overall  (2 years as specialist),Neurosurgeon,"Chembur East, Mumbai",0,0,₹1200
+147,Dr. Vivek Patel,"DNB - Neurosurgery, MS - General Surgery, MBBS",5 Years Experience Overall  (2 years as specialist),Neurosurgeon,"Borivali West, Mumbai",0,0,₹1500
+148,Dr. Ravi Balkrishna Sangle,"MBBS, MCh - Neuro Surgery",13 Years Experience Overall  (2 years as specialist),Neurosurgeon,"Mulund West, Mumbai",0,0,₹1500
+149,Dr. Darpan J. Thakre,"MBBS, MS - General Surgery, DNB - Neurosurgery",14 Years Experience Overall  (10 years as specialist),Neurosurgeon,"Mahim, Mumbai",71% ,(14 votes),₹2500
+150,Dr. Samir Parekh,"DNB - Neurosurgery, MBBS",19 Years Experience Overall  (13 years as specialist),Neurosurgeon,"Malad, Mumbai",0,0,₹3500
+151,Dr. Sri Ram Chandra Damaraju,"MBBS, MCh - Neuro Surgery, DNB - Neurology",31 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Himayat Nagar, Hyderabad",99% ,(209 votes),₹1100
+152,Dr. Arun Reddy,"MBBS, DNB - Neurosurgery",14 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Miyapur, Hyderabad",0,0,₹600
+153,Dr. B.S.V. Raju,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MCh - Neuro Surgery",30 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Ameerpet, Hyderabad",77% ,(94 votes),₹650
+154,Dr. Laxminadh Sivaraju,"MBBS, MCh - Neuro Surgery",18 Years Experience Overall  (9 years as specialist),Neurosurgeon,"Mehdipatnam, Hyderabad",0,0,₹650
+155,Dr. Uday Goutam,"MBBS, MCh - Neuro Surgery",17 Years Experience Overall  (3 years as specialist),Neurosurgeon,"KPHB, Hyderabad",0,0,₹600
+156,Dr. Sai Kalyan S,"MCh - Neuro Surgery, MS - General Surgery, MBBS",13 Years Experience Overall  (6 years as specialist),Neurosurgeon,"Attapur, Hyderabad",0,0,₹600
+157,Dr. Vishakha,"MCh - Neuro Surgery, MRCS (UK), DNB - General Surgery, MBBS",18 Years Experience Overall  (12 years as specialist),Neurosurgeon,"Madinaguda, Hyderabad",95% ,(176 votes),₹700
+158,Dr. S Srikanth Reddy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",16 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Hitech City, Hyderabad",98% ,(52 votes),₹500
+159,Dr. Kaushal Ippili,"MBBS, MS - General Surgery, DNB - Neurosurgery",21 Years Experience Overall  (10 years as specialist),Neurosurgeon,"Jubilee Hills, Hyderabad",95% ,(134 votes),₹1200
+160,Dr. A.K. Purohit,"MBBS, MS - General Surgery, MCh - Neuro Surgery",41 Years Experience Overall  (35 years as specialist),Neurosurgeon,"Ameerpet, Hyderabad",100% ,(34 votes),₹700
+161,Dr. Narreddy Manohar Reddy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",26 Years Experience Overall  (24 years as specialist),Neurosurgeon,"Hyderguda, Hyderabad",0,0,₹500
+162,Dr. S Rajesh Reddy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Jubilee Hills, Hyderabad",0,0,₹800
+163,Dr. Rahul Lath,"MBBS, DNB - Neurosurgery, MCh - Neuro Surgery",29 Years Experience Overall  (23 years as specialist),Neurosurgeon,"Jubilee Hills, Hyderabad",0,0,₹1000
+164,Dr. Ratnam Boola Gnana,"MBBS, MCh - Neuro Surgery",25 Years Experience Overall,Neurosurgeon,"Jubilee Hills, Hyderabad",0,0,₹1000
+165,Dr. V Bramha Prasad,"MBBS, MCh - Neuro Surgery",19 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Secunderabad, Hyderabad",0,0,₹600
+166,Dr. R T S Naik,"MBBS, MCh - Neuro Surgery, MS - General Surgery",30 Years Experience Overall  (25 years as specialist),Neurosurgeon,"Hyderguda, Hyderabad",0,0,₹1000
+167,Dr. B Kalyan,"MBBS, MCh - Neuro Surgery",12 Years Experience Overall  (11 years as specialist),Neurosurgeon,"Lakdikapul, Hyderabad",0,0,₹950
+168,Dr. Raghavendra H,"MBBS, MS - General Surgery, MCh - Neuro Surgery, Fellow in Spine Surgery",18 Years Experience Overall  (9 years as specialist),Neurosurgeon,"Ameerpet, Hyderabad",100% ,(172 votes),₹700
+169,Dr. Y. Murali Krishna,"MBBS, MS - General Surgery, MCh - Neuro Surgery",17 Years Experience Overall  (14 years as specialist),Neurosurgeon,"Ameerpet, Hyderabad",0,0,₹600
+170,Dr. M.Sireesh Reddy,"MBBS, MS - General Surgery, MCh - Neuro Surgery",22 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Lakdikapul, Hyderabad",0,0,₹950
+171,Dr. Aneel Kumar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",12 Years Experience Overall,Neurosurgeon,"Hitech City, Hyderabad",0,0,₹500
+172,Dr. Tarang K. Vora,"MBBS, DNB - Neurosurgery",10 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Jubilee Hills, Hyderabad",0,0,₹1000
+173,Dr. Soma Madhan Reddy,"MBBS, MS - General Surgery, DNB - Neurosurgery",22 Years Experience Overall  (9 years as specialist),Neurosurgeon,"Jubilee Hills, Hyderabad",0,0,₹700
+174,Dr. K S Kiran,"MBBS, MCh - Neuro Surgery",16 Years Experience Overall  (7 years as specialist),Neurosurgeon,"Chanda Nagar, Hyderabad",0,0,₹400
+175,Dr. Rohith Kumar Nayak,"MBBS, MS - General Surgery, MCh - Neuro Surgery",26 Years Experience Overall  (21 years as specialist),Neurosurgeon,"Kukatpally, Hyderabad",0,0,₹500
+176,Dr. Venkatesh Yeddula,"MBBS, MS - General Surgery, MCh - Neuro Surgery",20 Years Experience Overall,Neurosurgeon,"Lakdikapul, Hyderabad",0,0,₹800
+177,Dr. J. Gauri Shankar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",23 Years Experience Overall  (10 years as specialist),Neurosurgeon,"LB Nagar, Hyderabad",0,0,₹680
+178,Dr. Sharan Basappa,"MBBS, MS - Neuro Surgery, DNB - Neurosurgery",12 Years Experience Overall,Neurosurgeon,"Kukatpally, Hyderabad",0,0,₹500
+179,Dr. Shyam Angatha,"MBBS, MS - General Surgery, MCh - Neuro Surgery",15 Years Experience Overall  (5 years as specialist),Neurosurgeon,"Ecil, Hyderabad",0,0,₹500
+180,Dr. Sanjeev Kumar,"MBBS, MS - General Surgery, MCh - Neuro Surgery",19 Years Experience Overall  (8 years as specialist),Neurosurgeon,"Chanda Nagar, Hyderabad",0,0,₹500

@@ -1,0 +1,628 @@
+,Name,Qualification,Years_Of_Experience,Speciality_of_doctor,Location,dp_score,npv,consultation_fee
+0,Dr. Amit Gulati,"MBBS, DDVL",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Malad West, Mumbai",99% ,(69 votes),₹750
+1,Dr. Simple Aher,"MBBS, DVD",13 Years Experience Overall,Dermatologist,"Andheri West, Mumbai",0,0,₹2000
+2,Dr. Pooja Kondadi,"MD - Dermatology , Venereology & Leprosy, MBBS",6 Years Experience Overall  (1 year as specialist),Dermatologist,"Banjara Hills, Hyderabad",0,0,₹600
+3,Dr. Anuradha S.Patil,"MBBS, DVD",17 Years Experience Overall,Dermatologist,"Aundh, Pune",0,0,₹500
+4,Dr. Chiranjiv Chhabra,"MBBS, MD - Dermatology , Venereology & Leprosy",26 Years Experience Overall,Dermatologist,"Panchsheel Park, Delhi",55% ,(20 votes),₹2000
+5,Dr. Bhuvanashree N,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (3 years as specialist),Dermatologist,"Adyar, Chennai",100% ,(108 votes),₹700
+6,Dr. Shekar Y N,"MBBS, DVD",36 Years Experience Overall  (33 years as specialist),Dermatologist,"Basavanagudi, Bangalore",93% ,(15 votes),₹300
+7,Dr. Madhavi Krishnarao Salunkhe,"MBBS, DVD",20 Years Experience Overall  (16 years as specialist),Dermatologist,"Shivajinagar, Pune",100% ,(61 votes),₹600
+8,Dr. Rajyalaxmi Konathan,"MBBS, MD - Skin,VD & Leprosy",28 Years Experience Overall  (23 years as specialist),Dermatologist,"Secunderabad, Hyderabad",86% ,(14 votes),₹800
+9,Dr. Vignesh Karthick,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Aminjikarai, Chennai",88% ,(17 votes),₹500
+10,Dr. Deepali Marthineni,"DDVL, MBBS",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",100% ,(23 votes),₹500
+11,Dr. Suchita Dattatray Parab,"DNB - Dermatology & Venereology, MBBS",9 Years Experience Overall  (7 years as specialist),Dermatologist,"Borivali West, Mumbai",97% ,(65 votes),₹500
+12,Dr. Ramesh Vishwanath,"MBBS, MD - Dermatology",31 Years Experience Overall,Dermatologist,"Banjara Hills, Hyderabad",94% ,(17 votes),₹500
+13,Dr. Nidhi Shah,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Marine Lines, Mumbai",100% ,(33 votes),₹1250
+14,Dr. Sandhyarani K,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Sanjay Nagar, Bangalore",100% ,(11 votes),₹500
+15,Dr. Nidhi Rohatgi,"MBBS, DVD",27 Years Experience Overall  (24 years as specialist),Dermatologist,"Vasant Kunj, Delhi",100% ,(90 votes),₹1500
+16,Dr. Amrin Jibrail Diwan,"MBBS, DVD",10 Years Experience Overall  (3 years as specialist),Dermatologist,"Kalyani Nagar, Pune",99% ,(77 votes),₹600
+17,Dr. Sharanya Karthik,"MD - Dermatology , Venereology & Leprosy, MBBS",4 Years Experience Overall,Dermatologist,"T Nagar, Chennai",0,0,₹500
+18,Dr. Saguna Puttoo,"MBBS, DNB - Dermatology & Venereology",24 Years Experience Overall  (14 years as specialist),Dermatologist,"Kukatpally, Hyderabad",94% ,(262 votes),₹600
+19,Dr. K Swaroopa,"MBBS, MD - Dermatology , Venereology & Leprosy",21 Years Experience Overall  (16 years as specialist),Dermatologist,"Gachibowli, Hyderabad",86% ,(401 votes),₹500
+20,Dr. Lipy Gupta,"MD - Dermatology , Venereology & Leprosy, MBBS",17 Years Experience Overall  (14 years as specialist),Dermatologist,"Green Park, Delhi",96% ,(1501 votes),₹800
+21,Dr. Abdul Samad,"MBBS, MD - Dermatology , Venereology & Leprosy, DVD",29 Years Experience Overall  (28 years as specialist),Dermatologist,"Electronics City, Bangalore",94% ,(71 votes),₹550
+22,Dr. Charulatha K S,"DNB - Dermatology, Venereology & Leprosy, DDVL, MBBS",5 Years Experience Overall  (3 years as specialist),Dermatologist,"Bannerghatta Road, Bangalore",0,0,₹400
+23,Dr. Amey Kelkar,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Kothrud, Pune",98% ,(890 votes),₹600
+24,Dr. Manisha Mareddy,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (1 year as specialist),Dermatologist,"Gachibowli, Hyderabad",100% ,(12 votes),₹600
+25,Dr. J.Priya,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Porur, Chennai",0,0,₹750
+26,Dr. Arihant Surana,"DDV, MBBS",22 Years Experience Overall  (17 years as specialist),Dermatologist,"Defence Colony, Delhi",96% ,(403 votes),₹1000
+27,Dr. Zeenat Bhalwani,"MBBS, MD - Skin & VD",21 Years Experience Overall  (17 years as specialist),Dermatologist,"Andheri West, Mumbai",99% ,(468 votes),₹1500
+28,Dr. Sudha Rani Badri,"MBBS, DDVL",15 Years Experience Overall,Dermatologist,"Kundalahalli, Bangalore",0,0,₹600
+29,Dr. Madhavi Pudi,"MBBS, DNB - Dermatology, Venereology & Leprosy",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Balkampet, Hyderabad",91% ,(1635 votes),₹800
+30,Dr. Joshika Bhandary,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (4 years as specialist),Dermatologist,"Andheri West, Mumbai",0,0,₹900
+31,Dr. N Ashwak Ahmed,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (9 years as specialist),Dermatologist,"OMR Road, Chennai",0,0,₹700
+32,Dr. Yogeesh H R,"MBBS, MD - Dermatology , Venereology & Leprosy",29 Years Experience Overall  (18 years as specialist),Dermatologist,"Koramangala 4 Block, Bangalore",94% ,(805 votes),₹800
+33,Dr. Poonam Tapsale,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Shivajinagar, Pune",100% ,(37 votes),₹500
+34,Dr. Shashi Kiran A R,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Electronics City, Bangalore",97% ,(117 votes),₹550
+35,Dr. Nitin Jain,"MBBS, DVD, FCPS - Dermatology, Venereology & Leprosy",20 Years Experience Overall  (16 years as specialist),Dermatologist,"Kothrud, Pune",97% ,(1482 votes),₹700
+36,Dr. Hina Kherajani,"MBBS, DVD",20 Years Experience Overall  (15 years as specialist),Dermatologist,"Pimple Saudagar, Pune",94% ,(757 votes),₹600
+37,Dr. Meghana Bathina,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (2 years as specialist),Dermatologist,"Secunderabad, Hyderabad",0,0,₹600
+38,Dr. Radha Penumatsa,"MD - Dermatology , Venereology & Leprosy, MBBS",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Kompally, Hyderabad",100% ,(56 votes),₹500
+39,Dr. Aryambika Krishnan,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Yelahanka New Town, Bangalore",0,0,₹600
+40,Dr. Altamash Zubair,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",0,0,₹800
+41,Dr. S C Rajendran,"MBBS, MD - Dermatology",43 Years Experience Overall  (36 years as specialist),Dermatologist,"Ashoknagar, Bangalore",68% ,(667 votes),₹800
+42,Dr. Sadhana Jadhavar,"MBBS, DDVL",15 Years Experience Overall  (14 years as specialist),Dermatologist,"Pimpri-Chinchwad, Pune",93% ,(725 votes),₹400
+43,Dr. Urvashi Chandra,"MBBS, MD - Skin,VD & Leprosy",16 Years Experience Overall  (11 years as specialist),Dermatologist,"Pitampura, Delhi",96% ,(27 votes),₹800
+44,Dr. Tejal Ubale,"MBBS, DDVL",7 Years Experience Overall  (5 years as specialist),Dermatologist,"Hinjewadi, Pune",81% ,(16 votes),₹500
+45,Dr. Mamta Patil,"MBBS, DDVL",8 Years Experience Overall  (7 years as specialist),Dermatologist,"Nigdi, Pune",100% ,(17 votes),₹500
+46,Dr. Akanksha Barthwal Thakre,"MBBS, DVD",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Kalyani Nagar, Pune",95% ,(61 votes),₹500
+47,Dr. Sindhu Hiremath,"MD - Dermatology , Venereology & Leprosy, MBBS",3 Years Experience Overall  (1 year as specialist),Dermatologist,"Electronics City, Bangalore",0,0,₹700
+48,Dr. Geetika Srivastava,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Hauz Khas, Delhi",99% ,(121 votes),₹1000
+49,Dr. Praveen Rodrigues,"MBBS, MD - Dermatology",26 Years Experience Overall  (25 years as specialist),Dermatologist,"Richmond Town, Bangalore",90% ,(21 votes),₹1000
+50,Dr. Sabitha Surisetti,"MBBS, MD - Dermatology , Venereology & Leprosy",20 Years Experience Overall,Dermatologist,"Defence Colony, Delhi",0,0,₹1500
+51,Dr. Vanishree S. V,"MBBS, DVD",13 Years Experience Overall  (6 years as specialist),Dermatologist,"Nigdi, Pune",82% ,(107 votes),₹600
+52,Dr. Shruthi B R,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall,Dermatologist,"Jayanagar, Bangalore",0,0,₹600
+53,Dr. B. Haritha,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (7 years as specialist),Dermatologist,"Madhapur, Hyderabad",0,0,₹600
+54,Dr. Aftab Mateen,"MBBS, DDVL",31 Years Experience Overall  (16 years as specialist),Dermatologist,"Anna Nagar, Chennai",92% ,(13 votes),₹700
+55,Dr. Navnit Haror,"DDVL, MBBS",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Greater Kailash Part 1, Delhi",92% ,(140 votes),₹1000
+56,Dr. Naveen Atluru,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",97% ,(34 votes),₹1000
+57,Dr. Kavya Nayak,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Sarjapur Road, Bangalore",96% ,(1157 votes),₹700
+58,Dr. Anusha Akilesh,"DDVL, MBBS",8 Years Experience Overall  (3 years as specialist),Dermatologist,"HRBR Layout, Bangalore",96% ,(46 votes),₹600
+59,Dr. S.Vinu Priya,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Adyar, Chennai",100% ,(15 votes),₹600
+60,Dr. Pooja Tilwani,"MBBS, DVD",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Pimple Saudagar, Pune",94% ,(1078 votes),₹700
+61,Dr. T. Sravyachandana,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (2 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹600
+62,Dr. Mahima Wadhwa,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Shalimar Bagh, Delhi",100% ,(56 votes),₹800
+63,Dr. Murlidhar Rajagopalan,"MBBS, MD - Dermatology",36 Years Experience Overall  (30 years as specialist),Dermatologist,"Greams Road, Chennai",27% ,(11 votes),₹1000
+64,Dr. Rajeshwari,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (11 years as specialist),Dermatologist,"Velachery, Chennai",83% ,(948 votes),₹700
+65,Dr. Pranjal Joshi,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Shivalik, Delhi",96% ,(55 votes),₹900
+66,Dr. Sajai Varghese,"MBBS, MD - Dermatology , Venereology & Leprosy",22 Years Experience Overall  (12 years as specialist),Dermatologist,"Kilpauk, Chennai",83% ,(12 votes),₹1000
+67,Dr. Ishani Chakravarty,"MBBS, DDVL",19 Years Experience Overall  (14 years as specialist),Dermatologist,"Secunderabad, Hyderabad",91% ,(206 votes),₹600
+68,Dr. Raghu Ram Reddy.D,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Yousufguda, Hyderabad",97% ,(510 votes),₹500
+69,Dr. Priyanka S Jain,"MBBS, DDVL, DNB - Dermatology & Venereology",11 Years Experience Overall  (9 years as specialist),Dermatologist,"Sion West, Mumbai",98% ,(106 votes),₹900
+70,Dr. Rahul Nagar,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (12 years as specialist),Dermatologist,"Panchsheel Park, Delhi",90% ,(29 votes),₹1000
+71,Dr. Bhavyashree U G,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Kalyan Nagar, Bangalore",86% ,(57 votes),₹700
+72,Dr. Renu Nair,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (8 years as specialist),Dermatologist,"HSR Layout, Bangalore",97% ,(303 votes),₹600
+73,Dr. V J Tannu,"MBBS, MD - Dermatology , Venereology & Leprosy, DVD",44 Years Experience Overall  (42 years as specialist),Dermatologist,"Budhwar Peth, Pune",84% ,(540 votes),₹750
+74,Dr. Raj Kirit E.P.,"MBBS, DDVL",13 Years Experience Overall  (11 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",98% ,(521 votes),₹1000
+75,Dr. Sridevi Sravya,"MBBS, DDVL",8 Years Experience Overall  (2 years as specialist),Dermatologist,"Gachibowli, Hyderabad",100% ,(19 votes),₹600
+76,Dr. Manu Saxena,"MBBS, DVD",34 Years Experience Overall,Dermatologist,"Nehru Place, Delhi",0,0,₹1000
+77,Dr. Divyasree P,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Kondapur, Hyderabad",97% ,(37 votes),₹700
+78,Dr. Yogesh Kalyanpad,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Santacruz West, Mumbai",100% ,(430 votes),₹1000
+79,Dr. Ashwani. P,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (12 years as specialist),Dermatologist,"Gachibowli, Hyderabad",0,0,₹500
+80,Dr. Govind S Mittal,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Jayanagar, Bangalore",98% ,(1048 votes),₹800
+81,Dr. Namitha S,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall,Dermatologist,"Sarjapur Road, Bangalore",0,0,₹600
+82,Dr. J.K. Jain,"MBBS, Diploma in Dermatology",52 Years Experience Overall  (39 years as specialist),Dermatologist,"Patparganj, Delhi",0,0,₹600
+83,Dr. V Vilashini,"MBBS, MD - Dermatology , Venereology & Leprosy",1 Year Experience Overall,Dermatologist,"Velachery, Chennai",0,0,₹600
+84,Dr. Shuhaib MP,"MBBS, Diploma in Dermatology, Fellowship in Aesthetic Medicine (FAM)",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Baner, Pune",98% ,(188 votes),₹500
+85,Dr. Haritha Ravipati,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Ulsoor, Bangalore",98% ,(55 votes),₹600
+86,Dr. Navya Chowdary,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (3 years as specialist),Dermatologist,"Gachibowli, Hyderabad",85% ,(20 votes),₹500
+87,Dr. Banupriya M,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Anna Nagar, Chennai",0,0,₹400
+88,Dr. Sridhar Gogineni,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (8 years as specialist),Dermatologist,"Marathahalli, Bangalore",98% ,(849 votes),₹600
+89,Dr. Vani M,"MBBS, DVD",27 Years Experience Overall  (23 years as specialist),Dermatologist,"Sanjay Nagar, Bangalore",97% ,(699 votes),₹500
+90,Dr. Sravya C Tipirneni,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall,Dermatologist,"Whitefield, Bangalore",0,0,₹900
+91,Dr. Mohan Darbastwar,"Diploma in Dermatology, MBBS",15 Years Experience Overall  (5 years as specialist),Dermatologist,"Koregaon Park, Pune",97% ,(296 votes),₹600
+92,Dr. Bede Anand,"MBBS, MD - Dermatology , Venereology & Leprosy",2 Years Experience Overall,Dermatologist,"Mylapore, Chennai",0,0,₹300
+93,Dr. Kakumanu Methini Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Gachibowli, Hyderabad",0,0,₹600
+94,Dr. Ashvith Shetty,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Powai, Mumbai",98% ,(249 votes),₹1100
+95,Dr. Bhavishya Shetty,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall,Dermatologist,"HSR Layout, Bangalore",0,0,₹600
+96,Dr. Antionetta Ashwini J,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (7 years as specialist),Dermatologist,"T Nagar, Chennai",0,0,₹700
+97,Dr. Priya Vernekar,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Whitefield, Bangalore",100% ,(18 votes),₹600
+98,Dr. Sandeep Mahapatra,"MBBS, MD - Dermatology , Venereology & Leprosy",17 Years Experience Overall  (12 years as specialist),Dermatologist,"Marathahalli, Bangalore",91% ,(1841 votes),₹800
+99,Dr. Amol Bhandkar,"MBBS, DDVL",19 Years Experience Overall  (15 years as specialist),Dermatologist,"Kharadi, Pune",97% ,(1110 votes),₹500
+100,Dr. Kiran Joshy,"MBBS, DDVL",14 Years Experience Overall  (9 years as specialist),Dermatologist,"RT Nagar, Bangalore",96% ,(210 votes),₹600
+101,Dr. Ankita Pant,"MBBS, MD - Dermatology",12 Years Experience Overall  (9 years as specialist),Dermatologist,"Panchsheel Park, Delhi",0,0,₹1000
+102,Dr. Adrian Mario Dsouza,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Ashoknagar, Bangalore",0,0,₹800
+103,Dr. Aneet Kaur,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall  (1 year as specialist),Dermatologist,"Anand Vihar, Delhi",0,0,₹600
+104,Dr. Dilshad Shetty,"MBBS, DDVL",17 Years Experience Overall  (13 years as specialist),Dermatologist,"HRBR Layout, Bangalore",97% ,(76 votes),₹600
+105,Dr. Rakesh Reddy,"MBBS, Master of Public Health (MPH), DDVL",23 Years Experience Overall  (8 years as specialist),Dermatologist,"Sanjay Nagar, Bangalore",94% ,(85 votes),₹500
+106,Dr. Priyanka K,"MBBS, DNB - Dermatology, Venereology & Leprosy, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Mahadevapura, Bangalore",0,0,₹700
+107,Dr. Rashmi Ravindra,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (14 years as specialist),Dermatologist,"Bannerghatta Road, Bangalore",0,0,₹850
+108,Dr. Prerna Sikka,"MBBS, DDVL",12 Years Experience Overall  (11 years as specialist),Dermatologist,"Indiranagar, Bangalore",0,0,₹800
+109,Dr. Tejaswini Salunke,"MBBS, DDVL",13 Years Experience Overall  (2 years as specialist),Dermatologist,"Wanowrie, Pune",0,0,₹500
+110,Dr. Richa Sharma,"MBBS, MD - Dermatology , Venereology & Leprosy",25 Years Experience Overall  (19 years as specialist),Dermatologist,"Dwarka, Delhi",96% ,(1450 votes),₹1500
+111,Dr. Aamir Siddiqui,"MBBS, MD - Dermatology , Venereology & Leprosy, Fellowship In Cosmetic And Plastic Surgery",14 Years Experience Overall  (10 years as specialist),Dermatologist,"New Friends Colony, Delhi",96% ,(846 votes),₹2000
+112,Dr. Syed Nazim Hussain,"MD - Physician, DNB - Dermatology & Venereology, Diploma in Dermatology",17 Years Experience Overall  (11 years as specialist),Dermatologist,"Saket, Delhi",87% ,(94 votes),₹1200
+113,Dr. Suraj Shetty,"MBBS, DDVL",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Andheri West, Mumbai",98% ,(121 votes),₹900
+114,Dr. Bhushan S  Bawankar,"MBBS, DVD",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Matunga West, Mumbai",97% ,(142 votes),₹1000
+115,Dr. Sanjana Shivashankar,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Indiranagar, Bangalore",95% ,(87 votes),₹650
+116,Dr. Nipun Jain,"MD - Dermatology , Venereology & Leprosy, MBBS",25 Years Experience Overall  (20 years as specialist),Dermatologist,"Dwarka, Delhi",98% ,(634 votes),₹700
+117,Dr. Shilpa Reddy Gill,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹2000
+118,Dr. Shaik Noor Fazal,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall  (1 year as specialist),Dermatologist,"Gachibowli, Hyderabad",0,0,₹600
+119,Dr. Priyam Bhagat,"MD - Skin & VD, Diploma in Dermatology, MBBS",16 Years Experience Overall,Dermatologist,"Goregaon East, Mumbai",98% ,(447 votes),₹1200
+120,Dr. Uma Chakravadhanula,"MBBS, DDVL",28 Years Experience Overall  (11 years as specialist),Dermatologist,"Madhapur, Hyderabad",98% ,(87 votes),₹700
+121,Dr. Shivashankar B. Sajjanshetty,"MBBS, DDVL",18 Years Experience Overall  (13 years as specialist),Dermatologist,"JP Nagar 2 Phase, Bangalore",97% ,(2246 votes),₹750
+122,Dr. Akshaya.S,"MBBS, MD - Dermatology , Venereology & Leprosy",Cosmetologist,Dermatologist,"Alwarpet, Chennai",0,0,₹500
+123,Dr. Smriti Naswa Singh,"MD - Dermatology, MBBS",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Mulund West, Mumbai",0,0,₹1500
+124,Dr. Nandhini Palani,"MD - Dermatology , Venereology & Leprosy, MBBS",4 Years Experience Overall,Dermatologist,"Tambaram West, Chennai",0,0,₹300
+125,Dr. Divya Gupta,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Old Airport Road, Bangalore",0,0,₹900
+126,Dr. Shruthi M K,"MBBS, DDVL",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Jayanagar 5 Block, Bangalore",98% ,(86 votes),₹600
+127,Dr. Yuti Nakhwa,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Parel, Mumbai",96% ,(347 votes),₹1600
+128,Dr. Jangid,"MD - Dermatology , Venereology & Leprosy, MBBS",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Saket, Delhi",94% ,(1083 votes),₹1200
+129,Dr. Nivethitha S,"MBBS, DDVL",6 Years Experience Overall  (4 years as specialist),Dermatologist,"Alwarpet, Chennai",99% ,(77 votes),₹600
+130,Dr. Sadhana Deshmukh,"MBBS, DNB - Dermatology & Venereology, FCPS - Dermatology, Venereology & Leprosy",19 Years Experience Overall  (16 years as specialist),Dermatologist,"Bandra West, Mumbai",97% ,(512 votes),₹1500
+131,Dr. Rupal Phate,"MBBS, DVD",16 Years Experience Overall  (14 years as specialist),Dermatologist,"Kalyani Nagar, Pune",100% ,(28 votes),₹600
+132,Dr. B. Lakshmi Divya,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Kondapur, Hyderabad",97% ,(65 votes),₹700
+133,Dr. Ganesh Avhad,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Sion, Mumbai",99% ,(100 votes),₹800
+134,Dr. Aarthi Lakshmanan,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (14 years as specialist),Dermatologist,"MRC Nagar, Chennai",93% ,(1362 votes),₹750
+135,Dr. Poonam Naphade,"MBBS, DVD",19 Years Experience Overall  (10 years as specialist),Dermatologist,"Pimple Saudagar, Pune",100% ,(20 votes),₹1000
+136,Dr. Ganga Ravikumar,"MBBS, MD - Dermatology , Venereology & Leprosy",32 Years Experience Overall  (31 years as specialist),Dermatologist,"Adyar, Chennai",96% ,(593 votes),₹700
+137,Dr. Bindu Sthalekar,"MD - Skin Diseases, DVD, MBBS",34 Years Experience Overall,Dermatologist,"Khar West, Mumbai",96% ,(224 votes),₹3000
+138,Dr. Keerti Verma,"MBBS, MD - Dermatology , Venereology & Leprosy, Diploma in Dermatology",11 Years Experience Overall,Dermatologist,"Pimple Saudagar, Pune",0,0,₹500
+139,Dr. S Divya,"MBBS, DDVL",10 Years Experience Overall  (3 years as specialist),Dermatologist,"KPHB, Hyderabad",98% ,(101 votes),₹600
+140,Dr. Priyal Gala,"MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology, MBBS",13 Years Experience Overall  (6 years as specialist),Dermatologist,"Matunga, Mumbai",100% ,(65 votes),₹1200
+141,Dr. Col Rajagopal A,"MBBS, MD - Dermatology and Venerology, DVD",60 Years Experience Overall  (48 years as specialist),Dermatologist,"Greams Road, Chennai",0,0,₹1000
+142,Dr. Ch Vijay Bhasker Reddy,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (7 years as specialist),Dermatologist,"LB Nagar, Hyderabad",95% ,(22 votes),₹750
+143,Dr. Deepthi Motiram,"MBBS, DDVL",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Velachery, Chennai",93% ,(54 votes),₹600
+144,Dr. Mukesh Manjhi,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Lajpat Nagar, Delhi",0,0,₹500
+145,Dr. Midhuna PV,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall  (1 year as specialist),Dermatologist,"Whitefield, Bangalore",0,0,₹600
+146,Dr. Deepali Titkare,"DVD, MBBS",24 Years Experience Overall  (21 years as specialist),Dermatologist,"Magarpatta City, Pune",0,0,₹500
+147,Dr. R. Sreekala,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (1 year as specialist),Dermatologist,"Secunderabad, Hyderabad",0,0,₹500
+148,Dr. Neha Gupta,"MBBS, MD - Dermatology , Venereology & Leprosy",21 Years Experience Overall  (9 years as specialist),Dermatologist,"Indiranagar, Bangalore",95% ,(37 votes),₹800
+149,Dr. Seema Srinivasa,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Rajarajeshwarinagar, Bangalore",98% ,(131 votes),₹600
+150,Dr. Alisha Aneja,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Rohini, Delhi",0,0,₹800
+151,Dr. Nagaraju D,"MD - Dermatology , Venereology & Leprosy, MBBS",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Kukatpally, Hyderabad",96% ,(28 votes),₹500
+152,Dr. Shubhangi Mahajan,"MBBS, DDVL",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Parel, Mumbai",100% ,(84 votes),₹800
+153,Dr. Ayiswarya Marreddy,"MBBS, DDVL",7 Years Experience Overall  (4 years as specialist),Dermatologist,"Kondapur, Hyderabad",100% ,(35 votes),₹500
+154,Dr. Shankar Sawant,"MBBS, MD - Dermatology",20 Years Experience Overall,Dermatologist,"Mahim, Mumbai",0,0,₹1300
+155,Dr. K C Dharam Kumar,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology, Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"JP Nagar, Bangalore",99% ,(164 votes),₹750
+156,Dr. Sujaya S.N.,"MBBS, DDVL",18 Years Experience Overall  (14 years as specialist),Dermatologist,"HRBR Layout, Bangalore",98% ,(497 votes),₹600
+157,Dr. Rakesh,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Rohini, Delhi",93% ,(105 votes),₹1000
+158,Dr. Jyotsna Joshi,"MBBS, DVD",26 Years Experience Overall,Dermatologist,"Bavdhan, Pune",100% ,(27 votes),₹550
+159,Dr. Namrata Singh,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (2 years as specialist),Dermatologist,"HSR Layout, Bangalore",100% ,(33 votes),₹600
+160,Dr. Meeth Atawane,"DNB - Dermatology, Venereology & Leprosy, MBBS",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Andheri East, Mumbai",100% ,(206 votes),₹1000
+161,Dr. Vritika Gaddam,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (5 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",97% ,(33 votes),₹1000
+162,Dr. Raji Babu. G,"DDVL, MBBS",7 Years Experience Overall,Dermatologist,"Mahalakshmi Layout, Bangalore",0,0,₹600
+163,Dr. Shwetha H P,"MBBS, DVD",10 Years Experience Overall  (7 years as specialist),Dermatologist,"Sarjapur Road, Bangalore",95% ,(19 votes),₹600
+164,Dr. S.K Kashyap,"MBBS, MD - Dermatology , Venereology & Leprosy",18 Years Experience Overall  (16 years as specialist),Dermatologist,"Vasant Vihar, Delhi",96% ,(469 votes),₹1500
+165,Dr. Manoj Jain,"MBBS, DVD, MD - Dermatology , Venereology & Leprosy",38 Years Experience Overall  (37 years as specialist),Dermatologist,"Vikas Puri, Delhi",91% ,(799 votes),₹1600
+166,Dr. Mahesh Verma,"MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall,Dermatologist,"Rohini Sector 15, Delhi",56% ,(16 votes),₹700
+167,Dr. Chandan,"MD - Dermatology , Venereology & Leprosy, MBBS",22 Years Experience Overall  (15 years as specialist),Dermatologist,"Alwarpet, Chennai",97% ,(313 votes),₹800
+168,Dr. Raghunandan Torsekar,"MBBS, MD - Dermatology",23 Years Experience Overall,Dermatologist,"Mulund West, Mumbai",0,0,₹1300
+169,Dr. Vaaruni Ravishankar,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Aminjikarai, Chennai",0,0,₹1000
+170,Dr. Sunakshi Singh,"MBBS, MD - (Dermatology & STD)",13 Years Experience Overall  (8 years as specialist),Dermatologist,"CR Park, Delhi",89% ,(131 votes),₹800
+171,Dr. Lohita M,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (6 years as specialist),Dermatologist,"Nacharam, Hyderabad",0,0,₹500
+172,Dr. Soumya Podduturi,"MBBS, DDVL",12 Years Experience Overall  (9 years as specialist),Dermatologist,"Kompally, Hyderabad",96% ,(361 votes),₹600
+173,Dr. Vijay Singhal,"MBBS, MD - Dermatology",17 Years Experience Overall  (13 years as specialist),Dermatologist,"Punjabi Bagh, Delhi",93% ,(318 votes),₹800
+174,Dr. Meenakshi M,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Alwarpet, Chennai",99% ,(76 votes),₹600
+175,Dr. Shraddha,"DNB - Dermatology & Venereology, MD - Dermatology , Venereology & Leprosy, MBBS",19 Years Experience Overall  (16 years as specialist),Dermatologist,"Teynampet, Chennai",94% ,(88 votes),₹1000
+176,Dr. Munish Paul,"MBBS, MD - Skin & VD",27 Years Experience Overall  (23 years as specialist),Dermatologist,"Dwarka Sector 6, Delhi",82% ,(74 votes),₹900
+177,Dr. Deepa,"MBBS, DDVL, DNB - Dermatology, Venereology & Leprosy",14 Years Experience Overall  (11 years as specialist),Dermatologist,"Sarjapur Road, Bangalore",98% ,(279 votes),₹600
+178,Dr. B Anand,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (4 years as specialist),Dermatologist,"Karkhana, Hyderabad",97% ,(261 votes),₹600
+179,Dr. Madhavi Latha,"MBBS, Diploma in Dermatology",21 Years Experience Overall  (18 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",84% ,(128 votes),₹1000
+180,Dr. Kisalay Saurav,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (13 years as specialist),Dermatologist,"Kalyan Nagar, Bangalore",94% ,(402 votes),₹700
+181,Dr. Sonia Tekchandani,"DVD, MBBS",36 Years Experience Overall  (19 years as specialist),Dermatologist,"Malad West, Mumbai",93% ,(403 votes),₹2000
+182,Dr. Savitha D. R,"MBBS, MD - Dermatology",21 Years Experience Overall  (14 years as specialist),Dermatologist,"Malleswaram, Bangalore",95% ,(250 votes),₹650
+183,Dr. V.Shirisha,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (6 years as specialist),Dermatologist,"Kondapur, Hyderabad",93% ,(140 votes),₹650
+184,Dr. K R Sharmatha,"MBBS, DDVL",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Vadapalani, Chennai",90% ,(98 votes),₹800
+185,Dr. Akansh Jain,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Sindhi Colony, Hyderabad",89% ,(19 votes),₹500
+186,Dr. Jaishree Noor,"MBBS, MD - Dermatology , Venereology & Leprosy",18 Years Experience Overall  (13 years as specialist),Dermatologist,"Vasant Vihar, Delhi",97% ,(34 votes),₹1500
+187,Dr. Lakshmi M,"MBBS, DDVL",18 Years Experience Overall  (13 years as specialist),Dermatologist,"Anna Nagar, Chennai",98% ,(86 votes),₹600
+188,Dr. Rajdeep,"MBBS, DDVL",13 Years Experience Overall  (9 years as specialist),Dermatologist,"JP Nagar 2 Phase, Bangalore",96% ,(620 votes),₹750
+189,Dr. Jasmine Kohli,"MBBS, MD - Dermatology , Venereology & Leprosy",3 Years Experience Overall,Dermatologist,"Saket, Delhi",0,0,₹1000
+190,Dr. Hemant Sharma,"MBBS, MD - Dermatology , Venereology & Leprosy",47 Years Experience Overall  (32 years as specialist),Dermatologist,"Pusa Road, Delhi",96% ,(85 votes),₹1500
+191,Dr. Brahmananda Reddy,"MBBS, MSc. - Dermatology Skills and Treatment (University of Hertfordshire)",10 Years Experience Overall  (8 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",94% ,(969 votes),₹800
+192,Dr. Jeetendra Khatuja,"DNB - Dermatology & Venereology, DVD, MBBS",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Andheri West, Mumbai",99% ,(1513 votes),₹1000
+193,Dr. Manisha Chopra,"MBBS, MD - Dermatology , Venereology & Leprosy",24 Years Experience Overall  (17 years as specialist),Dermatologist,"Greater Kailash Part 2, Delhi",97% ,(326 votes),₹1000
+194,Dr. Dhananjay Chavan,"MBBS, Diploma in Dermatology",36 Years Experience Overall  (33 years as specialist),Dermatologist,"Kharadi, Pune",85% ,(1338 votes),₹1500
+195,Dr. Manisha Jethava,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Mulund West, Mumbai",0,0,₹900
+196,Dr. Kanu Verma,"MBBS, MD - Dermatology",20 Years Experience Overall  (17 years as specialist),Dermatologist,"Dwarka, Delhi",94% ,(166 votes),₹1000
+197,Dr. Patil Leena Rajendra,"MBBS, DVD",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Viman Nagar, Pune",96% ,(23 votes),₹500
+198,Dr. A M Jayaraman,"MBBS, MD - Dermatology, Diploma in Dermatology",46 Years Experience Overall  (38 years as specialist),Dermatologist,"Teynampet, Chennai",82% ,(11 votes),₹1000
+199,Dr. Neelima Sharma,"MBBS, DNB - Dermatology, Venereology & Leprosy",23 Years Experience Overall  (17 years as specialist),Dermatologist,"Jayanagar 9 Block, Bangalore",95% ,(74 votes),₹650
+200,Dr. Veena Rao,"MBBS, Diploma in Dermatology",23 Years Experience Overall  (16 years as specialist),Dermatologist,"Jayanagar 5 Block, Bangalore",96% ,(203 votes),₹600
+201,Dr. Pradeep Patil,"MBBS, DNB - Dermatology & Venereology",21 Years Experience Overall  (6 years as specialist),Dermatologist,"Baner, Pune",100% ,(36 votes),₹500
+202,Dr. K Aparna,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (3 years as specialist),Dermatologist,"Secunderabad, Hyderabad",100% ,(15 votes),₹600
+203,Dr. Pavithra H N,"MBBS, DDVL",13 Years Experience Overall  (12 years as specialist),Dermatologist,"Jayanagar 7 Block, Bangalore",98% ,(66 votes),₹600
+204,Dr. Pallavi Rathi,"MD - Skin Diseases, DDVL, FCPS - Dermatology, Venereology & Leprosy, MBBS",18 Years Experience Overall  (15 years as specialist),Dermatologist,"Andheri East, Mumbai",89% ,(580 votes),₹1000
+205,Dr. Mamta Jain,"MBBS, MD - Skin Diseases, DVD",22 Years Experience Overall  (17 years as specialist),Dermatologist,"Andheri West, Mumbai",0,0,₹1500
+206,Dr. Deborah Roselin,"MBBS, MD - Dermatology , Venereology & Leprosy",1 Year Experience Overall,Dermatologist,"Alwarpet, Chennai",0,0,₹500
+207,Dr. Venu Kumari,"MBBS, MD - Dermatology , Venereology & Leprosy",17 Years Experience Overall  (11 years as specialist),Dermatologist,"Chanda Nagar, Hyderabad",86% ,(2484 votes),₹500
+208,Dr. Dinesh Gowda,"MBBS, DVD",34 Years Experience Overall  (30 years as specialist),Dermatologist,"Indiranagar, Bangalore",0,0,₹500
+209,Dr. Premalatha,"MBBS, MD - Dermatology",12 Years Experience Overall  (9 years as specialist),Dermatologist,"HRBR Layout, Bangalore",0,0,₹600
+210,Dr. Rohini Krishnamoorthy,"MBBS, MD - Dermatology",36 Years Experience Overall  (31 years as specialist),Dermatologist,"Richmond Town, Bangalore",91% ,(78 votes),₹600
+211,Dr. G. Jwalitha Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",100% ,(43 votes),₹600
+212,Dr. Neelima Ravipati,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Ulsoor, Bangalore",97% ,(144 votes),₹600
+213,Dr. Bhawna Bhardwaj,"MBBS, DDVL",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Greater Kailash Part 1, Delhi",0,0,₹600
+214,Dr. Varsha.R,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"HSR Layout, Bangalore",95% ,(353 votes),₹1000
+215,Dr. Anuva Bansal,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (4 years as specialist),Dermatologist,"Pusa Road, Delhi",0,0,₹1400
+216,Dr. Sushrut Save,"MBBS, DNB - Dermatology & Venereology",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Dadar, Mumbai",97% ,(128 votes),₹1500
+217,Dr. Abhishek Ponathil,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (4 years as specialist),Dermatologist,"Kadugodi, Bangalore",0,0,₹750
+218,Dr. Katheeja Nasika,"MBBS, DNB - Dermatology, Venereology & Leprosy",5 Years Experience Overall  (2 years as specialist),Dermatologist,"Chromepet, Chennai",100% ,(22 votes),₹600
+219,Dr. Ismail Shaikh,"MD - Skin & VD, MBBS",24 Years Experience Overall  (21 years as specialist),Dermatologist,"Colaba, Mumbai",91% ,(11 votes),₹1000
+220,Dr. Nikita Jadhav,"MD - Dermatology, MBBS",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Lal baug, Mumbai",88% ,(25 votes),₹1000
+221,Dr. Mithra Sampathkumar,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (1 year as specialist),Dermatologist,"Anna Nagar, Chennai",0,0,₹500
+222,Dr. Saloni Vora,"MBBS, DVD",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Marine Lines, Mumbai",93% ,(72 votes),₹1250
+223,Dr. Girish C Panth,"MBBS, MD - Dermatology , Venereology & Leprosy",33 Years Experience Overall  (31 years as specialist),Dermatologist,"Bannerghatta Road, Bangalore",73% ,(11 votes),₹850
+224,Dr. Anudeep,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Kondapur, Hyderabad",98% ,(54 votes),₹500
+225,Dr. Abhigyan Mukherjee,"MBBS, DDVL",7 Years Experience Overall  (4 years as specialist),Dermatologist,"Kalyani Nagar, Pune",100% ,(255 votes),₹500
+226,Dr. Neena Kondapally,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (9 years as specialist),Dermatologist,"Gachibowli, Hyderabad",94% ,(35 votes),₹800
+227,Dr. Divya Chowdhry,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (11 years as specialist),Dermatologist,"Pusa Road, Delhi",0,0,₹1300
+228,Dr. Sanobar Shaikh,"MBBS, DDVL",15 Years Experience Overall  (12 years as specialist),Dermatologist,"Salunke Vihar, Pune",75% ,(12 votes),₹600
+229,Dr. Raashi Mehta,"MBBS, DNB - Dermatology & Venereology",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Peddar Road, Mumbai",96% ,(70 votes),₹1500
+230,Dr. Monica Chahar,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Dwarka Sector 19, Delhi",98% ,(237 votes),₹700
+231,Dr. D.G. Saple,"MBBS, MD - Skin Diseases, DVD, FCPS - Dermatology & Venereology",48 Years Experience Overall  (45 years as specialist),Dermatologist,"Mahim, Mumbai",89% ,(224 votes),₹1300
+232,Dr. Saroja Devi H S,"MD - Dermatology , Venereology & Leprosy, MBBS",5 Years Experience Overall,Dermatologist,"Bannerghatta Road, Bangalore",0,0,₹400
+233,Dr. Sushil Kumar Chaudhry,"MBBS, Diploma in Dermatology",42 Years Experience Overall  (31 years as specialist),Dermatologist,"Safdarjung Enclave, Delhi",80% ,(20 votes),₹1000
+234,Dr. Monisha,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Anna Nagar, Chennai",99% ,(125 votes),₹700
+235,Dr. Manali Shah,"DDVL, MBBS",15 Years Experience Overall  (12 years as specialist),Dermatologist,"Dhole Patil Road, Pune",89% ,(488 votes),₹700
+236,Dr. Jaidev N.C,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (11 years as specialist),Dermatologist,"Millers Road, Bangalore",90% ,(21 votes),₹1000
+237,Dr. Navya S,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall  (1 year as specialist),Dermatologist,"HSR Layout, Bangalore",0,0,₹500
+238,Dr. Kinjal Rambhia Gulati,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Malad West, Mumbai",96% ,(28 votes),₹750
+239,Dr. Harsha Mahajan,"MBBS, DDV",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Loni Kalbhor, Pune",70% ,(20 votes),₹500
+240,Dr. Sukanya Mathupal,"MBBS, Diploma in Otorhinolaryngology (DLO), MD - Dermatology , Venereology & Leprosy",22 Years Experience Overall  (6 years as specialist),Dermatologist,"Chromepet, Chennai",94% ,(253 votes),₹600
+241,Dr. Ami Dedhia,"DNB - Dermatology & Venereology, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Khar West, Mumbai",100% ,(44 votes),₹1000
+242,Dr. Sayyad Ajara,"MBBS, DDVL",12 Years Experience Overall  (3 years as specialist),Dermatologist,"Chembur, Mumbai",0,0,₹800
+243,Dr. G L Sitara,"MBBS, DDVL",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Madinaguda, Hyderabad",98% ,(552 votes),₹500
+244,Dr. Sowmya Dogiparthi,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Alwarpet, Chennai",97% ,(34 votes),₹1000
+245,Dr. Niketa Sonavane,"Diploma in Dermatology, MBBS",17 Years Experience Overall  (13 years as specialist),Dermatologist,"Andheri West, Mumbai",93% ,(570 votes),₹2500
+246,Dr. Rucha Kagne,"MBBS, DDVL, FCPS - Dermatology, Venereology & Leprosy",21 Years Experience Overall  (12 years as specialist),Dermatologist,"Mahim, Mumbai",99% ,(208 votes),₹1500
+247,Dr. Sriteja Vemulapalli,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Kukatpally, Hyderabad",0,0,₹600
+248,Dr. Vishnu M Moodalgiri,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Electronics City, Bangalore",97% ,(32 votes),₹700
+249,Dr. Venkatesh Lakshmi,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (2 years as specialist),Dermatologist,"Adyar, Chennai",0,0,₹600
+250,Dr. Sandeep Gupta,"MBBS, MD - Dermatology , Venereology & Leprosy",18 Years Experience Overall  (13 years as specialist),Dermatologist,"Hari Nagar, Delhi",95% ,(332 votes),₹600
+251,Dr. Sachin Maurya,"MBBS, Diploma in Dermatology",14 Years Experience Overall,Dermatologist,"Okhla, Delhi",0,0,₹1000
+252,Dr. Alekya Singapore,"DDVL, MBBS",9 Years Experience Overall  (7 years as specialist),Dermatologist,"Kondapur, Hyderabad",89% ,(47 votes),₹700
+253,Dr. B Vijayasree,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (10 years as specialist),Dermatologist,"Hitech City, Hyderabad",0,0,₹500
+254,Dr. Vijendran Pragasam,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",18 Years Experience Overall  (17 years as specialist),Dermatologist,"Seshadripuram, Bangalore",100% ,(11 votes),₹800
+255,Dr. Deepti Rana,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (12 years as specialist),Dermatologist,"Panchsheel Park, Delhi",86% ,(56 votes),₹1200
+256,Dr. Minal M Thamke Pawar,"DNB - Dermatology & Venereology, Diploma in Dermatology, MBBS",16 Years Experience Overall,Dermatologist,"Mulund East, Mumbai",99% ,(93 votes),₹800
+257,Dr. K.Sowmya,"MD - Dermatology , Venereology & Leprosy, MBBS",8 Years Experience Overall,Dermatologist,"Uppal, Hyderabad",86% ,(22 votes),₹400
+258,Dr. Ramachandran R,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (9 years as specialist),Dermatologist,"Perumbakkam, Chennai",0,0,₹700
+259,Dr. Poonam Patil,"MBBS, DDVL",10 Years Experience Overall  (5 years as specialist),Dermatologist,"Koregaon Park, Pune",93% ,(119 votes),₹600
+260,Dr. Lakshmi Durga M,"MBBS, DDVL",17 Years Experience Overall  (12 years as specialist),Dermatologist,"Anna Nagar, Chennai",99% ,(100 votes),₹600
+261,Dr. Usha Beloskar,"MBBS, Diploma in Dermatology",26 Years Experience Overall  (24 years as specialist),Dermatologist,"Dadar West, Mumbai",0,0,₹1000
+262,Dr. Radha Shah,"MBBS, MD - Skin Diseases, DVD",27 Years Experience Overall,Dermatologist,"Jubilee Hills, Hyderabad",86% ,(21 votes),₹1000
+263,Dr. Y Nikhil Kumar Reddy,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Suchitra Circle, Hyderabad",93% ,(215 votes),₹500
+264,Dr. Madan Kumar B J,"MBBS, DDVL",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Old Airport Road, Bangalore",92% ,(224 votes),₹750
+265,Dr. Veena Kumari,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Mansoorabad, Hyderabad",0,0,₹500
+266,Dr. Rashmi Gujalwar,"MBBS, DDVL",15 Years Experience Overall  (12 years as specialist),Dermatologist,"Pimple Saudagar, Pune",95% ,(76 votes),₹600
+267,Dr. Shishira R J,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",10 Years Experience Overall  (6 years as specialist),Dermatologist,"HSR Layout, Bangalore",94% ,(361 votes),₹1000
+268,Dr. Meenakshi Kapoor,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Rohini Sector 7, Delhi",94% ,(54 votes),₹800
+269,Dr. Aditi Jaiswal,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall  (2 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹1000
+270,Dr. K R Chandvania,"MBBS, MD - Dermatology and Venerology",43 Years Experience Overall  (39 years as specialist),Dermatologist,"Pimpri-Chinchwad, Pune",83% ,(386 votes),₹900
+271,Dr. Nitika Nijhara,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Patel Nagar East, Delhi",99% ,(67 votes),₹800
+272,Dr. Sruthi Alla,"MBBS, DDVL",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Madhapur, Hyderabad",97% ,(1875 votes),₹750
+273,Dr. Shankar D Desai,"MBBS, MD - Skin,VD & Leprosy",37 Years Experience Overall,Dermatologist,"Yeshwanthpur, Bangalore",65% ,(20 votes),₹850
+274,Dr. S.P. Vijayalakshmi,"MBBS, MD - Dermatology",37 Years Experience Overall  (26 years as specialist),Dermatologist,"Ameerpet, Hyderabad",0,0,₹500
+275,Dr. Amit S Murkute,"DNB - Dermatology & Venereology, DDVL, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Wakad, Pune",100% ,(25 votes),₹600
+276,Dr. Puneet Aggarwal,"MBBS, MD - Dermatology , Venereology & Leprosy",20 Years Experience Overall  (17 years as specialist),Dermatologist,"Krishna Nagar, Delhi",0,0,₹700
+277,Dr. Renuka Vinod Nalawade,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (3 years as specialist),Dermatologist,"Kothrud, Pune",100% ,(67 votes),₹600
+278,Dr. Renu Jadhav,"MBBS, DDVL",16 Years Experience Overall  (9 years as specialist),Dermatologist,"Hadapsar, Pune",96% ,(23 votes),₹500
+279,Dr. Sweksha,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Safdarjung Enclave, Delhi",0,0,₹1500
+280,Dr. Sheetal Srinivas,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (4 years as specialist),Dermatologist,"Sadashivanagar, Bangalore",0,0,₹600
+281,Dr. T Dayal Singh,"MBBS, MD - Dermatology, Diploma in Child Health (DCH)",35 Years Experience Overall  (19 years as specialist),Dermatologist,"Nallakunta, Hyderabad",0,0,₹600
+282,Dr. Rashmi Mittal,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",28 Years Experience Overall  (24 years as specialist),Dermatologist,"Andheri West, Mumbai",98% ,(384 votes),₹800
+283,Dr. Anagha Dudhbhate,"MD - Dermatology and Venerology, DVD, MBBS",33 Years Experience Overall  (32 years as specialist),Dermatologist,"Erandwane, Pune",98% ,(3046 votes),₹700
+284,Dr. A J Kanwar,"MBBS, MD - Dermatology and Venerology",51 Years Experience Overall  (47 years as specialist),Dermatologist,"Greater Kailash Part 1, Delhi",95% ,(1328 votes),₹1500
+285,Dr. Radha Subramaniyan,"MBBS, DNB - Dermatology & Venereology, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"T Nagar, Chennai",100% ,(19 votes),₹500
+286,Dr. Geoffrey Vaz,"MD - Dermatology , Venereology & Leprosy, MBBS",10 Years Experience Overall,Dermatologist,"Versova, Mumbai",100% ,(16 votes),₹1000
+287,Dr. Kashish Kalra,"MD - Dermatology , Venereology & Leprosy, MBBS",15 Years Experience Overall  (10 years as specialist),Dermatologist,"Saket, Delhi",96% ,(308 votes),₹1000
+288,Dr. Meryl Rebello,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Malad West, Mumbai",100% ,(13 votes),₹900
+289,Dr. P. Hima Bindu,"MBBS, Diploma in Dermatology",24 Years Experience Overall  (21 years as specialist),Dermatologist,"Malkajgiri, Hyderabad",88% ,(40 votes),₹500
+290,Dr. Radhakrishna Bhat,"MBBS, MD - Dermatology , Venereology & Leprosy",24 Years Experience Overall  (19 years as specialist),Dermatologist,"HSR Layout, Bangalore",95% ,(287 votes),₹1000
+291,Dr. Hari Priya A,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (3 years as specialist),Dermatologist,"Anna Nagar, Chennai",100% ,(93 votes),₹600
+292,Dr. Syeda Nikhat,"MBBS, DVD",25 Years Experience Overall  (22 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",97% ,(78 votes),₹700
+293,Dr. Prajwal Ambekar,"MBBS, DVD",5 Years Experience Overall  (1 year as specialist),Dermatologist,"Pimpri-Chinchwad, Pune",0,0,₹500
+294,Dr. Sneha Sood,"MBBS, DDVL",10 Years Experience Overall  (5 years as specialist),Dermatologist,"Indiranagar, Bangalore",97% ,(113 votes),₹500
+295,Dr. Shaurya Rohatgi,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Andheri West, Mumbai",96% ,(245 votes),₹1000
+296,Dr. Sahana P Raju,"MD - Dermatology , Venereology & Leprosy, DNB - Dermatology, Venereology & Leprosy, MBBS",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Ashoknagar, Bangalore",0,0,₹800
+297,Dr. Rohan Anand,"MBBS, DVD",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Koregaon Park, Pune",92% ,(201 votes),₹500
+298,Dr. Sanvedana M Danej,"MBBS, DVD",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Baner, Pune",0,0,₹500
+299,Dr. Mamatha P Singuru,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall,Dermatologist,"Jeevanbhimanagar, Bangalore",54% ,(13 votes),₹500
+300,Dr. Harshitha Munamala,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Anna Nagar, Chennai",0,0,₹600
+301,Dr. Mariet Zacharias,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (1 year as specialist),Dermatologist,"Jayanagar 5 Block, Bangalore",0,0,₹600
+302,Dr. A.Selvam,"MBBS, MD - Dermatology",27 Years Experience Overall  (22 years as specialist),Dermatologist,"Adyar, Chennai",0,0,₹500
+303,Dr. Juvita Rasquinha,"MBBS, DDVL",17 Years Experience Overall  (14 years as specialist),Dermatologist,"Indiranagar, Bangalore",91% ,(675 votes),₹500
+304,Dr. Sumaiyah Faizan,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall  (1 year as specialist),Dermatologist,"CR Park, Delhi",0,0,₹1000
+305,Dr. Prathyusha,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"KPHB, Hyderabad",97% ,(31 votes),₹600
+306,Dr. Neha V Shah,"MBBS, DVD",13 Years Experience Overall  (10 years as specialist),Dermatologist,"Ghatkopar East, Mumbai",99% ,(276 votes),₹1000
+307,Dr. Lavanya Dudi,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (10 years as specialist),Dermatologist,"Gachibowli, Hyderabad",92% ,(49 votes),₹600
+308,Dr. Sindhujaa Sreekanth S,"MBBS, MD - Dermatology , Venereology & Leprosy",3 Years Experience Overall,Dermatologist,"Koramangala 7 Block, Bangalore",0,0,₹600
+309,Dr. Anju Bijoy Methil,"MBBS, DVD, MD - Dermatology",28 Years Experience Overall  (15 years as specialist),Dermatologist,"Andheri West, Mumbai",96% ,(657 votes),₹1000
+310,Dr. Sejal Saheta,"DNB - Dermatology & Venereology, MBBS",18 Years Experience Overall  (10 years as specialist),Dermatologist,"Powai, Mumbai",95% ,(308 votes),₹900
+311,Dr. Saritha Thotakura,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall,Dermatologist,"Kondapur, Hyderabad",0,0,₹600
+312,Dr. Niharika Dixit,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Dwarka, Delhi",0,0,₹700
+313,Dr. Supraja,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",100% ,(25 votes),₹600
+314,Dr. Gogineni Deepti Walvekar,"MBBS, DDVL",14 Years Experience Overall  (10 years as specialist),Dermatologist,"Marathahalli, Bangalore",91% ,(93 votes),₹600
+315,Dr. Navjot Singh Arora,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Dwarka Sector 7, Delhi",97% ,(337 votes),₹800
+316,Dr. Nitin S Walia,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",36 Years Experience Overall  (29 years as specialist),Dermatologist,"Panchsheel Park, Delhi",96% ,(96 votes),₹1500
+317,Dr. Satyanarayana Murthy Komakula,"MD - Dermatology, MBBS",33 Years Experience Overall  (31 years as specialist),Dermatologist,"AS Rao Nagar, Hyderabad",68% ,(25 votes),₹450
+318,Dr. Deepak Devakar,"MBBS, DDVL",18 Years Experience Overall  (14 years as specialist),Dermatologist,"JP Nagar, Bangalore",98% ,(2445 votes),₹600
+319,Dr. Abhiram Rayapati,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Kumaraswamy Layout, Bangalore",0,0,₹600
+320,Dr. N.Padmaja Nirmala,"MD - Dermatology , Venereology & Leprosy, MBBS",16 Years Experience Overall  (15 years as specialist),Dermatologist,"Pragathi Nagar, Hyderabad",93% ,(191 votes),₹500
+321,Dr. Vanita Mathew,"MBBS, DDVL",15 Years Experience Overall,Dermatologist,"Bannerghatta Road, Bangalore",0,0,₹850
+322,Dr. B Sadhana Reddy,"DDVL, MBBS",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Amberpet, Hyderabad",0,0,₹500
+323,Dr. ABHINEETHA HOSTHOTA,"MBBS, MD - Dermatology",12 Years Experience Overall  (11 years as specialist),Dermatologist,"JP Nagar 7 Phase, Bangalore",0,0,₹600
+324,Dr. Sheelavathi Natraj,"MBBS, DDVL",18 Years Experience Overall  (8 years as specialist),Dermatologist,"JP Nagar, Bangalore",94% ,(1303 votes),₹700
+325,Dr. Kanchan S Topgi,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (3 years as specialist),Dermatologist,"HSR Layout, Bangalore",0,0,₹600
+326,Dr. Prajct Sao,"MBBS, MD - Dermatology",20 Years Experience Overall  (14 years as specialist),Dermatologist,"Lower Parel, Mumbai",93% ,(121 votes),₹1000
+327,Dr. Indu Ballani,"MBBS, MD - Dermatology",17 Years Experience Overall,Dermatologist,"Pusa Road, Delhi",91% ,(69 votes),₹1000
+328,Dr. Prakruthi,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (7 years as specialist),Dermatologist,"HSR Layout, Bangalore",100% ,(49 votes),₹600
+329,Dr. Parthasarathi Dutta Roy,"MBBS, DDVL, MD - Skin,VD & Leprosy",19 Years Experience Overall  (14 years as specialist),Dermatologist,"MG Road, Bangalore",89% ,(4844 votes),₹700
+330,Dr. Hema S,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (5 years as specialist),Dermatologist,"Sadashivanagar, Bangalore",97% ,(34 votes),₹600
+331,Dr. Shamsunder Agarwal,"MBBS, DVD",21 Years Experience Overall,Dermatologist,"Viman Nagar, Pune",0,0,₹500
+332,Dr. Priyadarshini M,"MD - Dermatology, MBBS",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Hebbal, Bangalore",98% ,(65 votes),₹1090
+333,Dr. Pallavi Chandna Rohatagi,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall,Dermatologist,"Panchsheel Park, Delhi",0,0,₹1200
+334,Dr. Jaya Sathvika Varre,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"HRBR Layout, Bangalore",93% ,(44 votes),₹600
+335,Dr. Shikha Shah,"MBBS, DDV",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Andheri West, Mumbai",97% ,(30 votes),₹1000
+336,Dr. Anupama MP,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology, Venereology & Leprosy",14 Years Experience Overall  (9 years as specialist),Dermatologist,"Jayanagar 4 Block, Bangalore",96% ,(23 votes),₹650
+337,Dr. Rashmi Sharma,"DNB - Dermatology & Venereology, MBBS, DDVL",13 Years Experience Overall  (10 years as specialist),Dermatologist,"Panchsheel Park, Delhi",89% ,(44 votes),₹1200
+338,Dr. Hiba Firdous,"MBBS, DDVL",6 Years Experience Overall  (3 years as specialist),Dermatologist,"Shivajinagar, Pune",0,0,₹600
+339,Dr. Malay Mehta,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Vileparle West, Mumbai",96% ,(106 votes),₹1000
+340,Dr. Sana Bhamla,"MBBS, DVD",14 Years Experience Overall  (11 years as specialist),Dermatologist,"Mumbai Central, Mumbai",95% ,(298 votes),₹1500
+341,Dr. Pratik Thacker,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Borivali West, Mumbai",97% ,(33 votes),₹800
+342,Dr. Maxim Dmello,"MBBS, DVD",35 Years Experience Overall  (33 years as specialist),Dermatologist,"Borivali West, Mumbai",97% ,(94 votes),₹850
+343,Dr. U V S Akhila Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹500
+344,Dr. A.K.Chatterjee,"MBBS, DVD",47 Years Experience Overall  (33 years as specialist),Dermatologist,"Ram Nagar, Delhi",0,0,₹700
+345,Dr. P Sravanthi,"MBBS, DDVL",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Nacharam, Hyderabad",0,0,₹600
+346,Dr. D Subhash Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",23 Years Experience Overall  (15 years as specialist),Dermatologist,"Habsiguda, Hyderabad",58% ,(48 votes),₹500
+347,Dr. Deepti  Shrivastava,"MBBS, Diploma in Dermatology",27 Years Experience Overall  (6 years as specialist),Dermatologist,"Anand Vihar, Delhi",95% ,(1022 votes),₹800
+348,Dr. Indira,"MBBS, MD - Dermatology , Venereology & Leprosy",32 Years Experience Overall  (26 years as specialist),Dermatologist,"Ameerpet, Hyderabad",86% ,(14 votes),₹500
+349,Dr. Shravya G,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (11 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",92% ,(634 votes),₹620
+350,Dr. Ambresh Badad,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall,Dermatologist,"Sarjapur Road, Bangalore",97% ,(31 votes),₹300
+351,Dr. Harika Ramisetty,"DDVL, MBBS",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Madhapur, Hyderabad",99% ,(146 votes),₹600
+352,Dr. Meghana,"MBBS, MD - Dermatology",19 Years Experience Overall  (17 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",99% ,(176 votes),₹600
+353,Dr. Deepak Jakhar,"MD - Dermatology, MBBS",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Dwarka Sector 19, Delhi",0,0,₹600
+354,Dr. Haresh  Timbadia,"MD - Skin Diseases, MBBS",41 Years Experience Overall  (38 years as specialist),Dermatologist,"Borivali West, Mumbai",95% ,(201 votes),₹1200
+355,Dr. Sirisha Yanegalla,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Kondapur, Hyderabad",96% ,(170 votes),₹600
+356,Dr. A Aruna Prasad,"MBBS, DVD",26 Years Experience Overall,Dermatologist,"Yeshwanthpur, Bangalore",90% ,(891 votes),₹850
+357,Dr. Archana Bhowmik,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (1 year as specialist),Dermatologist,"Himayat Nagar, Hyderabad",0,0,₹600
+358,Dr. Vinay Kulkarni,"MBBS, MD - Dermatology , Venereology & Leprosy",39 Years Experience Overall,Dermatologist,"Deccan Gymkhana, Pune",91% ,(11 votes),₹500
+359,Dr. Amrutha,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Vijayanagar, Bangalore",70% ,(27 votes),₹1000
+360,Dr. Anju Mangla,"MBBS, MD - Dermatology , Venereology & Leprosy",27 Years Experience Overall  (23 years as specialist),Dermatologist,"Sarita Vihar, Delhi",68% ,(40 votes),₹2000
+361,Dr. Yasmin Abdul Rahman,"MBBS, DDVL",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Whitefield, Bangalore",99% ,(1619 votes),₹600
+362,Dr. Bala Ganpathy,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Velachery, Chennai",0,0,₹500
+363,Dr. Shraddha Patil,"MBBS, DVD",8 Years Experience Overall  (2 years as specialist),Dermatologist,"Pimple Saudagar, Pune",0,0,₹500
+364,Dr. S Dinesh Ponraj,"MBBS, DDVL",13 Years Experience Overall  (12 years as specialist),Dermatologist,"Nanganallur, Chennai",97% ,(32 votes),₹500
+365,Dr. Pooja Arun Bonde,"MBBS, DDVL",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Baner, Pune",100% ,(15 votes),₹600
+366,Dr. Anoop Gopal D S,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (4 years as specialist),Dermatologist,"Koramangala 7 Block, Bangalore",91% ,(43 votes),₹600
+367,Dr. Rajeev Dhir,"MBBS, MD - Dermatology and Venerology",41 Years Experience Overall  (33 years as specialist),Dermatologist,"Powai, Mumbai",77% ,(13 votes),₹1300
+368,Dr. Jyoti Gupta,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (9 years as specialist),Dermatologist,"Panchsheel Enclave, Delhi",98% ,(1031 votes),₹1000
+369,Dr. Sujit Shanshanwal,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Santacruz West, Mumbai",99% ,(992 votes),₹1000
+370,Dr. Tejaswi Cherukuri,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Neelankarai, Chennai",100% ,(13 votes),₹600
+371,Dr. L K Desai,"MD - Dermatology , Venereology & Leprosy, MBBS",27 Years Experience Overall  (17 years as specialist),Dermatologist,"Sopan Baug, Pune",94% ,(305 votes),₹500
+372,Dr. K Tina Priscilla,"MD - Dermatology , Venereology & Leprosy, MBBS",21 Years Experience Overall  (15 years as specialist),Dermatologist,"Manikonda, Hyderabad",0,0,₹500
+373,Dr. J Prasad,"MBBS, DVD",12 Years Experience Overall  (10 years as specialist),Dermatologist,"Indiranagar, Bangalore",97% ,(1323 votes),₹600
+374,Dr. Durga Kalyani,"MBBS, DDVL",12 Years Experience Overall  (9 years as specialist),Dermatologist,"Srinagar Colony, Hyderabad",80% ,(15 votes),₹500
+375,Dr. Vasudha Varda,"MD - Dermatology , Venereology & Leprosy, MBBS",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Jayanagar, Bangalore",0,0,₹600
+376,Dr. Nikhita Shetty,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (3 years as specialist),Dermatologist,"Koramangala 7 Block, Bangalore",0,0,₹600
+377,Dr. R. Sowmiya,"MBBS, MD - Dermatology , Venereology & Leprosy",20 Years Experience Overall  (12 years as specialist),Dermatologist,"Mogappair East, Chennai",97% ,(602 votes),₹300
+378,Dr. Shilpi Bansal,"MD - Dermatology , Venereology & Leprosy, MBBS",5 Years Experience Overall,Dermatologist,"Rohini Sector 3, Delhi",95% ,(39 votes),₹500
+379,Dr. Shirin Bakshi,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall  (2 years as specialist),Dermatologist,"Safdarjung Enclave, Delhi",0,0,₹800
+380,Dr. Gunjan Chavan,"MBBS, DVD",18 Years Experience Overall  (10 years as specialist),Dermatologist,"Pimple Saudagar, Pune",96% ,(245 votes),₹500
+381,Dr. Cordelia Babitha,"MBBS, MD - Dermatology , Venereology & Leprosy",18 Years Experience Overall  (7 years as specialist),Dermatologist,"Besant Nagar, Chennai",100% ,(55 votes),₹600
+382,Dr. Sohandas Shetty B,"MBBS, DDVL",25 Years Experience Overall  (21 years as specialist),Dermatologist,"Bannerghatta Road, Bangalore",96% ,(676 votes),₹450
+383,Dr. Vasavi Latha Chandika,"MBBS, MD - Dermatology , Venereology & Leprosy",17 Years Experience Overall  (7 years as specialist),Dermatologist,"East Marredpally, Hyderabad",0,0,₹700
+384,Dr. Sanjay S Chopra,"MBBS, DVD",11 Years Experience Overall,Dermatologist,"Parel, Mumbai",96% ,(185 votes),₹900
+385,Dr. Radhika S R,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Mahalakshmi Layout, Bangalore",100% ,(21 votes),₹600
+386,Dr. Geetali Kharghoria,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",7 Years Experience Overall  (4 years as specialist),Dermatologist,"Defence Colony, Delhi",0,0,₹800
+387,Dr. G Sree Ranjitha,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Sanath Nagar, Hyderabad",0,0,₹500
+388,Dr. Snehal Navande,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (3 years as specialist),Dermatologist,"Baner Road, Pune",0,0,₹600
+389,Dr. Mudasir Khan,"MBBS, Masters in Clinical Dermatology",28 Years Experience Overall  (9 years as specialist),Dermatologist,"Jasola, Delhi",94% ,(99 votes),₹800
+390,Dr. Shveta Sharma,"MBBS, DVD",17 Years Experience Overall  (4 years as specialist),Dermatologist,"Kharadi, Pune",0,0,₹750
+391,Dr. Mansi Sanghvi,"MBBS, DNB - Dermatology & Venereology",18 Years Experience Overall  (13 years as specialist),Dermatologist,"Powai, Mumbai",97% ,(99 votes),₹1200
+392,Dr. Vindhya Raparla,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Marine Lines, Mumbai",100% ,(52 votes),₹1250
+393,Dr. Ashutosh Shende,"MBBS, MD - Pharmacology, DVD",15 Years Experience Overall  (5 years as specialist),Dermatologist,"Kothrud, Pune",98% ,(111 votes),₹500
+394,Dr. Shruthi C,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Jayanagar 4 Block, Bangalore",0,0,₹600
+395,Dr. Divya Venkumahanty Suma,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Secunderabad, Hyderabad",100% ,(35 votes),₹600
+396,Dr. Vignessh Raj,"MBBS, DDVL",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Whitefield, Bangalore",99% ,(873 votes),₹600
+397,Dr. B Utham Kumar,"MBBS, MD - Dermatology , Venereology & Leprosy",23 Years Experience Overall  (3 years as specialist),Dermatologist,"Chanda Nagar, Hyderabad",99% ,(119 votes),₹500
+398,Dr. Soni Gupta,"MBBS, DDVL",16 Years Experience Overall  (12 years as specialist),Dermatologist,"Panchsheel Park, Delhi",0,0,₹1000
+399,Dr. Chetana,"MD - Dermatology , Venereology & Leprosy, MBBS",18 Years Experience Overall  (14 years as specialist),Dermatologist,"Sadashivanagar, Bangalore",96% ,(46 votes),₹600
+400,Dr. Smitha Warrier,"MBBS, MD - Dermatology and Venerology",19 Years Experience Overall,Dermatologist,"Bannerghatta Road, Bangalore",76% ,(88 votes),₹850
+401,Dr. Shantini Vijayasuriar,"DDVL, MBBS",6 Years Experience Overall,Dermatologist,"Millers Road, Bangalore",0,0,₹1000
+402,Dr. Prachi Saraogi,"MD - Dermatology , Venereology & Leprosy, MBBS",14 Years Experience Overall  (9 years as specialist),Dermatologist,"Malad East, Mumbai",99% ,(210 votes),₹800
+403,Dr. Latha A Muthu,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (1 year as specialist),Dermatologist,"Adyar, Chennai",0,0,₹600
+404,Dr. Nimesh Mehta,"MBBS, MD - Dermatology",26 Years Experience Overall  (25 years as specialist),Dermatologist,"Mahim, Mumbai",89% ,(19 votes),₹1800
+405,Dr. Jatin Sidhwa,"MBBS, MD - Dermatology",7 Years Experience Overall  (2 years as specialist),Dermatologist,"Vasant Kunj, Delhi",100% ,(47 votes),₹800
+406,Dr. Vijaya Deepika,"MD - Dermatology, MBBS",12 Years Experience Overall  (10 years as specialist),Dermatologist,"Kondapur, Hyderabad",96% ,(76 votes),₹700
+407,Dr. Hima Bindu,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (6 years as specialist),Dermatologist,"Himayat Nagar, Hyderabad",100% ,(44 votes),₹600
+408,Dr. Shikha Chopade,"MBBS, DDVL",14 Years Experience Overall  (11 years as specialist),Dermatologist,"Aundh, Pune",97% ,(123 votes),₹500
+409,Dr. Ravindra Dargainya,"MBBS, DDV",14 Years Experience Overall,Dermatologist,"Malad West, Mumbai",79% ,(174 votes),₹700
+410,Dr. Shraddha Kololgi,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (3 years as specialist),Dermatologist,"Jayanagar 4 Block, Bangalore",100% ,(34 votes),₹600
+411,Dr. P. Jyoti,"MBBS, DDVL, DNB - Dermatology, Venereology & Leprosy",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Gachibowli, Hyderabad",100% ,(19 votes),₹600
+412,Dr. Gaurav Garg,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Green Park, Delhi",92% ,(630 votes),₹1200
+413,Dr. Poojita B S,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall,Dermatologist,"Jayanagar 4 Block, Bangalore",0,0,₹650
+414,Dr. K Rama krishna,"DDVL, MBBS",16 Years Experience Overall  (14 years as specialist),Dermatologist,"LB Nagar, Hyderabad",91% ,(22 votes),₹400
+415,Dr. Sachith Abraham,"MD - Skin & VD, MBBS",29 Years Experience Overall  (24 years as specialist),Dermatologist,"Koramangala, Bangalore",95% ,(1381 votes),₹1200
+416,Dr. Rethvi Tej,"MD - Dermatology , Venereology & Leprosy, MBBS, DNB - Dermatology, Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Sadashivanagar, Bangalore",98% ,(55 votes),₹600
+417,Dr. Jai Dhingra,"MBBS, DNB - Dermatology & Venereology",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Pitampura, Delhi",99% ,(145 votes),₹500
+418,Dr. Harini Irri,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (1 year as specialist),Dermatologist,"KPHB, Hyderabad",0,0,₹600
+419,Dr. Apeksha Chaudhari,"MBBS, DVD",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Marol, Mumbai",98% ,(86 votes),₹800
+420,Dr. Raja Sekhar M,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"SR Nagar, Hyderabad",0,0,₹500
+421,Dr. Hetal Jobanputra,"MBBS, DVD, FCPS - Dermatology & Venereology, DNB - Dermatology & Venereology",17 Years Experience Overall  (16 years as specialist),Dermatologist,"Baner, Pune",97% ,(675 votes),₹600
+422,Dr. Kavish Chouhan,"MD - Dermatology and Venerology, MBBS",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Defence Colony, Delhi",91% ,(1336 votes),₹1500
+423,Dr. Nisha Shokeen,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Panchsheel Park, Delhi",0,0,₹1000
+424,Dr. Kiran Kattishettar,"MBBS, MD - Dermatology",32 Years Experience Overall,Dermatologist,"Hebbal, Bangalore",0,0,₹1000
+425,Dr. Prof.Venugopal Reddy,"MBBS, MD - Dermatology",28 Years Experience Overall  (23 years as specialist),Dermatologist,"Thousand Lights, Chennai",96% ,(98 votes),₹1000
+426,Dr. Gunjan Verma,"MD - Dermatology , Venereology & Leprosy, MBBS",10 Years Experience Overall  (7 years as specialist),Dermatologist,"Dwarka, Delhi",96% ,(89 votes),₹500
+427,Dr. Ashwini Kedar,"MBBS, DDVL",17 Years Experience Overall  (15 years as specialist),Dermatologist,"Old Rajendra Nagar, Delhi",95% ,(40 votes),₹500
+428,Dr. Nataraj Perumalla,"MBBS, MD - Dermatology , Venereology & Leprosy",18 Years Experience Overall  (14 years as specialist),Dermatologist,"Alwal, Hyderabad",96% ,(47 votes),₹500
+429,Dr. Sajjan R Agarwal,"MBBS, MD - Skin Diseases",44 Years Experience Overall,Dermatologist,"Panjagutta, Hyderabad",92% ,(555 votes),₹700
+430,Dr. Deepam J. Shah,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (9 years as specialist),Dermatologist,"Opera House, Mumbai",96% ,(484 votes),₹1500
+431,Dr. Jyothi Menon,"MBBS, DDVL",21 Years Experience Overall  (19 years as specialist),Dermatologist,"Koramangala 7 Block, Bangalore",96% ,(53 votes),₹600
+432,Dr. Poovamma A S,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (5 years as specialist),Dermatologist,"HSR Layout, Bangalore",95% ,(19 votes),₹600
+433,Dr. S. Kiran,"MBBS, DDVL, DNB - Dermatology & Venereology",22 Years Experience Overall  (15 years as specialist),Dermatologist,"Kukatpally, Hyderabad",99% ,(1757 votes),₹700
+434,Dr. Akhilesh A,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (9 years as specialist),Dermatologist,"New BEL Road, Bangalore",95% ,(389 votes),₹500
+435,Dr. Suryaprabha P,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Adyar, Chennai",100% ,(86 votes),₹600
+436,Dr. Akhila Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall,Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹600
+437,Dr. Pilli  Manasa Veena,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (4 years as specialist),Dermatologist,"Himayat Nagar, Hyderabad",0,0,₹600
+438,Dr. K Anusha,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Kondapur, Hyderabad",0,0,₹500
+439,Dr. B. Ashwini,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"KPHB, Hyderabad",100% ,(17 votes),₹600
+440,Dr. Annie Flora,"MBBS, DDVL",17 Years Experience Overall  (12 years as specialist),Dermatologist,"MRC Nagar, Chennai",97% ,(65 votes),₹1200
+441,Dr. Sanjay S Desai,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (7 years as specialist),Dermatologist,"RT Nagar, Bangalore",94% ,(66 votes),₹500
+442,Dr. Sonal Chavan,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (9 years as specialist),Dermatologist,"Pimple Saudagar, Pune",90% ,(1319 votes),₹600
+443,Dr. Vibha Murarka,"MBBS, DVD",19 Years Experience Overall  (12 years as specialist),Dermatologist,"Girgaon, Mumbai",99% ,(395 votes),₹1500
+444,Dr. Latika Arya,"MBBS, MD - Dermatology and Venerology",29 Years Experience Overall  (25 years as specialist),Dermatologist,"Defence Colony, Delhi",97% ,(1072 votes),₹2200
+445,Dr. Varsha Bodke,"MBBS, DVD, DNB - Dermatology & Venereology",26 Years Experience Overall  (23 years as specialist),Dermatologist,"Vishrantwadi, Pune",88% ,(33 votes),₹500
+446,Dr. Arundathi Nagaraj,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Indiranagar, Bangalore",95% ,(381 votes),₹700
+447,Dr. Ranjan Upadhyay,"MBBS, DNB - Dermatology & Venereology, DDVL",18 Years Experience Overall  (15 years as specialist),Dermatologist,"Vasant Kunj, Delhi",97% ,(1172 votes),₹1500
+448,Dr. Sankeerth Vijayakumar,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"HSR Layout, Bangalore",96% ,(425 votes),₹600
+449,Dr. Shruti Gupta,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Kamla Nagar, Delhi",99% ,(2286 votes),₹1000
+450,Dr. Prateek Sondhi,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"South Extension 2, Delhi",97% ,(553 votes),₹1200
+451,Dr. Shashidhar T,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (10 years as specialist),Dermatologist,"Jayanagar 4 Block, Bangalore",98% ,(5356 votes),₹700
+452,Dr. Rashmi Soni Lohiya,"MBBS, Diploma in Dermatology, DNB - Dermatology & Venereology, MD - Dermatology",15 Years Experience Overall  (14 years as specialist),Dermatologist,"Senapati Bapat Marg, Pune",91% ,(186 votes),₹700
+453,Dr. Deepthi Atmakuri,"DDVL, MBBS",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",100% ,(22 votes),₹700
+454,Dr. Namrata Ghai,"MBBS, DDVL",21 Years Experience Overall  (18 years as specialist),Dermatologist,"Bali Nagar, Delhi",92% ,(63 votes),₹1000
+455,Dr. Veenu Jindal,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (3 years as specialist),Dermatologist,"Panchsheel Park, Delhi",100% ,(11 votes),₹800
+456,Dr. Poorva Shah,"MD - Dermatology , Venereology & Leprosy, MBBS",15 Years Experience Overall  (10 years as specialist),Dermatologist,"Camp, Pune",96% ,(23 votes),₹500
+457,Dr. S Roohi Nazneen,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (5 years as specialist),Dermatologist,"Harlur, Bangalore",100% ,(13 votes),₹500
+458,Dr. Mukesh Ramnane,"MBBS, MD - Dermatology , Venereology & Leprosy, DVD",39 Years Experience Overall  (37 years as specialist),Dermatologist,"Old Airport Road, Bangalore",74% ,(31 votes),₹750
+459,Dr. Amrendra kumar,"MBBS, MD - Dermatology and Venerology",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Defence Colony, Delhi",92% ,(1105 votes),₹1500
+460,Dr. Maithili Kamat,"MBBS, MD - Skin Diseases",25 Years Experience Overall  (24 years as specialist),Dermatologist,"Mahim, Mumbai",96% ,(23 votes),₹1800
+461,Dr. Keerthi Subramaniam,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",100% ,(24 votes),₹600
+462,Dr. Ashish B Shetty,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Bilekahalli, Bangalore",99% ,(104 votes),₹400
+463,Dr. Nivedita Raveendran,"MD - Dermatology , Venereology & Leprosy, MBBS",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Adyar, Chennai",97% ,(62 votes),₹600
+464,Dr. Navya Sri Kadiyala,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",0,0,₹600
+465,Dr. Anuja Jadhav,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Dadar, Mumbai",98% ,(46 votes),₹800
+466,Dr. Bantwal Priya Baliga,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (2 years as specialist),Dermatologist,"HSR Layout, Bangalore",0,0,₹500
+467,Dr. Sudheendra Udbalker,"MBBS, DNB - Dermatology & Venereology, DDVL",21 Years Experience Overall  (17 years as specialist),Dermatologist,"Bannerghatta Road, Bangalore",97% ,(199 votes),₹850
+468,Dr. Aniket  S Deshmane,"MBBS, DDV",11 Years Experience Overall  (4 years as specialist),Dermatologist,"Bavdhan, Pune",98% ,(54 votes),₹500
+469,Dr. Ravichandran,"MBBS, Diploma in Dermatology, MD - Dermatology",41 Years Experience Overall  (38 years as specialist),Dermatologist,"Teynampet, Chennai",81% ,(31 votes),₹1000
+470,Dr. Manisha Kshirsagar,"MBBS, DVD",18 Years Experience Overall  (13 years as specialist),Dermatologist,"Vikhroli East, Mumbai",93% ,(46 votes),₹850
+471,Dr. Shareefa Chause,"MBBS, DVD",9 Years Experience Overall  (2 years as specialist),Dermatologist,"Chembur, Mumbai",0,0,₹1200
+472,Dr. Syed Shakeel,"MBBS, D.V.D (Skin & STD)",30 Years Experience Overall  (26 years as specialist),Dermatologist,"Kilpauk, Chennai",100% ,(76 votes),₹600
+473,Dr. Sai Sandeepthi,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (3 years as specialist),Dermatologist,"Nallagandla, Hyderabad",100% ,(23 votes),₹500
+474,Dr. Amit Nagar,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Panchsheel Park, Delhi",0,0,₹1000
+475,Dr. Nandini Teli,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Wakad, Pune",91% ,(952 votes),₹800
+476,Dr. Abdul Mateen M Ayyub,"DVD, MBBS",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Wanowrie, Pune",100% ,(36 votes),₹500
+477,Dr. Prakash Kumar Khute,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Greater Kailash Part 1, Delhi",98% ,(183 votes),₹1000
+478,Dr. Varsha C B,"MBBS, DVD",4 Years Experience Overall,Dermatologist,"Sarjapur Road, Bangalore",0,0,₹650
+479,Dr. Subhashini Mohan,"MD - Dermatology , Venereology & Leprosy, MBBS",16 Years Experience Overall  (10 years as specialist),Dermatologist,"Alwarpet, Chennai",95% ,(43 votes),₹700
+480,Dr. Rajeshwari,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (11 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",83% ,(948 votes),₹700
+481,Dr. Srividhya C M,"MBBS, MD - Dermatology",30 Years Experience Overall  (19 years as specialist),Dermatologist,"Velachery, Chennai",0,0,₹600
+482,Dr. Kala Vimal,"MBBS, DDVL",21 Years Experience Overall  (17 years as specialist),Dermatologist,"Indiranagar, Bangalore",81% ,(21 votes),₹500
+483,Dr. Sapna Parekh,"MD - Physician, DVD",10 Years Experience Overall  (9 years as specialist),Dermatologist,"Bopodi, Pune",0,0,₹500
+484,Dr. Janet Alexander Castelino,"MBBS, MD - Dermatology",29 Years Experience Overall  (8 years as specialist),Dermatologist,"HSR Layout, Bangalore",92% ,(8004 votes),₹1000
+485,Dr. Sarika Holmukhe,"DNB - Dermatology & Venereology, MBBS, DDVL",17 Years Experience Overall  (14 years as specialist),Dermatologist,"Andheri West, Mumbai",95% ,(295 votes),₹1000
+486,Dr. Abhilasha M D,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",8 Years Experience Overall  (4 years as specialist),Dermatologist,"JP Nagar, Bangalore",97% ,(138 votes),₹750
+487,Dr. Suvina attavar,"DDVL, MBBS",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Whitefield, Bangalore",98% ,(327 votes),₹600
+488,Dr. Lavina Mittal,"MBBS, MD - Dermatology , Venereology & Leprosy",2 Years Experience Overall,Dermatologist,"HSR Layout, Bangalore",0,0,₹600
+489,Dr. Apoorva Raghavan,"MD - Dermatology , Venereology & Leprosy, MBBS",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Kilpauk, Chennai",0,0,₹700
+490,Dr. Indu Kumari,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Malviya Nagar, Delhi",93% ,(30 votes),₹1000
+491,Dr. Nidhi Singh,"MBBS, MD - Dermatology , Venereology & Leprosy",17 Years Experience Overall  (12 years as specialist),Dermatologist,"Perumbakkam, Chennai",100% ,(13 votes),₹700
+492,Dr. Srushanth Mukka,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (4 years as specialist),Dermatologist,"Nanakramguda, Hyderabad",0,0,₹600
+493,Dr. Aradhana Sood,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",22 Years Experience Overall  (20 years as specialist),Dermatologist,"Hebbal, Bangalore",0,0,₹1090
+494,Dr. Eswari.L,"MBBS, MD - Dermatology , Venereology & Leprosy",21 Years Experience Overall  (14 years as specialist),Dermatologist,"Jayanagar 4 Block, Bangalore",0,0,₹500
+495,Dr. Uday Khopkar,"MBBS, DNB - Dermatology & Venereology",38 Years Experience Overall  (32 years as specialist),Dermatologist,"Parel, Mumbai",95% ,(1529 votes),₹3100
+496,Dr. Harish Prasad B.R,"MD - Dermatology , Venereology & Leprosy, MBBS",15 Years Experience Overall  (9 years as specialist),Dermatologist,"BTM Layout, Bangalore",96% ,(649 votes),₹700
+497,Dr. Sruthi Gondi,"MD - Dermatology, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",93% ,(482 votes),₹600
+498,Dr. Akshi Bansal,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Whitefield, Bangalore",0,0,₹600
+499,Dr. Ramanan,"MBBS, MD - Dermatology , Venereology & Leprosy, Diploma in Dermatology",49 Years Experience Overall  (44 years as specialist),Dermatologist,"Alwarpet, Chennai",93% ,(15 votes),₹500
+500,Dr. Vikas Halwai,"MBBS, DVD",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Chinchpokli, Mumbai",94% ,(94 votes),₹800
+501,Dr. Kamal,"MBBS, DVD",32 Years Experience Overall  (28 years as specialist),Dermatologist,"Himayat Nagar, Hyderabad",99% ,(374 votes),₹500
+502,Dr. P. Haritha,"MBBS, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall  (11 years as specialist),Dermatologist,"Alwal, Hyderabad",79% ,(42 votes),₹500
+503,Dr. Ujjvala Jadhav,"FCPS - Dermatology, Venereology & Leprosy, DVD, MBBS",23 Years Experience Overall  (20 years as specialist),Dermatologist,"Goregaon East, Mumbai",93% ,(159 votes),₹900
+504,Dr. Kavya H Reganti,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall,Dermatologist,"JP Nagar, Bangalore",0,0,₹600
+505,Dr. Resham Vasani Bhojani,"MBBS, MD - Dermatology , Venereology & Leprosy, DDVL, FCPS - Dermatology & Venereology",23 Years Experience Overall  (13 years as specialist),Dermatologist,"Matunga, Mumbai",99% ,(496 votes),₹1500
+506,Dr. Pradeep Bansal,"MBBS, MD - Skin & VD",19 Years Experience Overall  (14 years as specialist),Dermatologist,"Shalimar Bagh, Delhi",97% ,(824 votes),₹900
+507,Dr. Vennela Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",4 Years Experience Overall  (1 year as specialist),Dermatologist,"Whitefield, Bangalore",0,0,₹600
+508,Dr. Rashmi Aderao,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Kothrud, Pune",86% ,(63 votes),₹500
+509,Dr. Nishant Jain,DDVL,6 Years Experience Overall,Dermatologist,"Ameerpet, Hyderabad",0,0,₹500
+510,Dr. Sindhu.P.S,"MBBS, DDVL, DNB - Dermatology & Venereology",12 Years Experience Overall  (11 years as specialist),Dermatologist,"Bellandur, Bangalore",0,0,₹600
+511,Dr. Rashmika Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Indiranagar, Bangalore",94% ,(36 votes),₹600
+512,Dr. Varsha S Patil,"MBBS, DDVL",13 Years Experience Overall  (7 years as specialist),Dermatologist,"Kalyan Nagar, Bangalore",97% ,(62 votes),₹700
+513,Dr. P Suprith Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (7 years as specialist),Dermatologist,"Hitech City, Hyderabad",95% ,(56 votes),₹500
+514,Dr. Vivek Mehta,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (16 years as specialist),Dermatologist,"East Of Kailash, Delhi",96% ,(858 votes),₹1500
+515,Dr. Rahul Siraskar,"MBBS, DDVL",13 Years Experience Overall  (5 years as specialist),Dermatologist,"Sion, Mumbai",96% ,(27 votes),₹1000
+516,Dr. Priyanka Ghuge Avhad,"MBBS, DNB - Dermatology & Venereology",12 Years Experience Overall  (11 years as specialist),Dermatologist,"Sion, Mumbai",94% ,(36 votes),₹800
+517,Dr. Chandrashekara Aithal,"MBBS, DVD",32 Years Experience Overall  (26 years as specialist),Dermatologist,"BTM Layout 2nd Stage, Bangalore",86% ,(165 votes),₹500
+518,Dr. Gauri Patil,"DDVL, MBBS",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Dadar, Mumbai",91% ,(11 votes),₹700
+519,Dr. Vaishali Kanthi,"MBBS, MD - Skin Diseases",24 Years Experience Overall  (18 years as specialist),Dermatologist,"Bhandup West, Mumbai",87% ,(187 votes),₹800
+520,Dr. Renu Madan,"MBBS, MD - Dermatology",24 Years Experience Overall  (21 years as specialist),Dermatologist,"Dwarka, Delhi",97% ,(77 votes),₹700
+521,Dr. Dipali Chavan,"MBBS, DDVL",14 Years Experience Overall  (12 years as specialist),Dermatologist,"Kothrud, Pune",0,0,₹500
+522,Dr. Ravali Yalamanchili,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",98% ,(114 votes),₹500
+523,Dr. Sowmya M,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Sarjapur Road, Bangalore",95% ,(66 votes),₹700
+524,Dr. Ravi Kothari,"MBBS, MD - Dermatology , Venereology & Leprosy",19 Years Experience Overall  (14 years as specialist),Dermatologist,"Aundh, Pune",86% ,(598 votes),₹500
+525,Dr. Anushya Shreya Baddula,"MBBS, MD - Dermatology , Venereology & Leprosy",6 Years Experience Overall  (2 years as specialist),Dermatologist,"Jubilee Hills, Hyderabad",100% ,(17 votes),₹500
+526,Dr. Abhijna Rai,"MD - Dermatology , Venereology & Leprosy, MBBS",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Whitefield, Bangalore",95% ,(19 votes),₹600
+527,Dr. Mukesh Girdhar,"MBBS, MD - Dermatology",35 Years Experience Overall  (32 years as specialist),Dermatologist,"Patparganj, Delhi",76% ,(41 votes),₹1200
+528,Dr. Mikki Singh,"MBBS, DDVL",16 Years Experience Overall  (15 years as specialist),Dermatologist,"Indiranagar, Bangalore",0,0,₹1000
+529,Dr. Dube Aishwarya Suhas,"MBBS, DVD",4 Years Experience Overall,Dermatologist,"Kharadi, Pune",0,0,₹550
+530,Dr. Sharmila Nayak,"MBBS, DVD",24 Years Experience Overall,Dermatologist,"Andheri West, Mumbai",98% ,(303 votes),₹1500
+531,Dr. Mallikarjun,"MBBS, DDVL",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Chanda Nagar, Hyderabad",97% ,(71 votes),₹400
+532,Dr. Swetha Gowda,"MBBS, MD - Dermatology",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Indiranagar, Bangalore",92% ,(88 votes),₹600
+533,Dr. Meera Sreedhar,"MBBS, MD - Skin & VD",28 Years Experience Overall,Dermatologist,"Indiranagar, Bangalore",0,0,₹500
+534,Dr. Ajita Bagai,"MBBS, MD - Skin & VD, DNB - Dermatology & Venereology",24 Years Experience Overall  (21 years as specialist),Dermatologist,"Panchsheel Park, Delhi",85% ,(62 votes),₹1600
+535,Dr. Sumit Gupta,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Punjabi Bagh, Delhi",99% ,(736 votes),₹1000
+536,Dr. Senthil Sivaprakasam,"MBBS, MD - Dermatology",17 Years Experience Overall  (8 years as specialist),Dermatologist,"Kilpauk, Chennai",99% ,(81 votes),₹600
+537,Dr. Kiran Katkar,"MBBS, DVD, MD - Skin Diseases",37 Years Experience Overall  (33 years as specialist),Dermatologist,"Dadar West, Mumbai",93% ,(584 votes),₹1000
+538,Dr. Pradnya Manwatkar,"MBBS, DDVL",17 Years Experience Overall  (14 years as specialist),Dermatologist,"Mahim, Mumbai",98% ,(582 votes),₹1500
+539,Dr. Rajarajeswari Patil,"DVD, MBBS",15 Years Experience Overall,Dermatologist,"Prabhat Road, Pune",97% ,(95 votes),₹700
+540,Dr. Ravi Kumar Joshi,"MBBS, MD - Dermatology , Venereology & Leprosy",39 Years Experience Overall,Dermatologist,"Sarita Vihar, Delhi",0,0,₹2000
+541,Dr. Shruthi,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (3 years as specialist),Dermatologist,"Suchitra Circle, Hyderabad",0,0,₹500
+542,Dr. Sonia Mangal,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Panchsheel Park, Delhi",96% ,(231 votes),₹1500
+543,Dr. Kutti Sai Swetha,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall  (2 years as specialist),Dermatologist,"Velachery, Chennai",97% ,(32 votes),₹500
+544,Dr. Mounika Ketha,"MD - Dermatology , Venereology & Leprosy, MBBS",9 Years Experience Overall  (6 years as specialist),Dermatologist,"Manikonda, Hyderabad",97% ,(76 votes),₹500
+545,Dr. Sanjay Thejaswi,"MBBS, MD - Dermatology , Venereology & Leprosy",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Singasandra, Bangalore",82% ,(17 votes),₹500
+546,Dr. Aishwarya Radhakrishna,"MBBS, DDVL",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Jayanagar 5 Block, Bangalore",91% ,(106 votes),₹600
+547,Dr. S.B Shrivastava,"MBBS, MD - Dermatology , Venereology & Leprosy",47 Years Experience Overall  (35 years as specialist),Dermatologist,"Paschim Vihar, Delhi",90% ,(30 votes),₹800
+548,Dr. Gayatri Bharadwaj,"MBBS, DVD",32 Years Experience Overall  (29 years as specialist),Dermatologist,"Mulund West, Mumbai",84% ,(296 votes),₹1500
+549,Dr. Akshitha Ratnakara Shetty,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Indiranagar, Bangalore",0,0,₹600
+550,Dr. Rajshree Patil,"MBBS, DNB - Dermatology & Venereology",24 Years Experience Overall,Dermatologist,"Aundh, Pune",90% ,(552 votes),₹500
+551,Dr. Sindhura Mandava,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (8 years as specialist),Dermatologist,"T Nagar, Chennai",90% ,(105 votes),₹500
+552,Dr. Khayati Singla,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Himayat Nagar, Hyderabad",100% ,(30 votes),₹600
+553,Dr. Sirisha Singh,"MBBS, MD - Dermatology , Venereology & Leprosy",28 Years Experience Overall  (22 years as specialist),Dermatologist,"Greater Kailash Part 1, Delhi",98% ,(474 votes),₹1500
+554,Dr. Priya J Talageri,"MBBS, MD - Dermatology , Venereology & Leprosy",17 Years Experience Overall  (12 years as specialist),Dermatologist,"Marathahalli, Bangalore",98% ,(5446 votes),₹650
+555,Dr. Ashalatha,"DDVL, MBBS",14 Years Experience Overall  (11 years as specialist),Dermatologist,"Banashankari 3rd Stage, Bangalore",91% ,(43 votes),₹500
+556,Dr. Rameshwar Gutte,"MBBS, MD - Dermatology, DVD",18 Years Experience Overall  (12 years as specialist),Dermatologist,"Kanjurmarg, Mumbai",95% ,(181 votes),₹500
+557,Dr. J. Rakee Purnima,"MBBS, DDVL",13 Years Experience Overall,Dermatologist,"LB Nagar, Hyderabad",99% ,(405 votes),₹400
+558,Dr. Parul Singh,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (2 years as specialist),Dermatologist,"Kalkaji, Delhi",0,0,₹1000
+559,Dr. Kavya K,"MBBS, MD - Dermatology , Venereology & Leprosy",9 Years Experience Overall  (5 years as specialist),Dermatologist,"Horamavu, Bangalore",99% ,(206 votes),₹400
+560,Dr. Jyothsna,"MBBS, DDVL",11 Years Experience Overall,Dermatologist,"Saligramam, Chennai",96% ,(226 votes),₹700
+561,Dr. Swetha Gutha,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (4 years as specialist),Dermatologist,"Harlur, Bangalore",97% ,(179 votes),₹500
+562,Dr. Prasad Wankhede,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Worli, Mumbai",98% ,(41 votes),₹1200
+563,Dr. Manasa Chintawar,"DDVL, MBBS",7 Years Experience Overall,Dermatologist,"Secunderabad, Hyderabad",0,0,₹500
+564,Dr. Shilpa,"MBBS, DDVL",18 Years Experience Overall  (7 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",92% ,(83 votes),₹500
+565,Dr. Tanuja Tamhankar,"MBBS, DDVL",15 Years Experience Overall  (12 years as specialist),Dermatologist,"Kothrud, Pune",94% ,(149 votes),₹600
+566,Dr. Pallavi Ahire Shelke,"MBBS, MD - Dermatology, DNB - Dermatology & Venereology, DVD",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Baner, Pune",97% ,(1405 votes),₹600
+567,Dr. Bhavna Mangla,"MBBS, DVD",20 Years Experience Overall  (17 years as specialist),Dermatologist,"Pitampura, Delhi",99% ,(243 votes),₹1000
+568,Dr. Hari Kishan Kumar,"MD - Dermatology , Venereology & Leprosy, MBBS",16 Years Experience Overall  (15 years as specialist),Dermatologist,"Kengeri, Bangalore",83% ,(63 votes),₹700
+569,Dr. Pradeep Kumari,"MBBS, DVD, FCPS - Dermatology, Venereology & Leprosy, DNB - Dermatology & Venereology",19 Years Experience Overall  (15 years as specialist),Dermatologist,"Viman Nagar, Pune",96% ,(2100 votes),₹700
+570,Dr. Sumit Sethi,"MBBS, MD - Dermatology , Venereology & Leprosy, DNB - Dermatology & Venereology",11 Years Experience Overall  (8 years as specialist),Dermatologist,"Janakpuri, Delhi",97% ,(147 votes),₹700
+571,Dr. Niranjana Raj,"MBBS, MD - Dermatology",13 Years Experience Overall  (9 years as specialist),Dermatologist,"Whitefield, Bangalore",99% ,(3372 votes),₹750
+572,Dr. Safia Tanyeem,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Koramangala 5 Block, Bangalore",92% ,(78 votes),₹700
+573,Dr. Brahmita Monga,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall,Dermatologist,"Ashok Vihar, Delhi",0,0,₹700
+574,Dr. Jolly Shah Kapadia,"DNB - Dermatology & Venereology, MBBS, DVD",23 Years Experience Overall  (21 years as specialist),Dermatologist,"Mulund West, Mumbai",96% ,(1068 votes),₹900
+575,Dr. Dhanraj Chavan,"MBBS, MD - Dermatology",7 Years Experience Overall  (3 years as specialist),Dermatologist,"Prabhat Road, Pune",100% ,(12 votes),₹700
+576,Dr. P. Madhavi Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",22 Years Experience Overall  (16 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",99% ,(218 votes),₹600
+577,Dr. V Sreelalitha,"MBBS, DVD",10 Years Experience Overall  (4 years as specialist),Dermatologist,"Whitefield, Bangalore",83% ,(35 votes),₹600
+578,Dr. Sandeep G.S.S,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (10 years as specialist),Dermatologist,"Banjara Hills, Hyderabad",100% ,(83 votes),₹800
+579,Dr. Soni Nanda,"MD - Dermatology and Venerology, MBBS",21 Years Experience Overall,Dermatologist,"Mayur Vihar Ph-I, Delhi",97% ,(590 votes),₹1000
+580,Dr. Vaidehi Saigaonkar Newaskar,"MBBS, Diploma in Dermatology",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Bandra West, Mumbai",100% ,(139 votes),₹1000
+581,Dr. Ajay Nimbalkar,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Bandra West, Mumbai",96% ,(99 votes),₹1200
+582,Dr. Pallavi Sule,"MBBS, DDVL",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Powai, Mumbai",97% ,(63 votes),₹1000
+583,Dr. Vivek Singh,"MBBS, DDV",13 Years Experience Overall  (3 years as specialist),Dermatologist,"Burari, Delhi",100% ,(71 votes),₹650
+584,Dr. Rahul Shetty,"MBBS, MD - Dermatology",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Vileparle West, Mumbai",97% ,(38 votes),₹800
+585,Dr. Swagata Chakrabarty,"MBBS, MD - Dermatology",12 Years Experience Overall,Dermatologist,"Indiranagar, Bangalore",0,0,₹650
+586,Dr. Samatha M Swamy,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (6 years as specialist),Dermatologist,"Bellandur, Bangalore",100% ,(25 votes),₹650
+587,Dr. Devinder M. Mahajan,"MBBS, MD - Dermatology and Venerology",45 Years Experience Overall  (31 years as specialist),Dermatologist,"Sarita Vihar, Delhi",69% ,(26 votes),₹2000
+588,Dr. Ravi N. Hiremagalore,"MBBS, MD - Dermatology, DVD",27 Years Experience Overall  (19 years as specialist),Dermatologist,"Old Airport Road, Bangalore",94% ,(420 votes),₹900
+589,Dr. Priyanka Reddy,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Kalyan Nagar, Bangalore",92% ,(481 votes),₹1500
+590,Dr. Raina Nahar,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (9 years as specialist),Dermatologist,"Andheri West, Mumbai",92% ,(312 votes),₹1000
+591,Dr. Gaurav Bhardwaj,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (7 years as specialist),Dermatologist,"Punjabi Bagh, Delhi",100% ,(69 votes),₹1000
+592,Dr. Arun Kumar S,"MBBS, DVD, DNB - Dermatology & Venereology",25 Years Experience Overall,Dermatologist,"Old Airport Road, Bangalore",87% ,(53 votes),₹750
+593,Dr. Sunil Ghate,"MD - Dermatology, MBBS, Diploma in Dermatology",22 Years Experience Overall,Dermatologist,"Chembur East, Mumbai",79% ,(28 votes),₹1000
+594,Dr. Sai Pawar,"MD - Dermatology , Venereology & Leprosy, MBBS",5 Years Experience Overall,Dermatologist,"Malad West, Mumbai",0,0,₹1000
+595,Dr. Neha Tandon,"MBBS, DVD, DNB - Dermatology & Venereology",15 Years Experience Overall  (9 years as specialist),Dermatologist,"Dwarka Sector 6, Delhi",0,0,₹900
+596,Dr. Asmita Dhekne Chebbi,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (10 years as specialist),Dermatologist,"Koramangala 5 Block, Bangalore",98% ,(504 votes),₹600
+597,Dr. Anup Kumar Lahari,"MBBS, MD - Dermatology",38 Years Experience Overall,Dermatologist,"Secunderabad, Hyderabad",86% ,(22 votes),₹600
+598,Dr. Ritu Gupta,"MBBS, MD - Dermatology",22 Years Experience Overall  (18 years as specialist),Dermatologist,"Surajmal Vihar, Delhi",86% ,(320 votes),₹1000
+599,Dr. Shreyans Sankhala,"MBBS, DVD",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Koregaon Park, Pune",99% ,(130 votes),₹400
+600,Dr. Mithali Jage,"MD - Dermatology , Venereology & Leprosy, MBBS",8 Years Experience Overall  (5 years as specialist),Dermatologist,"Sion, Mumbai",99% ,(72 votes),₹1000
+601,Dr. Himabindu,"MBBS, DDVL",16 Years Experience Overall  (10 years as specialist),Dermatologist,"Manikonda, Hyderabad",93% ,(27 votes),₹500
+602,Dr. Manoj Srinivas,"MBBS, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"Indiranagar, Bangalore",96% ,(24 votes),₹600
+603,Dr. Sharanya Babu K,"MBBS, DDVL",13 Years Experience Overall  (5 years as specialist),Dermatologist,"Basavanagudi, Bangalore",96% ,(27 votes),₹600
+604,Dr. Ramya Krishna C,"MBBS, MD - Dermatology , Venereology & Leprosy",5 Years Experience Overall  (3 years as specialist),Dermatologist,"Secunderabad, Hyderabad",0,0,₹600
+605,Dr. Meghana Karlekar.R,"MBBS, DDVL",8 Years Experience Overall  (3 years as specialist),Dermatologist,"Whitefield, Bangalore",0,0,₹600
+606,Dr. Madhur Eshwar Rao Basude,"MBBS, DDVL, CCT - Dermatology",8 Years Experience Overall  (7 years as specialist),Dermatologist,"Nigdi, Pune",0,0,₹600
+607,Dr. Vandhana Manoharan,"MD - Dermatology , Venereology & Leprosy, MBBS",1 Year Experience Overall,Dermatologist,"HRBR Layout, Bangalore",0,0,₹600
+608,Dr. U Brahmaiah,"MBBS, DDVL",9 Years Experience Overall  (4 years as specialist),Dermatologist,"Secunderabad, Hyderabad",100% ,(37 votes),₹600
+609,Dr. Mohd Asif,"MBBS, MD - Dermatology , Venereology & Leprosy",10 Years Experience Overall  (6 years as specialist),Dermatologist,"Santacruz West, Mumbai",100% ,(119 votes),₹1000
+610,Dr. Nithya Raghunath,"MBBS, MD - Dermatology , Venereology & Leprosy",13 Years Experience Overall  (8 years as specialist),Dermatologist,"Kalyan Nagar, Bangalore",96% ,(4115 votes),₹700
+611,Dr. Abhishek Sharma,"MD - Physician, MD - Dermatology , Venereology & Leprosy",11 Years Experience Overall  (5 years as specialist),Dermatologist,"South Extension 1, Delhi",100% ,(140 votes),₹1000
+612,Dr. Anuj Saigal,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (8 years as specialist),Dermatologist,"Green Park, Delhi",97% ,(155 votes),₹1000
+613,Dr. Azra Fatima N,"MBBS, DDVL",10 Years Experience Overall  (5 years as specialist),Dermatologist,"Anna Nagar, Chennai",100% ,(72 votes),₹600
+614,Dr. Pooja Chopra,"MBBS, MD - Dermatology , Venereology & Leprosy",15 Years Experience Overall  (11 years as specialist),Dermatologist,"Andheri West, Mumbai",96% ,(80 votes),₹1500
+615,Dr. Priyanka R Kuri,"MBBS, MD - Dermatology , Venereology & Leprosy",8 Years Experience Overall  (4 years as specialist),Dermatologist,"Whitefield, Bangalore",100% ,(22 votes),₹700
+616,Dr. Revanth BN,"MBBS, MD - Dermatology , Venereology & Leprosy",14 Years Experience Overall  (6 years as specialist),Dermatologist,"Jayanagar 3 Block, Bangalore",100% ,(40 votes),₹500
+617,Dr. Vinay Singh,"MBBS, MD - Dermatology",27 Years Experience Overall  (23 years as specialist),Dermatologist,"Pitampura, Delhi",92% ,(701 votes),₹1400
+618,Dr. Karuna Soni,"MBBS, Diploma in Dermatology",16 Years Experience Overall  (11 years as specialist),Dermatologist,"Baner, Pune",98% ,(1204 votes),₹600
+619,Dr. Sneha Gupta Palvia,"MBBS, MD - Dermatology , Venereology & Leprosy",12 Years Experience Overall  (8 years as specialist),Dermatologist,"Grant Road, Mumbai",100% ,(14 votes),0
+620,Dr. Yogeshree Kanase,"MD - Dermatology , Venereology & Leprosy, MBBS",12 Years Experience Overall  (7 years as specialist),Dermatologist,"Pimple Saudagar, Pune",96% ,(105 votes),₹600
+621,Dr. Shiny T.N,"MD - Dermatology , Venereology & Leprosy, MBBS",13 Years Experience Overall  (6 years as specialist),Dermatologist,"Jayanagar, Bangalore",92% ,(142 votes),₹750
+622,Dr. Tapesh Sharma,"MBBS, Diploma in Dermatology",24 Years Experience Overall  (20 years as specialist),Dermatologist,"Dwarka, Delhi",97% ,(2956 votes),₹1500
+623,Dr. Rajkumar Kannan,"MBBS, DDVL, MD - Dermatology , Venereology & Leprosy",16 Years Experience Overall,Dermatologist,"Adyar, Chennai",100% ,(33 votes),₹500
+624,Dr. Vijay Nagdev,"MBBS, DVD",12 Years Experience Overall  (6 years as specialist),Dermatologist,"Pimpri-Chinchwad, Pune",93% ,(1606 votes),₹600
+625,Dr. Tanvi Gupta Arora,"MD - Dermatology , Venereology & Leprosy, MBBS",11 Years Experience Overall  (7 years as specialist),Dermatologist,"Pusa Road, Delhi",0,0,₹1000
+626,Dr. Shoba S M,"MBBS, DDVL",9 Years Experience Overall  (8 years as specialist),Dermatologist,"Seshadripuram, Bangalore",0,0,₹740

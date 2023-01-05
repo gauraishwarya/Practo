@@ -1,0 +1,792 @@
+,Name,Qualification,Years_Of_Experience,Speciality_of_doctor,Location,dp_score,npv,consultation_fee
+0,Dr. B A Gopala Krishna,"MBBS, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (13 years as specialist),Orthopedist,"Banashankari 2nd Stage, Bangalore",97% ,(88 votes),₹600
+1,Dr. Shashidhar V.,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (11 years as specialist),Orthopedist,"Yelenahalli, Bangalore",96% ,(99 votes),₹1000
+2,Dr. Sharath Kumar Shetty,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (19 years as specialist),Orthopedist,"HSR Layout, Bangalore",88% ,(41 votes),₹999
+3,Dr. Somanna Malchira,"MS - Orthopaedics, MBBS",16 Years Experience Overall,Orthopedist,"Hebbal, Bangalore",96% ,(45 votes),₹900
+4,Dr. Prashanth Kalale,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",23 Years Experience Overall  (22 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",97% ,(864 votes),₹600
+5,Dr. Shivareddy.H.A.,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Jayanagar, Bangalore",99% ,(352 votes),₹750
+6,Dr. Mohan M.R,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (15 years as specialist),Orthopedist,"Hulimavu, Bangalore",95% ,(141 votes),₹500
+7,Dr. Mohan Puttaswamy,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (16 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",96% ,(652 votes),₹850
+8,Dr. Nanda Kumar Bhairi,"DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS",18 Years Experience Overall  (12 years as specialist),Orthopedist,"Rajarajeshwarinagar, Bangalore",99% ,(536 votes),₹500
+9,Dr. Manohar Babu,"MS - Orthopaedics, MBBS",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",97% ,(30 votes),₹850
+10,Dr. Thirumalesh K Reddy,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (21 years as specialist),Orthopedist,"Hebbal, Bangalore",87% ,(30 votes),₹900
+11,Dr. Jayateerth W Kulkarni,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FRCS - Trauma & Orthopedic Surgery",35 Years Experience Overall  (30 years as specialist),Orthopedist,"Cunningham Road, Bangalore",98% ,(476 votes),₹700
+12,Dr. Mani Venugopal,"MBBS, MS - Orthopaedics, Diploma in Orthopaedics",39 Years Experience Overall,Orthopedist,"Ulsoor, Bangalore",97% ,(613 votes),₹800
+13,Dr. Basavaraj C M,"Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",25 Years Experience Overall  (24 years as specialist),Orthopedist,"Kengeri, Bangalore",100% ,(28 votes),₹500
+14,Dr. Yogish Vijaya Kumar,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (19 years as specialist),Orthopedist,"Jayanagar 9 Block, Bangalore",93% ,(75 votes),₹650
+15,Dr. Prakash B L,"DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, MBBS",31 Years Experience Overall,Orthopedist,"Jayanagar 9 Block, Bangalore",91% ,(1259 votes),₹800
+16,Dr. Santoshkumar Hakkalamani,"CCT - Trauma & Orthopaedic Surgery, MRCS (UK), MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",26 Years Experience Overall  (9 years as specialist),Orthopedist,"Kengeri, Bangalore",92% ,(13 votes),₹500
+17,Dr. Sanjay Pai,"MBBS, MS - Orthopaedics",34 Years Experience Overall,Orthopedist,"Jayanagar, Bangalore",84% ,(32 votes),₹1000
+18,Dr. Lokesh A Veerappa,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (17 years as specialist),Orthopedist,"Old Airport Road, Bangalore",96% ,(138 votes),₹900
+19,Dr. Rajeev Ghat,"MBBS, MS - Orthopaedics",26 Years Experience Overall  (21 years as specialist),Orthopedist,"Bellandur, Bangalore",98% ,(164 votes),₹650
+20,Dr. Balasubramanyam PR,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (17 years as specialist),Orthopedist,"Rajarajeshwarinagar, Bangalore",99% ,(1750 votes),₹600
+21,Dr. Sushal Shanthakumar,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Old Airport Road, Bangalore",99% ,(136 votes),₹900
+22,Dr. Shuaib Kausar,"Diploma in Orthopaedics, MBBS",20 Years Experience Overall  (17 years as specialist),Orthopedist,"Banaswadi, Bangalore",97% ,(273 votes),₹550
+23,Dr. Prashanth Inna,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Old Airport Road, Bangalore",94% ,(113 votes),₹900
+24,Dr. Manjunath Gopal,"MBBS, Diploma in Orthopaedics",23 Years Experience Overall  (19 years as specialist),Orthopedist,"Electronics City, Bangalore",100% ,(39 votes),₹750
+25,Dr. Mahesh Channabasappa Gonchikar,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",28 Years Experience Overall  (21 years as specialist),Orthopedist,"Malleswaram, Bangalore",100% ,(41 votes),₹700
+26,Dr. Srimanth B S,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall,Orthopedist,"Jayanagar, Bangalore",0,0,₹800
+27,Dr. Prabhakar V,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"KR Puram, Bangalore",95% ,(125 votes),₹399
+28,Dr. Sunil N,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (4 years as specialist),Orthopedist,"Panathur, Bangalore",100% ,(131 votes),₹550
+29,Dr. Deepak N Inamdar,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",24 Years Experience Overall  (20 years as specialist),Orthopedist,"Jayanagar 3 Block, Bangalore",94% ,(253 votes),₹600
+30,Dr. Rajan.V.G.,"MBBS, FRCS - Trauma & Orthopedic Surgery, MRCS (UK)",26 Years Experience Overall  (10 years as specialist),Orthopedist,"Kammana Halli, Bangalore",94% ,(122 votes),₹900
+31,Dr. Rajashekhar K T,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",21 Years Experience Overall  (19 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",100% ,(22 votes),₹850
+32,Dr. Yogesh Pithwa,"FNB - Spine Surgery, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics, Diploma in Orthopaedics, MBBS",20 Years Experience Overall,Orthopedist,"Jayanagar, Bangalore",94% ,(455 votes),₹650
+33,Dr. Sharath K.R,"DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, MBBS",14 Years Experience Overall  (13 years as specialist),Orthopedist,"Banashankari 3rd Stage, Bangalore",100% ,(35 votes),₹600
+34,Dr. Surendranath Shetty B,"MBBS, MS - Orthopaedics",42 Years Experience Overall  (37 years as specialist),Orthopedist,"Jayanagar, Bangalore",0,0,₹750
+35,Dr. Chandrasekar Chikkamuniyappa,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",28 Years Experience Overall  (24 years as specialist),Orthopedist,"Sampangiramnagar, Bangalore",96% ,(423 votes),₹800
+36,Dr. Anil Patil,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Yeshwanthpur, Bangalore",99% ,(166 votes),₹700
+37,Dr. Pradeep Kocheeppan,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",24 Years Experience Overall  (21 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",86% ,(43 votes),₹850
+38,Dr. Naveen Kumar.L.V,"MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery, M.Ch - Orthopaedics, MBBS",23 Years Experience Overall  (18 years as specialist),Orthopedist,"HSR Layout, Bangalore",99% ,(1281 votes),₹900
+39,Dr. Sathya Prakash,"MBBS, MS - Orthopaedics",23 Years Experience Overall,Orthopedist,"Indiranagar, Bangalore",93% ,(342 votes),₹500
+40,Dr. Praveen S Battepati,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Sanjay Nagar, Bangalore",100% ,(288 votes),₹600
+41,Dr. Rewat Laxman,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall,Orthopedist,"Sarjapur Road, Bangalore",94% ,(85 votes),₹850
+42,Dr. Sanjay Prasad Hegde,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (28 years as specialist),Orthopedist,"Whitefield, Bangalore",83% ,(53 votes),₹850
+43,Dr. Rahul Puri,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Jayanagar, Bangalore",0,0,₹750
+44,Dr. Vidya Sagar,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (10 years as specialist),Orthopedist,"Jayanagar, Bangalore",0,0,₹750
+45,Dr. Naveen Devarajaiah,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Yelahanka, Bangalore",98% ,(750 votes),₹480
+46,Dr. Sudheendra M Rao,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",13 Years Experience Overall,Orthopedist,"Jayanagar 9 Block, Bangalore",97% ,(58 votes),₹650
+47,Dr. Dinesh Manni,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Whitefield, Bangalore",0,0,₹850
+48,Dr. Sai Krishna Bala Krishnan Naidu,"MBBS, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",21 Years Experience Overall  (14 years as specialist),Orthopedist,"Richmond Town, Bangalore",99% ,(73 votes),₹800
+49,Dr. Vasudev Prabhu,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (24 years as specialist),Orthopedist,"Seshadripuram, Bangalore",90% ,(20 votes),₹740
+50,Dr. Shrinidhi I S,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (15 years as specialist),Orthopedist,"Bellandur, Bangalore",98% ,(95 votes),₹650
+51,Dr. Ameeth Kulkarni,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Jayanagar, Bangalore",0,0,₹750
+52,Dr. Raviraj A,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Jayanagar, Bangalore",95% ,(268 votes),₹750
+53,Dr. Syed Imran,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (11 years as specialist),Orthopedist,"HBR Layout, Bangalore",100% ,(215 votes),₹700
+54,Dr. Deepak Sampath,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",19 Years Experience Overall  (15 years as specialist),Orthopedist,"Vasanthnagar, Bangalore",97% ,(35 votes),₹600
+55,Dr. Pradeep Anand.M,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",25 Years Experience Overall  (20 years as specialist),Orthopedist,"HSR Layout, Bangalore",90% ,(109 votes),₹600
+56,Dr. Srinivas C.H.,"MBBS, MS - Orthopaedics",16 Years Experience Overall,Orthopedist,"Nagasandra, Bangalore",0,0,₹400
+57,Dr. Rudra Prasad,"MBBS, DNB - Orthopedics/Orthopedic Surgery",29 Years Experience Overall  (24 years as specialist),Orthopedist,"Vasanthnagar, Bangalore",97% ,(72 votes),₹900
+58,Dr. Amrithlal. A. Mascarenhas,"MBBS, MS - Orthopaedics, FNB - Spine Surgery",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Millers Road, Bangalore",91% ,(32 votes),₹1000
+59,Dr. Karthik G,"MBBS, Diploma in Orthopaedics",24 Years Experience Overall,Orthopedist,"Koramangala 5 Block, Bangalore",93% ,(42 votes),₹650
+60,Dr. Prashant Tejwani,"MS - Orthopaedics, MBBS",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Hosur Road, Bangalore",91% ,(58 votes),₹500
+61,Dr. Prashanth Jain,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",20 Years Experience Overall  (14 years as specialist),Orthopedist,"Sampangiramnagar, Bangalore",91% ,(32 votes),₹800
+62,Dr. M N Karthik,"MBBS, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Indiranagar, Bangalore",100% ,(14 votes),₹650
+63,Dr. Subodh M Shetty,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (25 years as specialist),Orthopedist,"Koramangala, Bangalore",89% ,(540 votes),₹600
+64,Dr. Pavan Chebbi,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"BTM Layout 1st Stage, Bangalore",98% ,(316 votes),₹700
+65,Dr. Ravichandra Kelkar,"MBBS, MS - Orthopaedics, MRCS (UK)",Orthopedic surgeon,Orthopedist,"Hebbal, Bangalore",0,0,₹800
+66,Dr. Venugopal N,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (20 years as specialist),Orthopedist,"Millers Road, Bangalore",0,0,₹1000
+67,Dr. Avinash Alva,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",20 Years Experience Overall  (12 years as specialist),Orthopedist,"HSR Layout, Bangalore",0,0,₹700
+68,Dr. Vijay A Kulkarni,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Jayanagar 4 Block, Bangalore",95% ,(21 votes),₹600
+69,Dr. Ajay Rao,"MBBS, DNB - Orthopedics/Orthopedic Surgery",23 Years Experience Overall  (14 years as specialist),Orthopedist,"Basaveshwaranagar, Bangalore",100% ,(342 votes),₹500
+70,Dr. Vinay Kumaraswamy,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK), Fellowship in Arthroscopy & Sports Injury, MBBS",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Rajajinagar, Bangalore",100% ,(443 votes),₹560
+71,Dr. Alagu Pandiyan,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Yeshwanthpur, Bangalore",0,0,₹600
+72,Dr. Naveen.D,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (12 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",95% ,(21 votes),₹850
+73,Dr. Venkatdeep Mohan,"MBBS, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (6 years as specialist),Orthopedist,"JP Nagar, Bangalore",100% ,(152 votes),₹500
+74,Dr. Srikanth E Neruganti,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Kundalahalli, Bangalore",98% ,(156 votes),₹650
+75,Dr. Nakul H Shivaramaiah,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Indiranagar, Bangalore",100% ,(28 votes),₹800
+76,Dr. Shashi Kumar H.K,"MBBS, MS - Orthopaedics",13 Years Experience Overall,Orthopedist,"Bannerghatta Road, Bangalore",0,0,₹850
+77,Dr. Vivek Kumar N Savsani,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Indiranagar, Bangalore",0,0,₹650
+78,Dr. Deepak G Shivarathre,"MBBS, FRCS - Trauma & Orthopedic Surgery, MRCS (UK)",19 Years Experience Overall  (9 years as specialist),Orthopedist,"Malleswaram, Bangalore",97% ,(35 votes),₹700
+79,Dr. Karthik Gajapathy,"MBBS, Diploma in Orthopaedics",30 Years Experience Overall  (28 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",0,0,₹750
+80,Dr. Shashikiran R,"MS - Orthopaedics, MBBS",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Malleswaram, Bangalore",99% ,(67 votes),₹650
+81,Dr. Raghavendra K. Sharaph,"DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, MBBS, Diploma in Orthopaedics",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Malleswaram, Bangalore",0,0,₹600
+82,Dr. Raghu B V,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (6 years as specialist),Orthopedist,"Padmanabhanagar, Bangalore",0,0,₹500
+83,Dr. Sudhir N. Pai,"MBBS, MS - Orthopaedics",24 Years Experience Overall,Orthopedist,"Sampangiramnagar, Bangalore",100% ,(84 votes),₹800
+84,Dr. Ravindra Puttaswamaiah,"MBBS, MS - Orthopaedics",23 Years Experience Overall,Orthopedist,"Yeshwanthpur, Bangalore",72% ,(18 votes),₹700
+85,Dr. Srinivas Nagendra,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Malleswaram, Bangalore",0,0,₹500
+86,Dr. Pradeep A Ramesh,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Banashankari, Bangalore",92% ,(13 votes),₹500
+87,Dr. C. P. Belliappa,"MBBS, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (12 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹850
+88,Dr. J V Srinivas,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (21 years as specialist),Orthopedist,"JP Nagar, Bangalore",100% ,(14 votes),₹950
+89,Dr. Manoj A N,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (19 years as specialist),Orthopedist,"Indiranagar, Bangalore",0,0,₹800
+90,Dr. GL Joel Prasad,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Whitefield, Bangalore",97% ,(38 votes),₹600
+91,Dr. Narendra Rangappa,"MBBS, MS - Orthopaedics",22 Years Experience Overall,Orthopedist,"Malleswaram, Bangalore",0,0,₹650
+92,Dr. Prashanth KK,"MBBS, Diploma in Orthopaedics",19 Years Experience Overall  (16 years as specialist),Orthopedist,"Kanakpura Road, Bangalore",100% ,(17 votes),₹600
+93,Dr. Sagar Tontanahal,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (5 years as specialist),Orthopedist,"Vidyaranyapura, Bangalore",100% ,(25 votes),₹500
+94,Dr. Kapendra,"MS - Orthopaedics, MBBS",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Kundalahalli, Bangalore",67% ,(21 votes),₹650
+95,Dr. Sheikh Mohammed Fahim,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Mahadevapura, Bangalore",0,0,₹700
+96,Dr. Vinit M Oswal,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (4 years as specialist),Orthopedist,"Malleswaram, Bangalore",0,0,₹700
+97,Dr. Ananya,"MBBS, FRCS - Trauma & Orthopedic Surgery",19 Years Experience Overall  (9 years as specialist),Orthopedist,"Vijayanagar, Bangalore",99% ,(103 votes),₹400
+98,Dr. Ambareesh. P,"MS - Orthopaedics, MBBS",15 Years Experience Overall,Orthopedist,"Kundalahalli, Bangalore",83% ,(18 votes),₹650
+99,Dr. Susheel B,"MBBS, MS - Orthopaedics",15 Years Experience Overall,Orthopedist,"Kundalahalli, Bangalore",78% ,(77 votes),₹650
+100,Dr. Ravindran R,"MBBS, Diploma in Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Ulsoor, Bangalore",100% ,(25 votes),₹600
+101,Dr. Harish Puranik,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Malleswaram, Bangalore",100% ,(42 votes),₹700
+102,Dr. Ahmed Rayan Jelani,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Richmond Town, Bangalore",0,0,₹600
+103,Dr. Chidanand K. J. C,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (14 years as specialist),Orthopedist,"Banashankari 3rd Stage, Bangalore",93% ,(61 votes),₹500
+104,Dr. Varun GBS,"MBBS, MS - Orthopaedics, Fellow in Spine Surgery",14 Years Experience Overall  (10 years as specialist),Orthopedist,"RT Nagar, Bangalore",90% ,(31 votes),₹600
+105,Dr. Ravikumar Mukartihal,"Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (12 years as specialist),Orthopedist,"Vasanthnagar, Bangalore",97% ,(60 votes),₹900
+106,Dr. Deepak A,"MBBS, Diploma in Orthopaedics",5 Years Experience Overall,Orthopedist,"Sarjapur Road, Bangalore",0,0,₹600
+107,Dr. Prabhakaran D,"MBBS, Diploma in Orthopaedics",18 Years Experience Overall,Orthopedist,"Malleswaram, Bangalore",100% ,(12 votes),₹650
+108,Dr. Anjan A,"MBBS, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Banaswadi, Bangalore",0,0,₹500
+109,Dr. Chethan Nagaraj,"MBBS, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (3 years as specialist),Orthopedist,"Singasandra, Bangalore",0,0,₹600
+110,Dr. Krishanu Dey,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Whitefield, Bangalore",0,0,₹850
+111,Dr. Ajey Deekshith A S,"MBBS, MS - Orthopaedics",4 Years Experience Overall,Orthopedist,"Nagasandra, Bangalore",0,0,₹500
+112,Dr. Vinoth Arokkia Sekar,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹650
+113,Dr. Paneendra  S,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (4 years as specialist),Orthopedist,"BTM Layout 2nd Stage, Bangalore",0,0,₹600
+114,Dr. Rajesh S,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Indiranagar, Bangalore",0,0,₹800
+115,Dr. Karan Shetty,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (5 years as specialist),Orthopedist,"Basaveshwaranagar, Bangalore",0,0,₹400
+116,Dr. Praveen Podali,"MBBS, MS - Orthopaedics",5 Years Experience Overall  (3 years as specialist),Orthopedist,"HSR Layout, Bangalore",0,0,₹600
+117,Dr. Jayakrishnan Pillai,"MBBS, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (14 years as specialist),Orthopedist,"Indiranagar, Bangalore",97% ,(1659 votes),₹700
+118,Dr. Pradeep Kiran B.S,"MBBS, DNB - Orthopedics/Orthopedic Surgery, M.Ch - Orthopaedics, Diploma in Orthopaedics",26 Years Experience Overall  (20 years as specialist),Orthopedist,"T Dasarahalli, Bangalore",96% ,(254 votes),₹300
+119,Dr. Mahesh Reddy,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics, FRCS - General Surgery",27 Years Experience Overall  (20 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",79% ,(19 votes),₹600
+120,Dr. Pramod Kumar Mohan,"MBBS, MS - Orthopaedics",5 Years Experience Overall,Orthopedist,"Malleswaram, Bangalore",0,0,₹650
+121,Dr. Deepak S,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (26 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",90% ,(21 votes),₹600
+122,Dr. Goutam Kodikal,"MBBS, MS - Orthopaedics",43 Years Experience Overall  (40 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",93% ,(43 votes),₹800
+123,Dr. Anand Halyal,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Banashankari, Bangalore",97% ,(1659 votes),₹699
+124,Dr. Narayan Hulse,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK), FRCS - Trauma & Orthopedic Surgery, MS - Orthopaedics, MBBS",22 Years Experience Overall  (21 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",97% ,(411 votes),₹750
+125,Dr. Mahadev Jatti,"MBBS, MS - Orthopaedics",26 Years Experience Overall  (25 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",70% ,(20 votes),₹600
+126,Dr. Jithendra Kumar G P,"MBBS, MS - Orthopaedics",34 Years Experience Overall  (29 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",0,0,₹850
+127,Dr. Kiran Chowka,"MS - Orthopaedics, MBBS",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Hebbal, Bangalore",95% ,(187 votes),₹1090
+128,Dr. Sreedhar Singh,"FRCS - Trauma & Orthopedic Surgery, FRCS - General Surgery, FRCS - General Surgery, MBBS",32 Years Experience Overall  (28 years as specialist),Orthopedist,"Hebbal, Bangalore",92% ,(1652 votes),₹800
+129,Dr. Lingaraju A.P,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Jayanagar 9 Block, Bangalore",99% ,(85 votes),₹400
+130,Dr. Venugopal B,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall,Orthopedist,"Bannerghatta Road, Bangalore",93% ,(44 votes),₹850
+131,Dr. Chandramouli B,"MBBS, MS - Orthopaedics",29 Years Experience Overall  (25 years as specialist),Orthopedist,"Electronics City, Bangalore",93% ,(1212 votes),₹550
+132,Dr. Sunil G Kini,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, M.Ch - Orthopaedics, MNAMS - Orthopaedics",21 Years Experience Overall  (15 years as specialist),Orthopedist,"Old Airport Road, Bangalore",95% ,(581 votes),₹900
+133,Dr. Hemant K. Kalyan,"MBBS, MS - Orthopaedics, Diploma in Orthopaedics, FCPS - Orthopedic",32 Years Experience Overall,Orthopedist,"Old Airport Road, Bangalore",89% ,(253 votes),₹900
+134,Dr. Kishan Rao K,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, MNAMS - Orthopaedics",9 Years Experience Overall,Orthopedist,"Hulimavu, Bangalore",86% ,(14 votes),₹700
+135,Dr. Suresh Kumar M S,"MBBS, Diploma in Orthopaedics",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",87% ,(293 votes),₹600
+136,Dr. Abhijit Chavan,"DNB - Orthopedics/Orthopedic Surgery, MBBS",18 Years Experience Overall  (12 years as specialist),Orthopedist,"Whitefield, Bangalore",91% ,(58 votes),₹850
+137,Dr. Prashanth Patil,"MBBS, MRCS (UK), PhD - Orthopaedics",26 Years Experience Overall  (19 years as specialist),Orthopedist,"Koramangala 5 Block, Bangalore",87% ,(23 votes),₹600
+138,Dr. Manish Samson,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (24 years as specialist),Orthopedist,"Jayanagar, Bangalore",97% ,(32 votes),₹750
+139,Dr. Nithin Vadlamudi,"MS - Orthopaedics, MBBS, Fellowship in Arthroscopy & Sports Injury",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Bellandur, Bangalore",100% ,(428 votes),₹650
+140,Dr. Raj D. Chakravarty,"MS - Orthopaedics, MBBS",46 Years Experience Overall  (39 years as specialist),Orthopedist,"Whitefield, Bangalore",83% ,(40 votes),₹850
+141,Dr. D J Navinchand,"MBBS, MS - Orthopaedics",39 Years Experience Overall  (36 years as specialist),Orthopedist,"Hebbal, Bangalore",0,0,₹800
+142,Dr. Chethan Nagaraj,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall,Orthopedist,"Rajajinagar, Bangalore",95% ,(40 votes),₹500
+143,Dr. Jagadeesh,"Diploma in Orthopaedics, MBBS",24 Years Experience Overall  (20 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",89% ,(92 votes),₹850
+144,Dr. Raghavendra Reddy,"MBBS, MS - Orthopaedics",11 Years Experience Overall,Orthopedist,"Whitefield, Bangalore",0,0,₹850
+145,Dr. Vidyashankar,"MBBS, MS - Orthopaedics",32 Years Experience Overall  (30 years as specialist),Orthopedist,"Jayanagar 9 Block, Bangalore",0,0,₹650
+146,Dr. J. Lakshmikanth,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery, Fellow in Spine Surgery",32 Years Experience Overall,Orthopedist,"Sarjapur Road, Bangalore",97% ,(62 votes),₹850
+147,Dr. Ajith Prabhu,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Jayanagar, Bangalore",95% ,(20 votes),₹750
+148,Dr. Krishna Naresh Goud,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (4 years as specialist),Orthopedist,"Seegehalli, Bangalore",93% ,(15 votes),₹300
+149,Dr. Sharan Shivraj Patil,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics, M.Ch - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",32 Years Experience Overall  (30 years as specialist),Orthopedist,"Vasanthnagar, Bangalore",87% ,(150 votes),₹800
+150,Dr. Jayanth Sundar Sampath,"MBBS, FRCS - Trauma & Orthopedic Surgery",28 Years Experience Overall  (18 years as specialist),Orthopedist,"Whitefield, Bangalore",96% ,(237 votes),₹900
+151,Dr. Amith Shetty,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Hulimavu, Bangalore",0,0,₹500
+152,Dr. C.B. Prabhu,"MBBS, DNB - Orthopedics/Orthopedic Surgery",34 Years Experience Overall  (28 years as specialist),Orthopedist,"Seshadripuram, Bangalore",95% ,(1635 votes),₹740
+153,Dr. Chandrashekar,"MS - Orthopaedics, MBBS",19 Years Experience Overall  (15 years as specialist),Orthopedist,"HSR Layout, Bangalore",89% ,(399 votes),₹1000
+154,Dr. Chirag Thonse,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Wheelers Road (Cooke Town), Bangalore",92% ,(168 votes),₹600
+155,Dr. Prasanna T Y,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Basaveshwaranagar, Bangalore",98% ,(49 votes),₹400
+156,Dr. Shivakumar Y S,"MBBS, MS - Orthopaedics",26 Years Experience Overall,Orthopedist,"Whitefield, Bangalore",0,0,₹850
+157,Dr. Arun Kumar M S,"MBBS, MS - Orthopaedics, MRCS (UK)",24 Years Experience Overall  (20 years as specialist),Orthopedist,"Yelahanka, Bangalore",100% ,(36 votes),₹450
+158,Dr. J Praneeth Kumar Reddy,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Yelahanka New Town, Bangalore",0,0,₹500
+159,Dr. P Srinivas,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",18 Years Experience Overall  (16 years as specialist),Orthopedist,"Akshaya nagar, Bangalore",0,0,₹200
+160,Dr. B Jayashankar,"MBBS, DNB - Orthopedics/Orthopedic Surgery",31 Years Experience Overall  (28 years as specialist),Orthopedist,"Rajajinagar, Bangalore",0,0,₹500
+161,Dr. Akshay Mylarappa,"MS - Orthopaedics, MBBS",7 Years Experience Overall  (1 year as specialist),Orthopedist,"Banashankari 3rd Stage, Bangalore",0,0,₹250
+162,Dr. Bharath K. Kadadi,"MBBS, MS - Orthopaedics",29 Years Experience Overall  (26 years as specialist),Orthopedist,"Malleswaram, Bangalore",88% ,(26 votes),₹650
+163,Dr. Prashanth BN,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Hosur Road, Bangalore",88% ,(81 votes),₹500
+164,Dr. Darshan Kumar A Jain,"MBBS, MS - Orthopaedics, FNB - Hand and Microsurgery",16 Years Experience Overall  (13 years as specialist),Orthopedist,"Ashoknagar, Bangalore",94% ,(31 votes),₹800
+165,Dr. Anand T Galagali,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (29 years as specialist),Orthopedist,"Malleswaram, Bangalore",81% ,(32 votes),₹650
+166,Dr. Purushotham Lal R,"Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (15 years as specialist),Orthopedist,"Hosur Road, Bangalore",93% ,(55 votes),₹600
+167,Dr. Vishwanath M S,"MBBS, MS - Orthopaedics",35 Years Experience Overall  (31 years as specialist),Orthopedist,"Old Airport Road, Bangalore",0,0,₹900
+168,Dr. Ranjit SDI,"MBBS, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (11 years as specialist),Orthopedist,"Malleswaram, Bangalore",92% ,(26 votes),₹650
+169,Dr. Gururaj S Puranik,"FRCS - Trauma & Orthopedic Surgery, DNB - Orthopedics/Orthopedic Surgery, MBBS",28 Years Experience Overall  (21 years as specialist),Orthopedist,"Nagasandra, Bangalore",100% ,(20 votes),₹400
+170,Dr. Monesh K B,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (4 years as specialist),Orthopedist,"Kengeri, Bangalore",0,0,₹400
+171,Dr. Vikas Ellur,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"Vasanthnagar, Bangalore",88% ,(33 votes),₹800
+172,Dr. Shankar B S,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",29 Years Experience Overall  (27 years as specialist),Orthopedist,"Malleswaram, Bangalore",99% ,(103 votes),₹650
+173,Dr. Gowrishankar Swamy L G,"MBBS, DNB - Orthopedics/Orthopedic Surgery",31 Years Experience Overall  (20 years as specialist),Orthopedist,"Sampangiramnagar, Bangalore",98% ,(416 votes),₹800
+174,Dr. Ajeya Deshpande,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Chamarajpet, Bangalore",0,0,₹300
+175,Dr. Mithun N Oswal,"MBBS, MS - Orthopaedics, Fellowship in Arthroscopy & Sports Injury",11 Years Experience Overall  (7 years as specialist),Orthopedist,"HSR Layout, Bangalore",100% ,(43 votes),₹600
+176,Dr. Mohit Nahata,"MBBS, DNB - Orthopedics/Orthopedic Surgery",5 Years Experience Overall  (2 years as specialist),Orthopedist,"HSR Layout, Bangalore",0,0,₹600
+177,Dr. Anand Chavan,"MBBS, Diploma in Orthopaedics",19 Years Experience Overall,Orthopedist,"Cunningham Road, Bangalore",98% ,(641 votes),₹700
+178,Dr. Balamurali Krishnan,"MBBS, Diploma in Orthopaedics, MRCS (UK), M.Ch - Orthopaedics",31 Years Experience Overall  (26 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",78% ,(46 votes),₹850
+179,Dr. Santhosh C Reddy,"MBBS, DNB - Orthopedics/Orthopedic Surgery",4 Years Experience Overall,Orthopedist,"Koramangala 1 Block, Bangalore",0,0,₹500
+180,Dr. Mallinath G.,"MBBS, MS - Orthopaedics",17 Years Experience Overall,Orthopedist,"Old Airport Road, Bangalore",76% ,(97 votes),₹900
+181,Dr. Brahmaraju TJ,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS",26 Years Experience Overall  (18 years as specialist),Orthopedist,"Rajarajeshwarinagar, Bangalore",0,0,₹800
+182,Dr. Rakshit J,"MBBS, MS - Orthopaedics",1 Year Experience Overall,Orthopedist,"Singasandra, Bangalore",0,0,₹650
+183,Dr. Venkatesh Prasad,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",22 Years Experience Overall  (20 years as specialist),Orthopedist,"Basavanagudi, Bangalore",100% ,(31 votes),₹200
+184,Dr. Sathya Vamsi Krishna,"MS - Orthopaedics, MBBS",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Bannerghatta Road, Bangalore",0,0,₹850
+185,Dr. Vinayaraj Kelagadi,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (11 years as specialist),Orthopedist,"HBR Layout, Bangalore",96% ,(78 votes),₹500
+186,Dr. Kazim Mahmood,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Jayanagar 4 Block, Bangalore",0,0,₹500
+187,Dr. Gangu Hiral S,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (14 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹500
+188,Dr. Shashank Joshi,"Diploma in Orthopaedics, MBBS",2 Years Experience Overall,Orthopedist,"Uttarahalli, Bangalore",0,0,₹350
+189,Dr. Srikanth. K. N.,"MBBS, Diploma in Orthopaedics, FRCS - Trauma & Orthopedic Surgery",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Basavanagudi, Bangalore",0,0,₹1000
+190,Dr. Malathesh H G,"MBBS, Diploma in Orthopaedics",25 Years Experience Overall,Orthopedist,"Nagasandra, Bangalore",0,0,₹400
+191,Dr. Prateek Patil,"MBBS, MS - Orthopaedics, FNB - Sports Medicine, DNB - Orthopedics/Orthopedic Surgery",7 Years Experience Overall  (3 years as specialist),Orthopedist,"Jayanagar, Bangalore",0,0,₹700
+192,Dr. Raju L Hadimani,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (8 years as specialist),Orthopedist,"Basavanagudi, Bangalore",0,0,₹550
+193,Dr. Somashekar S,"MBBS, MS - Orthopaedics",28 Years Experience Overall  (23 years as specialist),Orthopedist,"Basavanagudi, Bangalore",0,0,₹650
+194,Dr. Harshith N,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (3 years as specialist),Orthopedist,"Yelahanka, Bangalore",0,0,₹600
+195,Dr. Srivatsa Subramanya,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Kumaraswamy Layout, Bangalore",0,0,₹650
+196,Dr. Vinu Raj,"MBBS, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Nagasandra, Bangalore",0,0,₹400
+197,Dr. Manohar C V,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (18 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹850
+198,Dr. Ashish Philip Zachariah,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (8 years as specialist),Orthopedist,"JP Nagar, Bangalore",0,0,₹650
+199,Dr. Abhinandan,"MBBS, MS - Orthopaedics",11 Years Experience Overall,Orthopedist,"Rajarajeshwarinagar, Bangalore",0,0,₹500
+200,Dr. Manjunath B V,"MBBS, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall  (4 years as specialist),Orthopedist,"Malleswaram, Bangalore",0,0,₹650
+201,Dr. Swagatesh Bastia,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (5 years as specialist),Orthopedist,"Sadashivanagar, Bangalore",0,0,₹500
+202,Dr. Nagaraja H S,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹500
+203,Dr. Mallesh M,"MS - Orthopaedics, MBBS",11 Years Experience Overall  (7 years as specialist),Orthopedist,"Sarjapur Road, Bangalore",0,0,₹650
+204,Dr. Venkatesh Rathod,"MBBS, Diploma in Orthopaedics",14 Years Experience Overall  (11 years as specialist),Orthopedist,"Kumaraswamy Layout, Bangalore",0,0,₹650
+205,Dr. Ambareesh P,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (11 years as specialist),Orthopedist,"HRBR Layout, Bangalore",0,0,₹600
+206,Dr. Harsha G N,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (10 years as specialist),Orthopedist,"JP Nagar, Bangalore",0,0,₹650
+207,Dr. Rohan Nambiar,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Ashoknagar, Bangalore",0,0,₹800
+208,Dr. Veeresh Patage,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Ashoknagar, Bangalore",0,0,₹800
+209,Dr. Faraz Ahmed Syed,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"T Dasarahalli, Bangalore",0,0,₹500
+210,Dr. Raghu Nagaraj,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Cunningham Road, Bangalore",95% ,(60 votes),₹700
+211,Dr. Pallav bhatia,"MS - Orthopaedics, MBBS",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Wakad, Pune",99% ,(133 votes),₹750
+212,Dr. Vikram Rajguru,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"Hadapsar, Pune",100% ,(18 votes),₹799
+213,Dr. Santosh Teli,"MBBS, Diploma in Orthopaedics",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Wakad, Pune",96% ,(762 votes),₹700
+214,Dr. B A Kadam,"MBBS, MS - Orthopaedics",45 Years Experience Overall  (40 years as specialist),Orthopedist,"Pimpri-Chinchwad, Pune",94% ,(545 votes),₹1000
+215,Dr. Anshu S.R Sachdev,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MNAMS - Orthopaedics",24 Years Experience Overall  (17 years as specialist),Orthopedist,"Viman Nagar, Pune",95% ,(1286 votes),₹850
+216,Dr. Lande Onkar Marotirao,"MBBS, Diploma in Orthopaedics",22 Years Experience Overall  (16 years as specialist),Orthopedist,"Shivajinagar, Pune",0,0,₹400
+217,Dr. Manish Gandhalikar,"MBBS, Diploma in Orthopaedics",12 Years Experience Overall,Orthopedist,"Baner, Pune",98% ,(741 votes),₹500
+218,Dr. Saurabh Giri,"MS - Orthopaedics, MBBS",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Pimple Saudagar, Pune",97% ,(31 votes),₹500
+219,Dr. Vishal Patil,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Aundh, Pune",90% ,(41 votes),₹700
+220,Dr. Anuj I Gajbhiye,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Viman Nagar, Pune",92% ,(75 votes),₹600
+221,Dr. Munde Rajeev,"DNB - Orthopedics/Orthopedic Surgery, MBBS",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Pimple Saudagar, Pune",97% ,(129 votes),₹600
+222,Dr. Randhir Patil,"MBBS, Diploma in Orthopaedics",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Baner, Pune",0,0,₹500
+223,Dr. Harshad Patankar,"Diploma in Orthopaedics, MBBS, MS - Orthopaedics",23 Years Experience Overall  (10 years as specialist),Orthopedist,"Shukrawar Peth, Pune",95% ,(20 votes),₹500
+224,Dr. Mayank Pathak,"DNB - Orthopedics/Orthopedic Surgery, MBBS, Diploma in Orthopaedics",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Viman Nagar, Pune",0,0,₹500
+225,Dr. Sachin Karkamkar,"MS - Orthopaedics, MBBS",17 Years Experience Overall,Orthopedist,"Hadapsar, Pune",0,0,₹500
+226,Dr. Sameer Patil,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Hinjewadi, Pune",100% ,(51 votes),₹700
+227,Dr. Nikhil  Phade,"MBBS, Diploma in Orthopaedics",13 Years Experience Overall  (7 years as specialist),Orthopedist,"Pimple Nilakh, Pune",92% ,(60 votes),₹500
+228,Dr. Niranjan V. Ganjewar,"MBBS, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Moshi, Pune",0,0,₹500
+229,Dr. Abhishek S Patil,"MS - Orthopaedics, MBBS",17 Years Experience Overall  (11 years as specialist),Orthopedist,"Kharadi, Pune",99% ,(91 votes),₹600
+230,Dr. Nakul Shah,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",24 Years Experience Overall  (18 years as specialist),Orthopedist,"Kothrud, Pune",96% ,(160 votes),₹700
+231,Dr. Varun O Agrawal,"MBBS, Diploma in Orthopaedics",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Baner, Pune",0,0,₹500
+232,Dr. Ambarish A Mathesul,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (12 years as specialist),Orthopedist,"Wadgaon Sheri, Pune",86% ,(35 votes),₹600
+233,Dr. Swaroop Solunke,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Wakad, Pune",98% ,(293 votes),₹700
+234,Dr. Ishan R Shevate,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"Baner, Pune",100% ,(51 votes),₹700
+235,Dr. Abhay Kulkarni,"MS - Orthopaedics, MBBS",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Aundh, Pune",100% ,(56 votes),₹800
+236,Dr. Atul Sonawane,"MBBS, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (8 years as specialist),Orthopedist,"Swargate, Pune",0,0,₹600
+237,Dr. Abhijit Namdev More,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (4 years as specialist),Orthopedist,"Pimple Saudagar, Pune",0,0,₹500
+238,Dr. Vishal Murkute,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Kharadi, Pune",97% ,(316 votes),₹600
+239,Dr. Ashutosh Sabnis,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (16 years as specialist),Orthopedist,"Parvati Gaon, Pune",100% ,(33 votes),₹800
+240,Dr. Aniruddha Deshmukh,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",9 Years Experience Overall  (7 years as specialist),Orthopedist,"Hinjewadi, Pune",93% ,(15 votes),₹500
+241,Dr. Jagdish Dhake,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, MNAMS - Orthopaedics",9 Years Experience Overall  (4 years as specialist),Orthopedist,"Bibvewadi, Pune",100% ,(11 votes),₹600
+242,Dr. Hrushikesh Mehata,"MS - Orthopaedics, MBBS, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall,Orthopedist,"Hadapsar, Pune",100% ,(31 votes),₹700
+243,Dr. Makarand Borikar,"MBBS, Diploma in Orthopaedics",23 Years Experience Overall  (16 years as specialist),Orthopedist,"Warje, Pune",82% ,(38 votes),₹500
+244,Dr. Snehal Dantkale Dalal,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",9 Years Experience Overall  (5 years as specialist),Orthopedist,"Baner, Pune",0,0,₹1000
+245,Dr. Shankar  Dnyanoba Wavre,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall,Orthopedist,"Wagholi, Pune",0,0,₹500
+246,Dr. Amol Tapadia,"MBBS, MS - Orthopaedics, FCPS - Orthopedic, Diploma in Orthopaedics",17 Years Experience Overall,Orthopedist,"Hadapsar, Pune",92% ,(65 votes),₹500
+247,Dr. Shriknt Dalal,"MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Baner, Pune",0,0,₹1000
+248,Dr. Azhar Lakhani,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Kharadi, Pune",98% ,(130 votes),₹600
+249,Dr. Amod Harip,"MBBS, Diploma in Orthopaedics",26 Years Experience Overall  (24 years as specialist),Orthopedist,"Baner, Pune",0,0,₹1500
+250,Dr. Amol Patwari,"MS - Orthopaedics, MBBS",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Koregaon Park, Pune",100% ,(12 votes),₹800
+251,Dr. Munde Ganesh Tanaji,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (4 years as specialist),Orthopedist,"Wakad, Pune",0,0,₹600
+252,Dr. Amrut Borade,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Hinjewadi, Pune",0,0,₹600
+253,Dr. Amol V. Ajankar,"MBBS, Diploma in Orthopaedics",14 Years Experience Overall  (13 years as specialist),Orthopedist,"Wagholi, Pune",0,0,₹500
+254,Dr. Abhijit Agashe,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (18 years as specialist),Orthopedist,"Kothrud, Pune",97% ,(653 votes),₹600
+255,Dr. Darshan N Sonawane,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics, M.Ch - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Baner, Pune",98% ,(313 votes),₹700
+256,Dr. Satish Uchale,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",15 Years Experience Overall  (8 years as specialist),Orthopedist,"Dhanori, Pune",95% ,(64 votes),₹400
+257,Dr. Purandare Mayur,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",16 Years Experience Overall  (10 years as specialist),Orthopedist,"Wakad, Pune",90% ,(165 votes),₹500
+258,Dr. Amit R. Kale,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics, M.Ch - Orthopaedics, MRCS (UK)",23 Years Experience Overall  (19 years as specialist),Orthopedist,"Aundh, Pune",94% ,(79 votes),₹600
+259,Dr. Sachin Sonawane,"MBBS, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (13 years as specialist),Orthopedist,"Wakad, Pune",93% ,(138 votes),₹400
+260,Dr. Rajeev Dnyandeo Gawhale,"MBBS, Diploma in Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Bhekrai Nagar, Pune",94% ,(33 votes),₹400
+261,Dr. Ashwinkumar Khandge,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MBBS",13 Years Experience Overall  (7 years as specialist),Orthopedist,"Pimple Gurav, Pune",100% ,(18 votes),₹500
+262,Dr. Harshal Kalambe,"MS - Orthopaedics, MBBS",12 Years Experience Overall  (6 years as specialist),Orthopedist,"Pimpri-Chinchwad, Pune",91% ,(11 votes),₹500
+263,Dr. Rahul Chaudhari,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (14 years as specialist),Orthopedist,"Shivajinagar, Pune",97% ,(64 votes),₹700
+264,Dr. Chaitanya Waghchoure,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Hadapsar, Pune",0,0,₹700
+265,Dr. Shashank Behere,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",22 Years Experience Overall,Orthopedist,"Aundh, Pune",97% ,(543 votes),₹600
+266,Dr. Shailesh Hadgaonkar,"MBBS, FCPS - Orthopedic",23 Years Experience Overall  (18 years as specialist),Orthopedist,"Aundh, Pune",92% ,(184 votes),₹800
+267,Dr. Aniket  Patil,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (10 years as specialist),Orthopedist,"Kharadi, Pune",97% ,(601 votes),₹500
+268,Dr. Rajeev Nirawane,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (15 years as specialist),Orthopedist,"Wakad, Pune",98% ,(450 votes),₹700
+269,Dr. Chinmay Ghaisas,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (7 years as specialist),Orthopedist,"Kothrud, Pune",100% ,(22 votes),₹700
+270,Dr. Sagar Khadilkar,"MBBS, Diploma in Orthopaedics",26 Years Experience Overall  (24 years as specialist),Orthopedist,"Wagholi, Pune",93% ,(92 votes),₹500
+271,Dr. Kalpesh Vimal Chhajed,"Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Gultekdi, Pune",99% ,(288 votes),₹400
+272,Dr. Anirudha Deshpande,"MBBS, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (11 years as specialist),Orthopedist,"Dhanori, Pune",95% ,(82 votes),₹500
+273,Dr. Nilesh Jagtap,"MBBS, Diploma in Orthopaedics, FCPS - Orthopedic",17 Years Experience Overall,Orthopedist,"Katraj, Pune",0,0,₹300
+274,Dr. Nikheel Pansare,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MRCS (UK), MNAMS - Orthopaedics, Fellowship in Arthroscopy & Sports Surgery (Germany)",18 Years Experience Overall  (12 years as specialist),Orthopedist,"Kharadi, Pune",99% ,(2118 votes),₹650
+275,Dr. Pankaj Gunjal,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",19 Years Experience Overall  (15 years as specialist),Orthopedist,"Kothrud, Pune",0,0,₹500
+276,Dr. Anand Jadhav,"MBBS, FRCS - General Surgery, M.Ch - Orthopaedics",33 Years Experience Overall  (32 years as specialist),Orthopedist,"Baner, Pune",100% ,(28 votes),₹1000
+277,Dr. Rohit Chakor,"DNB - Orthopedics/Orthopedic Surgery, MBBS",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Hadapsar, Pune",96% ,(24 votes),₹600
+278,Dr. Amol Shinde,"MBBS, Diploma in Orthopaedics",15 Years Experience Overall  (12 years as specialist),Orthopedist,"Dhanori, Pune",100% ,(12 votes),₹400
+279,Dr. Kunal R Bansal,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Fatima Nagar, Pune",96% ,(237 votes),₹600
+280,Dr. Kedar Deogaonkar,"MS - Orthopaedics, MBBS, DNB - Orthopedics/Orthopedic Surgery, CCT - Trauma & Orthopaedic Surgery, FRCS - Trauma & Orthopedic Surgery, MRCS (UK)",27 Years Experience Overall  (22 years as specialist),Orthopedist,"Aundh, Pune",0,0,₹700
+281,Dr. Ashutosh A. Ajri,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Kharadi, Pune",99% ,(342 votes),₹500
+282,Dr. Mandar M. Puranik,"MBBS, Diploma in Orthopaedics",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Wagholi, Pune",96% ,(82 votes),₹400
+283,Dr. Shivanand Chikale,"MBBS, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (17 years as specialist),Orthopedist,"Ghorpadi, Pune",100% ,(14 votes),₹300
+284,Dr. Rohit Luthra,"DNB - Orthopedics/Orthopedic Surgery, MBBS",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Wanowrie, Pune",91% ,(67 votes),₹600
+285,Dr. Pratik Kumar,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (2 years as specialist),Orthopedist,"Keshav Nagar, Pune",0,0,₹500
+286,Dr. Tushar Chaudhari,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (5 years as specialist),Orthopedist,"Wakad, Pune",96% ,(82 votes),₹500
+287,Dr. Anand Kavi,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (18 years as specialist),Orthopedist,"Sadashiv Peth, Pune",0,0,₹500
+288,Dr. Sameer Desai,"MS - Orthopaedics, MBBS",23 Years Experience Overall  (17 years as specialist),Orthopedist,"Bibvewadi, Pune",0,0,₹800
+289,Dr. Harshal P Saoji,"MBBS, Diploma in Orthopaedics",10 Years Experience Overall  (3 years as specialist),Orthopedist,"Shivajinagar, Pune",0,0,₹400
+290,Dr. Sangram Rajale,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (6 years as specialist),Orthopedist,"Bavdhan, Pune",100% ,(37 votes),₹600
+291,Dr. Ashish Ranade,"MBBS, MS - Orthopaedics, MRCS (UK)",28 Years Experience Overall  (24 years as specialist),Orthopedist,"Kharadi, Pune",0,0,₹850
+292,Dr. Milin Jaiswal,"MBBS, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Aundh, Pune",0,0,₹500
+293,Dr. Narayan J. Karne,"MBBS, MS - Orthopaedics",39 Years Experience Overall  (35 years as specialist),Orthopedist,"Swargate, Pune",0,0,₹700
+294,Dr. Rounat Jadhav,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (6 years as specialist),Orthopedist,"Kharadi, Pune",0,0,₹700
+295,Dr. Vaibhav Patil,"MBBS, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (10 years as specialist),Orthopedist,"Nigdi, Pune",0,0,₹400
+296,Dr. Anand Surana,"MBBS, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Aundh, Pune",98% ,(52 votes),₹500
+297,Dr. Kedar Jagtap,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Kharadi, Pune",0,0,₹500
+298,Dr. Vinay Kumar Gautam,"MBBS, DNB - Orthopedics/Orthopedic Surgery",9 Years Experience Overall  (4 years as specialist),Orthopedist,"Keshav Nagar, Pune",0,0,₹400
+299,Dr. Varun Shelke,"MBBS, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Bavdhan, Pune",0,0,₹600
+300,Dr. Siddhesh Chandrakant Parab,"MBBS, Diploma in Orthopaedics",13 Years Experience Overall  (1 year as specialist),Orthopedist,"Aundh, Pune",0,0,₹500
+301,Dr. Rohan Gautam Maske,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (5 years as specialist),Orthopedist,"Kharadi, Pune",0,0,₹700
+302,Dr. Umesh Nagre,"MBBS, FRCS - Trauma & Orthopedic Surgery, Diploma in Orthopaedics, MRCS (UK)",20 Years Experience Overall,Orthopedist,"Loni Kalbhor, Pune",0,0,₹750
+303,Dr. Madhur Mahna,"MBBS, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (9 years as specialist),Orthopedist,"Rajouri Garden, Delhi",90% ,(152 votes),₹600
+304,Dr. Prof. Vipul Vijay,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Mayur Vihar Ph-II, Delhi",99% ,(607 votes),₹800
+305,Dr. Rajesh Bawari,"MBBS, Diploma in Anesthesiology, MS - Orthopaedics",32 Years Experience Overall  (25 years as specialist),Orthopedist,"Panchsheel Park, Delhi",91% ,(11 votes),₹1400
+306,Dr. Amite Pankaj Aggarwal,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",25 Years Experience Overall  (21 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",96% ,(222 votes),₹1200
+307,Dr. Manoj Miglani,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (20 years as specialist),Orthopedist,"Vasant Kunj, Delhi",81% ,(16 votes),₹1000
+308,Dr. Sushil Sharma,"MBBS, Diploma in Orthopaedics",37 Years Experience Overall  (35 years as specialist),Orthopedist,"Mayur Vihar Ph-II, Delhi",93% ,(241 votes),₹700
+309,Dr. Puneet Mishra,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (20 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",0,0,₹1000
+310,Dr. G K Agarwal,"MBBS, MS - Orthopaedics",48 Years Experience Overall,Orthopedist,"Shalimar Bagh, Delhi",100% ,(14 votes),₹1000
+311,Dr. Sumeet Rastogi,"MBBS, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall,Orthopedist,"Panchsheel Park, Delhi",0,0,₹1400
+312,Dr. Rajesh Verma,"MD - Physician, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (16 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1800
+313,Dr. Deepak Chaudhary,"MBBS, MS - Orthopaedics",39 Years Experience Overall  (33 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1700
+314,Dr. Shiv Chouksey,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1100
+315,Dr. Lalit Bafna,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FNB - Sports Medicine",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Greater Kailash Part 1, Delhi",100% ,(107 votes),₹1000
+316,Dr. Havind Tandon,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (26 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+317,Dr. Anil Raheja,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",25 Years Experience Overall,Orthopedist,"Karol Bagh, Delhi",78% ,(18 votes),₹1050
+318,Dr. Vinod Sukhijha,"MBBS, MS - Orthopaedics",47 Years Experience Overall  (42 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+319,Dr. Vivek Mittal,"MBBS, MS - Orthopaedics",29 Years Experience Overall,Orthopedist,"Pusa Road, Delhi",0,0,₹1500
+320,Dr. Chander Shekar,"MBBS, MS - Orthopaedics",42 Years Experience Overall  (36 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+321,Dr. S Mahanta,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",26 Years Experience Overall  (19 years as specialist),Orthopedist,"Dwarka, Delhi",95% ,(294 votes),₹600
+322,Dr. Sudhir Seth,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",40 Years Experience Overall  (36 years as specialist),Orthopedist,"CR Park, Delhi",83% ,(175 votes),₹1000
+323,Dr. Rakesh Mahajan,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",38 Years Experience Overall  (35 years as specialist),Orthopedist,"Pusa Road, Delhi",61% ,(23 votes),₹1500
+324,Dr. Gaurav Khera,"MBBS, Diploma in Orthopaedics",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Karol Bagh, Delhi",98% ,(293 votes),₹1050
+325,Dr. Lalit K Garg,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Vasant Kunj, Delhi",90% ,(229 votes),₹800
+326,Dr. Kamal Bachani,"MBBS, MS - Orthopaedics",32 Years Experience Overall  (28 years as specialist),Orthopedist,"Malviya Nagar, Delhi",96% ,(402 votes),₹1500
+327,Dr. Neelabh,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",27 Years Experience Overall  (25 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1200
+328,Dr. Rajeev Verma,"MBBS, MS - Orthopaedics, MRCS (UK)",22 Years Experience Overall  (21 years as specialist),Orthopedist,"Dwarka Sector 6, Delhi",89% ,(120 votes),₹900
+329,Dr. Akhilesh Rathi,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Dwarka, Delhi",98% ,(664 votes),₹700
+330,Dr. Yashwant Singh Tanwar,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1200
+331,Dr. Chetan Chaudhary,"MBBS, MS - Orthopaedics",33 Years Experience Overall  (30 years as specialist),Orthopedist,"Nehru Place, Delhi",0,0,₹2000
+332,Dr. Puneet Girdhar,"MBBS, MS - Orthopaedics",24 Years Experience Overall  (19 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1800
+333,Dr. Rahul Sharma,"MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Saket, Delhi",96% ,(104 votes),₹1200
+334,Dr. Rajagopalan Krishnan,"MBBS, MS - Orthopaedics",46 Years Experience Overall  (42 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹2000
+335,Dr. Harmesh Kapoor,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Paschim Vihar, Delhi",95% ,(40 votes),₹800
+336,Dr. Shivam Tiwari,"MBBS, DNB - Orthopedics/Orthopedic Surgery",8 Years Experience Overall  (5 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1100
+337,Dr. Rajnish Sethi,"MBBS, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (11 years as specialist),Orthopedist,"Dwarka Sector 8, Delhi",97% ,(90 votes),₹800
+338,Dr. V K Sahni,"MBBS, MS - Orthopaedics",38 Years Experience Overall  (33 years as specialist),Orthopedist,"Pitampura, Delhi",96% ,(650 votes),₹900
+339,Dr. Palash Gupta,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (23 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",72% ,(32 votes),₹1000
+340,Dr. D.K. Das,"MBBS, MS - Orthopaedics",26 Years Experience Overall  (18 years as specialist),Orthopedist,"CR Park, Delhi",83% ,(66 votes),₹1200
+341,Dr. Vinay Aggarwal,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Panchsheel Park, Delhi",94% ,(52 votes),₹1200
+342,Dr. Kunal Aneja,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics, FICS, Fellow of American College of Surgeons(FACS)",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Rohini, Delhi",100% ,(13 votes),₹800
+343,Dr. Praveen Tittal,"MS - Orthopaedics, MBBS",22 Years Experience Overall  (16 years as specialist),Orthopedist,"Dwarka Sector 6, Delhi",96% ,(45 votes),₹700
+344,Dr. Sankalp Bali,"MBBS, DNB - Orthopedics/Orthopedic Surgery",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Model Town 1, Delhi",98% ,(635 votes),₹700
+345,Dr. Raju Easwaran,"MS - Orthopaedics, MBBS",19 Years Experience Overall,Orthopedist,"Shalimar Bagh, Delhi",0,0,₹1500
+346,Dr. Abhishek Kumar Mishra,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (19 years as specialist),Orthopedist,"Hauz Khas, Delhi",97% ,(444 votes),₹1200
+347,Dr. Lalit,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (4 years as specialist),Orthopedist,"Green Park, Delhi",100% ,(22 votes),₹1200
+348,Dr. Ankur Sharma,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Rohini Sector 24, Delhi",0,0,₹500
+349,Dr. Manoj Padman,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FRCS - General Surgery, FRCS - Trauma & Orthopedic Surgery",26 Years Experience Overall  (25 years as specialist),Orthopedist,"Malviya Nagar, Delhi",97% ,(391 votes),₹1600
+350,Dr. Atul Kumar Garg,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Rohini, Delhi",99% ,(162 votes),₹600
+351,Dr. Vimal Kumar Dakour,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Lajpat Nagar, Delhi",96% ,(107 votes),₹500
+352,Dr. Nargesh Agrawal,"MS - Orthopaedics, MBBS",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1100
+353,Dr. Pardeep Bageja,"DNB - Orthopedics/Orthopedic Surgery, MBBS",27 Years Experience Overall  (21 years as specialist),Orthopedist,"Patel Nagar West, Delhi",89% ,(327 votes),₹900
+354,Dr. Raman Jain,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (14 years as specialist),Orthopedist,"Rohini, Delhi",96% ,(226 votes),₹600
+355,Dr. Darsh Goyal,"MBBS, MS - Orthopaedics, Fellowship in Arthroscopy & Sports Injury",17 Years Experience Overall  (8 years as specialist),Orthopedist,"Janakpuri, Delhi",96% ,(147 votes),₹500
+356,Dr. (Prof) Raju Vaishya,"MBBS, MS - Orthopaedics, FRCS - General Surgery",40 Years Experience Overall  (36 years as specialist),Orthopedist,"Sukhdev Vihar, Delhi",86% ,(79 votes),₹1200
+357,Dr. Rakesh Kumar,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Karol Bagh, Delhi",0,0,₹1050
+358,Dr. Ankit Bhartia,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Dwarka Sector 3, Delhi",98% ,(1373 votes),₹600
+359,Dr. Akram Jawed,"MBBS, MS - Orthopaedics",14 Years Experience Overall,Orthopedist,"Saket, Delhi",95% ,(73 votes),₹1200
+360,Dr. Vibhu Bahl,"MS - Orthopaedics, MBBS",22 Years Experience Overall  (16 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1200
+361,Dr. Akash Sabharwal,"MBBS, M.Ch - Orthopaedics, MS - Orthopaedics",16 Years Experience Overall,Orthopedist,"Panchsheel Park, Delhi",0,0,₹1500
+362,Dr. Gaurav Rastogi,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Dwarka Sector 6, Delhi",0,0,₹900
+363,Dr. Saksham Mittal,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (5 years as specialist),Orthopedist,"Paschim Vihar, Delhi",100% ,(20 votes),₹600
+364,Dr. Neetan Sachdeva,"DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS, Fellowship in Rheumatology",24 Years Experience Overall  (19 years as specialist),Orthopedist,"Pitampura, Delhi",96% ,(151 votes),₹800
+365,Dr. Naresh Agarwal,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Rohini, Delhi",96% ,(26 votes),₹800
+366,Dr. Ramneek Mahajan,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹1500
+367,Dr. Hari Kishan,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"Dwarka Sector 7, Delhi",100% ,(41 votes),₹700
+368,Dr. Vaibhav Awasthi,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Vikas Puri, Delhi",0,0,₹500
+369,Dr. Abhishek Vaish,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Sukhdev Vihar, Delhi",98% ,(62 votes),₹1000
+370,Dr. Satyanarain,"MBBS, Diploma in Orthopaedics",18 Years Experience Overall  (17 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",0,0,₹700
+371,Dr. Lalit Kumar Lohia,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Dwarka Sector 6, Delhi",0,0,₹900
+372,Dr. Ashish Chopra,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",10 Years Experience Overall  (6 years as specialist),Orthopedist,"East Of Kailash, Delhi",100% ,(17 votes),₹600
+373,Dr. Sourabh Shah,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",13 Years Experience Overall  (10 years as specialist),Orthopedist,"Dwarka Sector 6, Delhi",95% ,(19 votes),₹700
+374,Dr. Deepak Arora,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹800
+375,Dr. Ramani Narasimhan,"MBBS, MS - Orthopaedics",36 Years Experience Overall  (29 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+376,Dr. Sunil Sehrawat,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Dwarka Sector 19, Delhi",0,0,₹1000
+377,Dr. Ankur Goyal,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (4 years as specialist),Orthopedist,"Malviya Nagar, Delhi",97% ,(39 votes),₹700
+378,Dr. Aditya Sharma,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (12 years as specialist),Orthopedist,"Greater Kailash Part 1, Delhi",93% ,(44 votes),₹1000
+379,Dr. Mohan Chand,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Patparganj, Delhi",100% ,(30 votes),₹500
+380,Dr. Vikas Bhardwaj,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall,Orthopedist,"Nirman Vihar, Delhi",92% ,(12 votes),₹800
+381,Dr. Ashish Taneja,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (15 years as specialist),Orthopedist,"Janakpuri, Delhi",97% ,(141 votes),₹800
+382,Dr. Hitesh Bhandari,"MBBS, MS - Orthopaedics",4 Years Experience Overall,Orthopedist,"Greater Kailash Part 1, Delhi",0,0,₹1000
+383,Dr. Amit Kumar Srivastava,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (17 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹1000
+384,Dr. Om Prakash Gupta,"MS - Orthopaedics, MBBS",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Dwarka Sector 19, Delhi",73% ,(11 votes),₹1000
+385,Dr. Punit Kumar Jain,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",24 Years Experience Overall  (21 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",92% ,(12 votes),₹1200
+386,Dr. Mannu Bhatia,"DNB - Orthopedics/Orthopedic Surgery, MBBS",20 Years Experience Overall  (10 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",0,0,₹1200
+387,Dr. Nikhil Verma,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Model Town 3, Delhi",98% ,(65 votes),₹800
+388,Dr. Bharat Bahre,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Dwarka Sector 13, Delhi",72% ,(18 votes),₹800
+389,Dr. Kaushal Kant Mishra,"MS - Orthopaedics, MBBS",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Safdarjung Enclave, Delhi",62% ,(13 votes),₹2000
+390,Dr. Raj Kumar,"MBBS, MS - Orthopaedics",46 Years Experience Overall  (41 years as specialist),Orthopedist,"Rohini, Delhi",96% ,(306 votes),₹800
+391,Dr. Amit Sinha,"MBBS, Diploma in Orthopaedics",8 Years Experience Overall  (4 years as specialist),Orthopedist,"Dwarka Sector 3, Delhi",0,0,₹600
+392,Dr. Abhijit Tayade,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Greater Kailash Part 1, Delhi",0,0,₹1000
+393,Dr. Bhupendra Pratap Bharti,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1800
+394,Dr. Yash Gulati,"MS - Orthopaedics, M.Ch - Orthopaedics, MBBS",32 Years Experience Overall,Orthopedist,"Sarita Vihar, Delhi",85% ,(99 votes),₹1500
+395,Dr. Prof. Amit Kumar Agarwal,"MS - Orthopaedics, M.Ch - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MBBS",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Sarita Vihar, Delhi",98% ,(256 votes),₹1500
+396,Dr. Suraj Prakash,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",27 Years Experience Overall,Orthopedist,"Saket, Delhi",93% ,(69 votes),₹1000
+397,Dr. Ankit Gupta,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (13 years as specialist),Orthopedist,"Shastri Nagar, Delhi",100% ,(19 votes),₹500
+398,Dr. Gurinder Bedi,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",33 Years Experience Overall  (28 years as specialist),Orthopedist,"Vasant Kunj, Delhi",95% ,(294 votes),₹1200
+399,Dr. Saurabh Rawall,"MBBS, MS - Orthopaedics, FNB - Spine Surgery",17 Years Experience Overall  (14 years as specialist),Orthopedist,"Sarita Vihar, Delhi",97% ,(391 votes),₹1500
+400,Dr. Dharmesh Khatri,"MS - Orthopaedics, MBBS",15 Years Experience Overall,Orthopedist,"Janakpuri, Delhi",94% ,(16 votes),₹700
+401,Dr. Nipun Bajaj,"DNB - Orthopedics/Orthopedic Surgery, FNB - Spine Surgery, MNAMS - Orthopaedics",14 Years Experience Overall  (12 years as specialist),Orthopedist,"Nehru Place, Delhi",0,0,₹1000
+402,Dr. Abhimanyu Singh,"MS - Orthopaedics, MBBS",14 Years Experience Overall  (11 years as specialist),Orthopedist,"Rohini, Delhi",0,0,₹500
+403,Dr. Gurdeep Singh Uppal,"MBBS, DNB - Orthopedics/Orthopedic Surgery",45 Years Experience Overall  (28 years as specialist),Orthopedist,"Dwarka, Delhi",92% ,(177 votes),₹650
+404,Dr. Harsh Bhargava,"MBBS, MS - Orthopaedics",41 Years Experience Overall  (38 years as specialist),Orthopedist,"Sarita Vihar, Delhi",94% ,(142 votes),₹2000
+405,Dr. N. C. Gupta,"MBBS, MS - Orthopaedics",56 Years Experience Overall  (50 years as specialist),Orthopedist,"Kamla Nagar, Delhi",0,0,₹500
+406,Dr. Hitin Mathur,"MBBS, DNB - Orthopedics/Orthopedic Surgery",23 Years Experience Overall  (16 years as specialist),Orthopedist,"Patparganj, Delhi",95% ,(149 votes),₹800
+407,Dr. M N Sehar,"MBBS, Diploma in Orthopaedics",41 Years Experience Overall  (38 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹2000
+408,Dr. Dhananjay Gupta,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",28 Years Experience Overall  (22 years as specialist),Orthopedist,"Vasant Kunj, Delhi",0,0,₹1000
+409,Dr. Pankaj Walecha,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Karol Bagh, Delhi",0,0,₹1200
+410,Dr. Bhushan Naraini,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Pusa Road, Delhi",0,0,₹1500
+411,Dr. Aroop Mukherjee,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",33 Years Experience Overall,Orthopedist,"Panchsheel Park, Delhi",0,0,₹1500
+412,Dr. Yatinder Kharbanda,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",35 Years Experience Overall,Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+413,Dr. Kulbhushan Attri,"MBBS, MS - Orthopaedics",44 Years Experience Overall  (39 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+414,Dr. Ashwani Maichand,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (25 years as specialist),Orthopedist,"Punjabi Bagh, Delhi",92% ,(24 votes),₹1500
+415,Dr. Ishwar Bohra,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Pusa Road, Delhi",73% ,(11 votes),₹1500
+416,Dr. Kamal Dureja,"MBBS, MS - Orthopaedics, Diploma in Tuberculosis and Chest Diseases (DTCD)",40 Years Experience Overall  (35 years as specialist),Orthopedist,"Saket, Delhi",92% ,(79 votes),₹1500
+417,Dr. Biren Nadkarni,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (19 years as specialist),Orthopedist,"Hauz Khas, Delhi",98% ,(508 votes),₹1200
+418,Dr. Anoop Bandil,"MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (12 years as specialist),Orthopedist,"Sarita Vihar, Delhi",0,0,₹1500
+419,Dr. Aditya Kumar Singhal,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Rohini Sector 7, Delhi",91% ,(35 votes),₹800
+420,Dr. Sandeep Singh,"MBBS, MS - Orthopaedics",21 Years Experience Overall,Orthopedist,"Chattarpur, Delhi",95% ,(22 votes),₹800
+421,Dr. Ritesh Dang,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",20 Years Experience Overall  (19 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",100% ,(16 votes),₹1000
+422,Dr. Nikunj Agrawal,"MBBS, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Patparganj, Delhi",97% ,(38 votes),₹800
+423,Dr. Vinod Kumar Sabharwal,"DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS",41 Years Experience Overall  (37 years as specialist),Orthopedist,"Dwarka Sector 12, Delhi",0,0,₹1000
+424,Dr. Sharad Kumar Agarwal,"MBBS, MS - Orthopaedics",37 Years Experience Overall,Orthopedist,"Patparganj, Delhi",0,0,₹1500
+425,Dr. Paras Aggarwal,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (4 years as specialist),Orthopedist,"Dwarka Sector 12, Delhi",100% ,(20 votes),₹1000
+426,Dr. (Prof.) Anil Arora,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",35 Years Experience Overall  (32 years as specialist),Orthopedist,"Patparganj, Delhi",83% ,(40 votes),₹1800
+427,Dr. Lalit Sagar,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (14 years as specialist),Orthopedist,"Preet Vihar, Delhi",0,0,₹600
+428,Dr. Rakesh Chandra Arya,"MBBS, MS - Orthopaedics",42 Years Experience Overall  (38 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹700
+429,Dr. Rajeev Jain,"MBBS, MS - Orthopaedics",40 Years Experience Overall  (34 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹1000
+430,Dr. Yash Bhatia,"MS - Orthopaedics, MBBS",11 Years Experience Overall  (8 years as specialist),Orthopedist,"New Rajendra Nagar, Delhi",0,0,₹1000
+431,Dr. Narender Kumar Magu,"MS - Orthopaedics, MBBS",39 Years Experience Overall,Orthopedist,"Saket, Delhi",0,0,₹2000
+432,Dr. Gaurav Prakash,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹700
+433,Dr. H.N. Bajaj,"MS - Orthopaedics, Diploma in Orthopaedics, MBBS",39 Years Experience Overall  (36 years as specialist),Orthopedist,"Saket, Delhi",85% ,(27 votes),₹1500
+434,Dr. Anuj Gupta,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Saket, Delhi",100% ,(36 votes),₹800
+435,Dr. L.Tomar,"MBBS, MS - Orthopaedics",33 Years Experience Overall  (30 years as specialist),Orthopedist,"Patparganj, Delhi",50% ,(18 votes),₹1200
+436,Dr. Vikas Gupta,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (27 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹1500
+437,Dr. Gaurav Govil,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (21 years as specialist),Orthopedist,"Patparganj, Delhi",0,0,₹800
+438,Dr. Sankalp Pande,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Malviya Nagar, Delhi",0,0,₹500
+439,Dr. Munish Choudhary,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (27 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹1200
+440,Dr. Akshay Tiwari,"MBBS, MS - Orthopaedics",17 Years Experience Overall,Orthopedist,"Saket, Delhi",0,0,₹1200
+441,Dr. Ashish Jain,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (22 years as specialist),Orthopedist,"Shalimar Bagh, Delhi",0,0,₹1000
+442,Dr. Chandeep Singh,"MBBS, MS - Orthopaedics",24 Years Experience Overall  (20 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹1200
+443,Dr. Ayush Tiwari,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (4 years as specialist),Orthopedist,"Malviya Nagar, Delhi",0,0,₹500
+444,Dr. Sunil Katoch,"MBBS, Diploma in Orthopaedics",33 Years Experience Overall  (31 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹1200
+445,Dr. SKS Marya,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",41 Years Experience Overall  (38 years as specialist),Orthopedist,"Saket, Delhi",20% ,(15 votes),₹1200
+446,Dr. Shitij Kacker,"MBBS, MS - Orthopaedics",17 Years Experience Overall,Orthopedist,"Saket, Delhi",0,0,₹1200
+447,Dr. Anchit Uppal,"MBBS, Diploma in Orthopaedics",17 Years Experience Overall  (2 years as specialist),Orthopedist,"Saket, Delhi",0,0,₹800
+448,Dr. Dinesh Mohan Choudary,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Aminjikarai, Chennai",0,0,₹500
+449,Dr. Phani Kiran S,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FNB - Spine Surgery",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Perumbakkam, Chennai",99% ,(292 votes),₹800
+450,Dr. Kanniraj Marimuthu,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (13 years as specialist),Orthopedist,"Vanagaram, Chennai",100% ,(140 votes),₹800
+451,Dr. Karunakaran. S,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (21 years as specialist),Orthopedist,"Perumbakkam, Chennai",100% ,(14 votes),₹800
+452,Dr. Aghilavendan P,"MS - Orthopaedics, MBBS",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Vanagaram, Chennai",0,0,₹800
+453,Dr. S.S. Kumar,"MBBS, FRCS (Edinburgh), FRCS - Trauma & Orthopedic Surgery",29 Years Experience Overall  (13 years as specialist),Orthopedist,"Velachery, Chennai",96% ,(830 votes),₹600
+454,Dr. Vivek A N,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (17 years as specialist),Orthopedist,"Adyar, Chennai",100% ,(38 votes),₹500
+455,Dr. S. H. Jaheer Hussain,"MBBS, MS - Orthopaedics",24 Years Experience Overall  (20 years as specialist),Orthopedist,"Kilpauk, Chennai",97% ,(36 votes),₹500
+456,Dr. Senthil Kamalasekaran,"MBBS, MS - Orthopaedics, MRCS (UK)",27 Years Experience Overall  (20 years as specialist),Orthopedist,"Thoraipakkam, Chennai",98% ,(126 votes),₹1000
+457,Dr. Balamurugan J,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (14 years as specialist),Orthopedist,"Chromepet, Chennai",100% ,(34 votes),₹600
+458,Dr. Ramkumar Ponraj,"MS - Orthopaedics, MBBS",11 Years Experience Overall  (7 years as specialist),Orthopedist,"Neelankarai, Chennai",100% ,(16 votes),₹600
+459,Dr. J. Faisal,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Porur, Chennai",98% ,(658 votes),₹500
+460,Dr. Damodaran P R,"MBBS, MS - Orthopaedics, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",25 Years Experience Overall  (18 years as specialist),Orthopedist,"OMR Road, Chennai",97% ,(67 votes),₹700
+461,Dr. S.Muthukumar,"MBBS, Diploma in Orthopaedics",38 Years Experience Overall  (31 years as specialist),Orthopedist,"Chromepet, Chennai",93% ,(27 votes),₹800
+462,Dr. Navaladi Shankar,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",25 Years Experience Overall  (24 years as specialist),Orthopedist,"Greams Road, Chennai",86% ,(29 votes),₹1500
+463,Dr. Rufus Vasanth Raj,"MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹600
+464,Dr. Anand M,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Adyar, Chennai",0,0,₹500
+465,Dr. Senthil Kumar Durai,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+466,Dr. Imtiaz Ghani,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (11 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1500
+467,Dr. V. Ravi,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",26 Years Experience Overall  (20 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+468,Dr. Praveen Kumar,"MBBS, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",26 Years Experience Overall  (21 years as specialist),Orthopedist,"Greams Road, Chennai",100% ,(33 votes),₹1000
+469,Dr. Prof. Mani Ramesh,"MS - Orthopaedics, MBBS",40 Years Experience Overall  (34 years as specialist),Orthopedist,"Aminjikarai, Chennai",90% ,(67 votes),₹800
+470,Dr. Madhukiran Yarlagadda,"MS - Orthopaedics, MBBS",13 Years Experience Overall  (9 years as specialist),Orthopedist,"T Nagar, Chennai",100% ,(46 votes),₹1000
+471,Dr. Prakash Selvam,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (13 years as specialist),Orthopedist,"Greams Road, Chennai",94% ,(18 votes),₹500
+472,Dr. Vijay Kishore Reddy,"DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MD - Physician",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+473,Dr. Bharani Kumar Dayanandam,"MBBS, FRCS - Trauma & Orthopedic Surgery",27 Years Experience Overall  (12 years as specialist),Orthopedist,"Periyar Nagar, Chennai",97% ,(123 votes),₹400
+474,Dr. Madhan Thiruvengada,"MBBS, Diploma in Orthopaedics",25 Years Experience Overall  (22 years as specialist),Orthopedist,"OMR Road, Chennai",0,0,₹700
+475,Dr. Sivaraman B,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery, MRCS (UK)",24 Years Experience Overall  (18 years as specialist),Orthopedist,"Thoraipakkam, Chennai",100% ,(348 votes),₹750
+476,Dr. P. Rajasekar,"MBBS, DNB - Orthopedics/Orthopedic Surgery",28 Years Experience Overall  (26 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+477,Dr. Madan Mohan Reddy,"MBBS, MS - Orthopaedics",34 Years Experience Overall  (30 years as specialist),Orthopedist,"Anna Nagar, Chennai",96% ,(68 votes),₹600
+478,Dr. Sudheer Mahabeer,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",37 Years Experience Overall  (35 years as specialist),Orthopedist,"Alwarpet, Chennai",100% ,(13 votes),₹650
+479,Dr. Clington J Fernando,"MBBS, Diploma in Orthopaedics",25 Years Experience Overall  (22 years as specialist),Orthopedist,"Thousand Lights, Chennai",0,0,₹1000
+480,Dr. K Krishnamoorthy,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",24 Years Experience Overall  (21 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1500
+481,Dr. R. G. Praveen,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",9 Years Experience Overall  (5 years as specialist),Orthopedist,"Arumbakkam, Chennai",0,0,₹500
+482,Dr. Arumugam,"MBBS, MS - Orthopaedics, Diploma in Orthopaedics, M.Ch - Orthopaedics",25 Years Experience Overall  (22 years as specialist),Orthopedist,"T Nagar, Chennai",96% ,(26 votes),₹750
+483,Dr. Gopala Krishnan,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",40 Years Experience Overall  (38 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1200
+484,Dr. K P Kosygan,"MBBS, FRCS - Trauma & Orthopedic Surgery",30 Years Experience Overall  (17 years as specialist),Orthopedist,"Greams Road, Chennai",98% ,(41 votes),₹1000
+485,Dr. Suresh Kumar B C,"MBBS, DNB - Orthopedics/Orthopedic Surgery",5 Years Experience Overall  (3 years as specialist),Orthopedist,"Kilpauk, Chennai",0,0,₹500
+486,Dr. Venkataramanan Swaminathan,"MBBS, MS - Orthopaedics, Diploma in Orthopaedics",34 Years Experience Overall  (30 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+487,Dr. V Thirumal Selvan,"MBBS, FRCS - Trauma & Orthopedic Surgery, MS - Orthopaedics",37 Years Experience Overall  (13 years as specialist),Orthopedist,"Kilpauk, Chennai",0,0,₹500
+488,Dr. K. Sajan Hegde,"MBBS, MS - Orthopaedics",42 Years Experience Overall  (36 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1500
+489,Dr. Arun Kannan,"MS - Orthopaedics, MBBS",17 Years Experience Overall  (14 years as specialist),Orthopedist,"Thousand Lights, Chennai",97% ,(329 votes),₹1000
+490,Dr. Praveen Kumar K,"MBBS, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+491,Dr. Sumesh S,"MS - Orthopaedics, MBBS",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Vadapalani, Chennai",0,0,₹500
+492,Dr. Karthik Anand,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Nungambakkam, Chennai",100% ,(49 votes),₹500
+493,Dr. J. Panthala Rajakumaran,"MBBS, MS - Orthopaedics",12 Years Experience Overall,Orthopedist,"Chetpet, Chennai",0,0,₹500
+494,Dr. Dhilip Kumar T,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (23 years as specialist),Orthopedist,"Tondiarpet, Chennai",0,0,₹500
+495,Dr. Kunal Patel,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (7 years as specialist),Orthopedist,"Kilpauk, Chennai",0,0,₹500
+496,Dr. Thiruvengita Prasad G,"MBBS, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall,Orthopedist,"OMR Road, Chennai",0,0,₹700
+497,Dr. Dorai Kumar R,"MBBS, MS - Orthopaedics",29 Years Experience Overall  (24 years as specialist),Orthopedist,"MRC Nagar, Chennai",0,0,₹700
+498,Dr. JayaMoorthy T,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",35 Years Experience Overall  (27 years as specialist),Orthopedist,"T Nagar, Chennai",0,0,₹700
+499,Dr. Nalli Gopinath,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",30 Years Experience Overall  (23 years as specialist),Orthopedist,"MRC Nagar, Chennai",0,0,₹500
+500,Dr. Narendra Dasaraju,"MBBS, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (12 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹800
+501,Dr. Venkataramanan Swaminathan,"MBBS, MS - Orthopaedics",33 Years Experience Overall  (30 years as specialist),Orthopedist,"OMR Road, Chennai",0,0,₹700
+502,Dr. Madhan Thiruvengada,"MBBS, Diploma in Orthopaedics",25 Years Experience Overall  (21 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+503,Dr. Santhosh Jacob,"MBBS, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (3 years as specialist),Orthopedist,"T Nagar, Chennai",0,0,₹700
+504,Dr. Ashok Kumar M,"MS - Orthopaedics, MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (7 years as specialist),Orthopedist,"Madipakkam, Chennai",0,0,₹400
+505,Dr. R.Prabhakar Singh,"MBBS, Diploma in Child Health (DCH), MS - Orthopaedics",24 Years Experience Overall  (10 years as specialist),Orthopedist,"Kilpauk, Chennai",0,0,₹700
+506,Dr. Arun K Ramanathan,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics, MRCS (UK)",26 Years Experience Overall  (20 years as specialist),Orthopedist,"OMR Road, Chennai",0,0,₹700
+507,Dr. Sankar R,"MBBS, Diploma in Orthopaedics",34 Years Experience Overall  (29 years as specialist),Orthopedist,"Thousand Lights, Chennai",0,0,₹800
+508,Dr. Vijay Balaji,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Adyar, Chennai",0,0,₹1000
+509,Dr. Radhakrishnan,"MS - Orthopaedics, MBBS",12 Years Experience Overall  (5 years as specialist),Orthopedist,"Kotturpuram, Chennai",97% ,(65 votes),₹300
+510,Dr. Mullaivendan,"Diploma in Orthopaedics, MBBS",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Perungudi, Chennai",0,0,₹500
+511,Dr. V. L. Narayanan,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Anna Nagar, Chennai",0,0,₹500
+512,Dr. Ilavarasan,"MBBS, Diploma in Orthopaedics",21 Years Experience Overall  (17 years as specialist),Orthopedist,"MRC Nagar, Chennai",0,0,₹750
+513,Dr. Ranjith,"MS - Orthopaedics, MBBS",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Chromepet, Chennai",96% ,(167 votes),₹400
+514,Dr. Naveen Lysander,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (7 years as specialist),Orthopedist,"OMR Road, Chennai",0,0,₹500
+515,Dr. M. Shiva Reddy,"DNB - Orthopedics/Orthopedic Surgery, MD - Physician",15 Years Experience Overall  (9 years as specialist),Orthopedist,"Medavakkam, Chennai",0,0,₹500
+516,Dr. Sathya Vignes,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+517,Dr. Yogesh Kumar B,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (8 years as specialist),Orthopedist,"Adyar, Chennai",0,0,₹600
+518,Dr. Karthick Swaminathan,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",17 Years Experience Overall  (13 years as specialist),Orthopedist,"Perumbakkam, Chennai",0,0,₹400
+519,Dr. Rajesh Babu,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (13 years as specialist),Orthopedist,"Valasaravakkam, Chennai",0,0,₹500
+520,Dr. Karthik P Reddy,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (4 years as specialist),Orthopedist,"Anna Nagar, Chennai",0,0,₹500
+521,Dr. Arun Viswanath. N,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (5 years as specialist),Orthopedist,"Saidapet, Chennai",0,0,₹500
+522,Dr. Chinna Durai S,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Kovilambakkam, Chennai",100% ,(44 votes),₹400
+523,Dr. A P Siva Kumar,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (11 years as specialist),Orthopedist,"Medavakkam, Chennai",88% ,(123 votes),₹400
+524,Dr. Senthilvelan.R,"FRCS - Trauma & Orthopedic Surgery, Diploma in Orthopaedics, MBBS",21 Years Experience Overall  (18 years as specialist),Orthopedist,"Manapakkam, Chennai",97% ,(102 votes),₹800
+525,Dr. Billy Paul Wilson,"MBBS, MS - Orthopaedics, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",24 Years Experience Overall  (19 years as specialist),Orthopedist,"Manapakkam, Chennai",100% ,(14 votes),₹800
+526,Dr. Charanjit Singh Dhillon,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",23 Years Experience Overall  (17 years as specialist),Orthopedist,"Manapakkam, Chennai",100% ,(12 votes),₹800
+527,Dr. B. Vijayakrishnan,"MBBS, Diploma in Orthopaedics",23 Years Experience Overall  (17 years as specialist),Orthopedist,"Alwarthirunagar, Chennai",96% ,(48 votes),₹500
+528,Dr. Ashok Selvaraj,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Manapakkam, Chennai",0,0,₹800
+529,Dr. K. Velmurugan,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (17 years as specialist),Orthopedist,"Nanganallur, Chennai",94% ,(69 votes),₹400
+530,Dr. Anbagalan.K,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",45 Years Experience Overall  (37 years as specialist),Orthopedist,"Tambaram East, Chennai",0,0,₹350
+531,Dr. Surendar Bora,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics",43 Years Experience Overall  (41 years as specialist),Orthopedist,"Saidapet, Chennai",0,0,₹500
+532,Dr. A.R.Kesavan,"MBBS, MS - Orthopaedics",28 Years Experience Overall  (23 years as specialist),Orthopedist,"Perumbakkam, Chennai",0,0,₹800
+533,Dr. Ajit Yadav,"MBBS, MS - Orthopaedics",35 Years Experience Overall  (33 years as specialist),Orthopedist,"Perumbakkam, Chennai",0,0,₹800
+534,Dr. Balaji Subramanian,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Guindy, Chennai",0,0,₹600
+535,Dr. Nandakumar Natarajan,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",7 Years Experience Overall,Orthopedist,"Alwarpet, Chennai",0,0,₹500
+536,Dr. Shriram Krishnamoorthy,"DNB - Orthopedics/Orthopedic Surgery, MBBS",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Adyar, Chennai",100% ,(109 votes),₹400
+537,Dr. Muthu Rathinam,"MBBS, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (14 years as specialist),Orthopedist,"Valasaravakkam, Chennai",91% ,(23 votes),₹500
+538,Dr. K C Mohan,"DNB - Orthopedics/Orthopedic Surgery, MBBS",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Ashok Nagar, Chennai",0,0,₹500
+539,Dr. Vijay Bose,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",34 Years Experience Overall  (30 years as specialist),Orthopedist,"Vadapalani, Chennai",97% ,(30 votes),₹800
+540,Dr. C.Srinivasacholan,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (2 years as specialist),Orthopedist,"Pallavaram, Chennai",0,0,₹350
+541,Dr. Ram Chidambaram,"MBBS, Diploma in Orthopaedics, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",30 Years Experience Overall  (25 years as specialist),Orthopedist,"Aminjikarai, Chennai",100% ,(30 votes),₹1000
+542,Dr. Raj Kanna,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Kilpauk, Chennai",96% ,(25 votes),₹700
+543,Dr. Muralidharan Venkatesan,"MBBS, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",22 Years Experience Overall  (13 years as specialist),Orthopedist,"Teynampet, Chennai",100% ,(27 votes),₹1000
+544,Dr. Jagannath.P.G,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Velachery, Chennai",100% ,(15 votes),₹500
+545,Dr. Vignesh Mathialagan,"MBBS, Diploma in Orthopaedics",9 Years Experience Overall  (5 years as specialist),Orthopedist,"Chetpet, Chennai",0,0,₹500
+546,Dr. D Balamurugan,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Villivakkam, Chennai",0,0,₹400
+547,Dr. R. Saravanan,"MBBS, Diploma in Orthopaedics, FRCS - Trauma & Orthopedic Surgery, FRCS (Edinburgh)",32 Years Experience Overall  (30 years as specialist),Orthopedist,"Virugambakkam, Chennai",0,0,₹500
+548,Dr. Barani Rathinavelu,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK)",21 Years Experience Overall  (14 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+549,Dr. Mayil Vahanan Natarajan,"MBBS, MS - Orthopaedics, Diploma in Orthopaedics",44 Years Experience Overall  (42 years as specialist),Orthopedist,"Teynampet, Chennai",0,0,₹1000
+550,Dr. Deebak Kumar,"MS - Orthopaedics, MBBS",10 Years Experience Overall,Orthopedist,"Kilpauk, Chennai",100% ,(119 votes),₹750
+551,Dr. Kalaivanan Kanniyan,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Vadapalani, Chennai",0,0,₹800
+552,Dr. Soundar Manickam,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Aminjikarai, Chennai",0,0,₹500
+553,Dr. Dharmarajan J,"Diploma in Orthopaedics, MBBS",36 Years Experience Overall  (25 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+554,Dr. Prof. S Sundar,"MBBS, MS - Orthopaedics",30 Years Experience Overall  (23 years as specialist),Orthopedist,"Chetpet, Chennai",100% ,(14 votes),₹1000
+555,Dr. Clement Joseph,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (20 years as specialist),Orthopedist,"Vadapalani, Chennai",99% ,(149 votes),₹800
+556,Dr. G Mohan,"MBBS, MS - Orthopaedics",26 Years Experience Overall  (21 years as specialist),Orthopedist,"Vadapalani, Chennai",0,0,₹500
+557,Dr. Vijay Kumar Sohanlal,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (13 years as specialist),Orthopedist,"Aminjikarai, Chennai",98% ,(60 votes),₹800
+558,Dr. K.Karthik Kailash,"MBBS, DNB - Orthopedics/Orthopedic Surgery",35 Years Experience Overall  (33 years as specialist),Orthopedist,"MRC Nagar, Chennai",0,0,₹700
+559,Dr. Vetri Kumar,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+560,Dr. CT. Arunachalam,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (19 years as specialist),Orthopedist,"Teynampet, Chennai",0,0,₹1000
+561,Dr. Ashok Kumar P S,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (15 years as specialist),Orthopedist,"Vadapalani, Chennai",0,0,₹800
+562,Dr. Sandeep,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (7 years as specialist),Orthopedist,"Kodambakkam, Chennai",0,0,₹300
+563,Dr. K.Thanigai Mani,"MS - Orthopaedics, MBBS",17 Years Experience Overall,Orthopedist,"Poonamalle, Chennai",0,0,₹500
+564,Dr. Naresh Kumar Krishnamurthy,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+565,Dr. P Gopinath Menon,MS - Orthopaedics,18 Years Experience Overall,Orthopedist,"Thousand Lights, Chennai",0,0,₹1000
+566,Dr. Pichai Suryanarayan,"MBBS, MS - Orthopaedics",32 Years Experience Overall,Orthopedist,"Vadapalani, Chennai",0,0,₹800
+567,Dr. Suresh Paramasivam,"MCh - Neuro Surgery, MS - Orthopaedics, MBBS",13 Years Experience Overall  (12 years as specialist),Orthopedist,"Mylapore, Chennai",92% ,(12 votes),₹500
+568,Dr. Nalli R Yuvaraj,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",35 Years Experience Overall  (32 years as specialist),Orthopedist,"MRC Nagar, Chennai",0,0,₹1000
+569,Dr. R Tamil Vanan,"MBBS, Diploma in Orthopaedics",29 Years Experience Overall  (8 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+570,Dr. Thanikachalam Ramakrishnan,"MBBS, Diploma in Orthopaedics",27 Years Experience Overall  (20 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+571,Dr. Haemanath P,"MBBS, MS - Orthopaedics",5 Years Experience Overall  (2 years as specialist),Orthopedist,"Chromepet, Chennai",100% ,(14 votes),₹350
+572,Dr. E.R.Mithun,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (11 years as specialist),Orthopedist,"Chromepet, Chennai",0,0,₹800
+573,Dr. C. Lenin,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (21 years as specialist),Orthopedist,"Greams Road, Chennai",0,0,₹1000
+574,Dr. Vijay Sriram,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (23 years as specialist),Orthopedist,"Saidapet, Chennai",0,0,₹950
+575,Dr. Prashanth Pandian,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Padappai, Chennai",0,0,₹350
+576,Dr. Sanjeed C Pujary,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Andheri, Mumbai",0,0,₹1500
+577,Dr. Umesh Shetty,"MS - Orthopaedics, MBBS",32 Years Experience Overall  (29 years as specialist),Orthopedist,"Andheri West, Mumbai",84% ,(378 votes),₹1500
+578,Dr. Rahul Rane,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MNAMS - Orthopaedics",17 Years Experience Overall  (12 years as specialist),Orthopedist,"Powai, Mumbai",95% ,(125 votes),₹1400
+579,Dr. Shreedhar Archik,"MBBS, MS - Orthopaedics",35 Years Experience Overall  (31 years as specialist),Orthopedist,"Parel, Mumbai",93% ,(313 votes),₹2350
+580,Dr. Shaival Chauhan,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",17 Years Experience Overall  (11 years as specialist),Orthopedist,"Ghatkopar West, Mumbai",100% ,(627 votes),₹1000
+581,Dr. Safiuddin,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (10 years as specialist),Orthopedist,"Tardeo, Mumbai",0,0,₹1500
+582,Dr. Kaustubh Ravindra Durve,"MRCS (UK), MS - Orthopaedics, MBBS",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Chembur, Mumbai",0,0,₹1500
+583,Dr. Uday M Pawar,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",22 Years Experience Overall  (17 years as specialist),Orthopedist,"Parel, Mumbai",96% ,(23 votes),₹1850
+584,Dr. Pradeep Moonot,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",27 Years Experience Overall  (22 years as specialist),Orthopedist,"Santacruz West, Mumbai",100% ,(18 votes),₹2200
+585,Dr. Kumar S Shetty,"MBBS, Diploma in Orthopaedics",10 Years Experience Overall,Orthopedist,"Mulund West, Mumbai",0,0,₹2000
+586,Dr. Siddharth M. Shah,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (12 years as specialist),Orthopedist,"Mahim, Mumbai",100% ,(28 votes),₹1500
+587,Dr. Neelkanth Dhamnaskar,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS",27 Years Experience Overall  (26 years as specialist),Orthopedist,"Parel, Mumbai",100% ,(18 votes),₹1850
+588,Dr. Ajay Randive,"MS - Orthopaedics, MBBS",23 Years Experience Overall  (22 years as specialist),Orthopedist,"Santacruz East, Mumbai",84% ,(25 votes),₹1000
+589,Dr. Yajuvendra Gawai,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (18 years as specialist),Orthopedist,"Santacruz West, Mumbai",98% ,(115 votes),₹1500
+590,Dr. Atul Patil,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall  (9 years as specialist),Orthopedist,"Mulund East, Mumbai",97% ,(217 votes),₹800
+591,Dr. Satish Mutha,"MS - Orthopaedics, MBBS",29 Years Experience Overall  (25 years as specialist),Orthopedist,"Mahim, Mumbai",92% ,(13 votes),₹1300
+592,Dr. Prasad Chaudhari,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",24 Years Experience Overall  (19 years as specialist),Orthopedist,"Chembur, Mumbai",95% ,(19 votes),₹1000
+593,Dr. Bhavin Shial,"MS - Orthopaedics, MBBS",21 Years Experience Overall  (14 years as specialist),Orthopedist,"Andheri West, Mumbai",97% ,(35 votes),₹2000
+594,Dr. Utkarsh Pawar,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Andheri West, Mumbai",100% ,(26 votes),₹1500
+595,Dr. Shantanu  K Kundgir,"MBBS, Diploma in Orthopaedics, FCPS - Orthopedic",19 Years Experience Overall  (13 years as specialist),Orthopedist,"Bandra West, Mumbai",90% ,(59 votes),₹1500
+596,Dr. Devesh Dholakia,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (26 years as specialist),Orthopedist,"Parel, Mumbai",0,0,₹1750
+597,Dr. Haresh Mangalani,"MBBS, MS - Orthopaedics",31 Years Experience Overall  (27 years as specialist),Orthopedist,"Mulund West, Mumbai",0,0,₹2000
+598,Dr. Ashish Agarwal,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",33 Years Experience Overall  (27 years as specialist),Orthopedist,"Matunga, Mumbai",97% ,(530 votes),₹1500
+599,Dr. Amit Shashikant Munde,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Borivali West, Mumbai",100% ,(16 votes),₹700
+600,Dr. Nisarg Bhatt,"Diploma in Orthopaedics, MBBS",8 Years Experience Overall  (5 years as specialist),Orthopedist,"Malad West, Mumbai",100% ,(15 votes),₹1200
+601,Dr. M T KHAN,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MBBS",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Khar West, Mumbai",100% ,(34 votes),₹1500
+602,Dr. Samarjit S. Bansal,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Borivali, Mumbai",99% ,(251 votes),₹600
+603,Dr. Prithviraj Deshmukh,"MBBS, MS - Orthopaedics",4 Years Experience Overall  (1 year as specialist),Orthopedist,"Andheri East, Mumbai",0,0,₹800
+604,Dr. Bhushan Sabnis,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MRCS (UK), FRCS - Trauma & Orthopedic Surgery",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Andheri West, Mumbai",0,0,₹2000
+605,Dr. Santosh Patil,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (13 years as specialist),Orthopedist,"Chembur, Mumbai",100% ,(32 votes),₹1000
+606,Dr. Vijay Patil,"MS - Orthopaedics, MBBS",14 Years Experience Overall,Orthopedist,"Borivali West, Mumbai",0,0,₹800
+607,Dr. Anoop Dhamangaonkar,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FCPS - Orthopedic, MNAMS - Orthopaedics",9 Years Experience Overall  (8 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1800
+608,Dr. Vijay D Shetty,"MBBS, MS - Orthopaedics",27 Years Experience Overall,Orthopedist,"Powai, Mumbai",99% ,(2256 votes),₹2100
+609,Dr. Kunal Shah,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (17 years as specialist),Orthopedist,"Dahisar, Mumbai",98% ,(83 votes),₹600
+610,Dr. Sachin Bhonsle,"MBBS, MS - Orthopaedics, FRCS (Glasgow)",37 Years Experience Overall  (33 years as specialist),Orthopedist,"Mulund West, Mumbai",85% ,(26 votes),₹2000
+611,Dr. Rujuta Mehta,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",29 Years Experience Overall  (26 years as specialist),Orthopedist,"Santacruz West, Mumbai",96% ,(24 votes),₹1500
+612,Dr. Ritesh Nazareth,"MBBS, DNB - Orthopedics/Orthopedic Surgery",21 Years Experience Overall  (10 years as specialist),Orthopedist,"Kalina, Mumbai",99% ,(88 votes),₹1000
+613,Dr. Shabbir Suterwala,"MBBS, Diploma in Orthopaedics",19 Years Experience Overall,Orthopedist,"Charni Road, Mumbai",97% ,(425 votes),₹1500
+614,Dr. Biswajeet Naidu,"MBBS, MS - Orthopaedics",32 Years Experience Overall,Orthopedist,"Chembur, Mumbai",95% ,(155 votes),₹2000
+615,Dr. Suhas Shah,"MS - Orthopaedics, MBBS",35 Years Experience Overall  (24 years as specialist),Orthopedist,"Mahim, Mumbai",95% ,(97 votes),₹1300
+616,Dr. Amit jain,"Diploma in Orthopaedics, MBBS",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Malad West, Mumbai",92% ,(25 votes),₹1500
+617,Dr. Kunal  Makhija,"MS - Orthopaedics, MBBS",15 Years Experience Overall  (9 years as specialist),Orthopedist,"Chembur, Mumbai",98% ,(128 votes),₹1500
+618,Dr. Pradeep K Singh,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, PhD - Orthopaedics",22 Years Experience Overall  (20 years as specialist),Orthopedist,"Powai, Mumbai",85% ,(52 votes),₹1600
+619,Dr. Kaushal Malhan,"MBBS, MS - Orthopaedics",33 Years Experience Overall  (29 years as specialist),Orthopedist,"Mulund West, Mumbai",95% ,(44 votes),₹2000
+620,Dr. Nikhil Shetty,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Powai, Mumbai",95% ,(21 votes),₹1100
+621,Dr. Mandar Agashe,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (14 years as specialist),Orthopedist,"Mulund West, Mumbai",0,0,₹2000
+622,Dr. Chintan Doshi,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",11 Years Experience Overall  (9 years as specialist),Orthopedist,"Santacruz West, Mumbai",89% ,(18 votes),₹2000
+623,Dr. Sanjeev Jain,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",35 Years Experience Overall  (30 years as specialist),Orthopedist,"Powai, Mumbai",71% ,(35 votes),₹2100
+624,Dr. Om Parshuram Patil,"MBBS, MS - Orthopaedics, FCPS - Orthopedic, Fellow in Spine Surgery",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Chembur, Mumbai",100% ,(18 votes),₹1500
+625,Dr. Ajay Rathod,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (23 years as specialist),Orthopedist,"Tardeo, Mumbai",0,0,₹1500
+626,Dr. Neeraj Srivastava,"MBBS, MS - Orthopaedics",41 Years Experience Overall  (37 years as specialist),Orthopedist,"Mulund West, Mumbai",0,0,₹2000
+627,Dr. Amit Mehta,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",23 Years Experience Overall  (21 years as specialist),Orthopedist,"Santacruz West, Mumbai",96% ,(74 votes),₹1750
+628,Dr. Sarang Deshpande,"MBBS, MS - Orthopaedics",15 Years Experience Overall,Orthopedist,"Mira Road, Mumbai",84% ,(19 votes),₹900
+629,Dr. Aditya Sai,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Powai, Mumbai",95% ,(21 votes),₹1600
+630,Dr. Bipin A Ghanghurde,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (12 years as specialist),Orthopedist,"Santacruz West, Mumbai",0,0,₹2000
+631,Dr. Vikas S. Yadav,"Diploma in Orthopaedics, MBBS",14 Years Experience Overall  (10 years as specialist),Orthopedist,"Andheri East, Mumbai",90% ,(21 votes),₹1000
+632,Dr. Prajyot Jagtap,"MBBS, Diploma in Orthopaedics",15 Years Experience Overall  (12 years as specialist),Orthopedist,"Chembur, Mumbai",96% ,(45 votes),₹1500
+633,Dr. Neeraj R Bijlani,"MBBS, Diploma in Orthopaedics, FCPS - Orthopedic",21 Years Experience Overall  (19 years as specialist),Orthopedist,"Chembur, Mumbai",96% ,(832 votes),₹1200
+634,Dr. Sudhir A Joshi,"MBBS, MS - Orthopaedics",37 Years Experience Overall,Orthopedist,"Mahim, Mumbai",0,0,₹1300
+635,Dr. Akash A Saraogi,"FRCS - Trauma & Orthopedic Surgery, MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FCPS - Orthopedic",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Malad East, Mumbai",100% ,(330 votes),₹1000
+636,Dr. Miten Sheth,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (9 years as specialist),Orthopedist,"Mulund West, Mumbai",99% ,(249 votes),₹1000
+637,Dr. Girish Bhalerao,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (9 years as specialist),Orthopedist,"Mira Road, Mumbai",100% ,(11 votes),₹900
+638,Dr. Vikas Jain,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (8 years as specialist),Orthopedist,"Chembur East, Mumbai",96% ,(93 votes),₹1000
+639,Dr. Satyen Mehta,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (19 years as specialist),Orthopedist,"Chembur, Mumbai",97% ,(486 votes),₹1500
+640,Dr. Hitesh Kubadia,"MS - Orthopaedics, MBBS",20 Years Experience Overall,Orthopedist,"Dadar East, Mumbai",97% ,(588 votes),₹2000
+641,Dr. Abhay Nene,"MBBS, MS - Orthopaedics",27 Years Experience Overall  (20 years as specialist),Orthopedist,"Parel, Mumbai",92% ,(24 votes),₹4500
+642,Dr. Amyn Rajani,"MS - Orthopaedics, MBBS",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Bandra West, Mumbai",99% ,(903 votes),₹3000
+643,Dr. Vaibhav B. Kasodekar,"MBBS, MS - Orthopaedics",24 Years Experience Overall  (19 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1300
+644,Dr. Nikhil A. Gokhale,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (7 years as specialist),Orthopedist,"Goregaon West, Mumbai",0,0,₹1000
+645,Dr. Rakesh Dhake,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (6 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1600
+646,Dr. Priyank Patel,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (10 years as specialist),Orthopedist,"Tardeo, Mumbai",99% ,(359 votes),₹3000
+647,Dr. Kishore Manek,"MBBS, MS - Orthopaedics",40 Years Experience Overall  (37 years as specialist),Orthopedist,"Chembur East, Mumbai",92% ,(12 votes),₹1200
+648,Dr. Lalit Panchal,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FCPS - Orthopedic, Diploma in Orthopaedics",33 Years Experience Overall  (29 years as specialist),Orthopedist,"Mahim, Mumbai",97% ,(77 votes),₹1800
+649,Dr. Chetan Anchan,"MS - Orthopaedics, Diploma in Orthopaedics, FCPS - Mid. & Gynae, MBBS",21 Years Experience Overall  (18 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1800
+650,Dr. D. Shrinivas,"MS - Orthopaedics, MBBS",22 Years Experience Overall  (21 years as specialist),Orthopedist,"Chembur East, Mumbai",88% ,(24 votes),₹800
+651,Dr. Shailesh Mishra,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (11 years as specialist),Orthopedist,"Mahim, Mumbai",97% ,(30 votes),₹1300
+652,Dr. Aditya Khemka,"MBBS, MS - Orthopaedics, PhD - Surgery",13 Years Experience Overall  (10 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1300
+653,Dr. Dinesh Kasture,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (22 years as specialist),Orthopedist,"Borivali West, Mumbai",81% ,(21 votes),₹1000
+654,Dr. Sheetal Mohite,"Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, MBBS",23 Years Experience Overall,Orthopedist,"Mahim, Mumbai",92% ,(13 votes),₹1300
+655,Dr. Harsh Patel,"MBBS, DNB - Orthopedics/Orthopedic Surgery",7 Years Experience Overall  (3 years as specialist),Orthopedist,"Borivali West, Mumbai",0,0,₹250
+656,Dr. Santosh Shetty,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",24 Years Experience Overall  (21 years as specialist),Orthopedist,"Malad West, Mumbai",81% ,(36 votes),₹1200
+657,Dr. Alok Kumar Shaligram Pandey,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",18 Years Experience Overall  (12 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1300
+658,Dr. Pranjal Kodkani,"MS - Orthopaedics, Diploma in Orthopaedics, MBBS",28 Years Experience Overall  (24 years as specialist),Orthopedist,"Bandra West, Mumbai",100% ,(32 votes),₹2000
+659,Dr. Saijyot Raut,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (3 years as specialist),Orthopedist,"Andheri West, Mumbai",85% ,(27 votes),₹1500
+660,Dr. Abhijit Kale,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (15 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1300
+661,Dr. Sachin Vilhekar,"MBBS, Diploma in Orthopaedics",17 Years Experience Overall  (10 years as specialist),Orthopedist,"Mahim, Mumbai",0,0,₹1300
+662,Dr. Sonik Shah,"MBBS, MS - Orthopaedics",7 Years Experience Overall,Orthopedist,"Borivali East, Mumbai",0,0,₹1000
+663,Dr. Mudit Khanna,"MBBS, M.Ch - Orthopaedics",23 Years Experience Overall  (13 years as specialist),Orthopedist,"Mumbai Central, Mumbai",0,0,₹2500
+664,Dr. Swapneel Shah,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (3 years as specialist),Orthopedist,"Kandivali, Mumbai",0,0,₹500
+665,Dr. Chandan Shetty,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (8 years as specialist),Orthopedist,"Borivali West, Mumbai",0,0,₹800
+666,Dr. Mohit Kukreja,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",17 Years Experience Overall  (11 years as specialist),Orthopedist,"Mumbai Central, Mumbai",0,0,₹2000
+667,Dr. Pratik Talekar,"MBBS, MS - Orthopaedics",10 Years Experience Overall,Orthopedist,"Borivali West, Mumbai",95% ,(20 votes),₹700
+668,Dr. Fahad M. Shaikh,"DNB - Orthopedics/Orthopedic Surgery, MBBS",18 Years Experience Overall  (10 years as specialist),Orthopedist,"Mahim, Mumbai",95% ,(22 votes),₹1300
+669,Dr. Kaushik B K,"MBBS, MS - Orthopaedics",9 Years Experience Overall,Orthopedist,"SR Nagar, Hyderabad",0,0,₹500
+670,Dr. Sharat Kumar P,"MS - Orthopaedics, MBBS",35 Years Experience Overall  (30 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",80% ,(98 votes),₹800
+671,Dr. R. Suneel,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Hitech City, Hyderabad",93% ,(15 votes),₹500
+672,Dr. M.Kaushik Reddy,"MS - Orthopaedics, MBBS",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",95% ,(100 votes),₹1000
+673,Dr. Satish Reddy Gandavarapu,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",27 Years Experience Overall  (24 years as specialist),Orthopedist,"Ameerpet, Hyderabad",89% ,(84 votes),₹500
+674,Dr. Krishna Kiran Eachempati,"MBBS, MS - Orthopaedics",21 Years Experience Overall,Orthopedist,"Hitech City, Hyderabad",72% ,(18 votes),₹500
+675,Dr. Mallpragada Hari Sharma,"MBBS, MS - Orthopaedics",34 Years Experience Overall,Orthopedist,"Hyderguda, Hyderabad",92% ,(12 votes),₹500
+676,Dr. V Surya Prakash Rao,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",26 Years Experience Overall,Orthopedist,"Hitech City, Hyderabad",85% ,(67 votes),₹900
+677,Dr. B RAJEEV REDDY,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship Programme in Orthopedic Oncology",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹1000
+678,Dr. Sushanth M. V.,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (18 years as specialist),Orthopedist,"Secunderabad, Hyderabad",88% ,(110 votes),₹600
+679,Dr. Arun Vontela,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (10 years as specialist),Orthopedist,"Miyapur, Hyderabad",100% ,(18 votes),₹700
+680,Dr. R Srinivas Reddy,"MBBS, MS - Orthopaedics, FRCS - General Surgery, FRCS - Trauma & Orthopedic Surgery",24 Years Experience Overall  (22 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹800
+681,Dr. Karthik Pingle,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",24 Years Experience Overall  (21 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹1000
+682,Dr. Mir Jawad Zar Khan,"MBBS, MS - Orthopaedics",21 Years Experience Overall  (7 years as specialist),Orthopedist,"Attapur, Hyderabad",97% ,(880 votes),₹700
+683,Dr. Venkata Ramana,"MBBS, DNB - Orthopedics/Orthopedic Surgery, MS - Orthopaedics",31 Years Experience Overall  (25 years as specialist),Orthopedist,"Lakdikapul, Hyderabad",0,0,₹800
+684,Dr. K Saketh,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Lakdikapul, Hyderabad",0,0,₹800
+685,Dr. Mithin Aachi,"MBBS, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (17 years as specialist),Orthopedist,"Secunderabad, Hyderabad",0,0,₹1000
+686,Dr. Bhanu Prakash Reddy R,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",25 Years Experience Overall  (20 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹800
+687,Dr. Aravind Gandra,"MS - Orthopaedics, MBBS",19 Years Experience Overall  (13 years as specialist),Orthopedist,"Chanda Nagar, Hyderabad",92% ,(162 votes),₹500
+688,Dr. Pereddy Somashekhara Reddy,"MBBS, MS - Orthopaedics",22 Years Experience Overall  (18 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹1000
+689,Dr. Kishore B Reddy,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (15 years as specialist),Orthopedist,"Kukatpally, Hyderabad",91% ,(55 votes),₹700
+690,Dr. A Mohan Krishna,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",99% ,(914 votes),₹1000
+691,Dr. Sunil Apisingi,"MBBS, MS - Orthopaedics",21 Years Experience Overall,Orthopedist,"Hitech City, Hyderabad",0,0,₹500
+692,Dr. Manjunath Reddy G,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",21 Years Experience Overall  (17 years as specialist),Orthopedist,"KPHB, Hyderabad",90% ,(101 votes),₹700
+693,Dr. VIvek Reddy M,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (11 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹1000
+694,Dr. M Balaraju Naidu,"MS - Orthopaedics, MBBS, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall  (10 years as specialist),Orthopedist,"Champapet, Hyderabad",100% ,(1275 votes),₹500
+695,Dr. Suman Kumar Banik,"MBBS, Diploma in Orthopaedics",15 Years Experience Overall  (8 years as specialist),Orthopedist,"Hitech City, Hyderabad",0,0,₹500
+696,Dr. Jayini P Rammohen,"MBBS, MS - Orthopaedics",17 Years Experience Overall  (14 years as specialist),Orthopedist,"Serilingampally, Hyderabad",92% ,(1669 votes),₹600
+697,Dr. Vinay Kishore,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Hitech City, Hyderabad",0,0,₹600
+698,Dr. Veerendra Mudnoor,"MBBS, MS - Orthopaedics, Fellowship in Arthroscopy & Sports Injury",16 Years Experience Overall  (12 years as specialist),Orthopedist,"Kondapur, Hyderabad",91% ,(172 votes),₹700
+699,Dr. Somasekhar Reddy. N,"MBBS, MS - Orthopaedics",38 Years Experience Overall  (33 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",82% ,(11 votes),₹1000
+700,Dr. Ravi Kumar P,"MBBS, Diploma in Orthopaedics",21 Years Experience Overall  (17 years as specialist),Orthopedist,"Hitech City, Hyderabad",0,0,₹500
+701,Dr. Ajay Kumar Paruchuri,"MBBS, MS - Orthopaedics, M.Ch - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Kukatpally, Hyderabad",95% ,(440 votes),₹600
+702,Dr. Kiran Reddy Chennuri,"MBBS, MS - Orthopaedics",16 Years Experience Overall  (9 years as specialist),Orthopedist,"Gachibowli, Hyderabad",98% ,(443 votes),₹600
+703,Dr. Vijay Kumar Loya,"MS - Orthopaedics, MBBS, DNB - Orthopedics/Orthopedic Surgery, FNB - Spine Surgery",10 Years Experience Overall  (5 years as specialist),Orthopedist,"Attapur, Hyderabad",77% ,(26 votes),₹500
+704,Dr. B. Srinivas,"MBBS, MS - Orthopaedics, Fellowship in Arthroscopy & Sports Injury",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Vanasthalipuram, Hyderabad",94% ,(31 votes),₹350
+705,Dr. M.Ranganath Reddy,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Madinaguda, Hyderabad",95% ,(101 votes),₹550
+706,Dr. Aditya Somayaji,"MBBS, MS - Orthopaedics",12 Years Experience Overall,Orthopedist,"Kompally, Hyderabad",88% ,(24 votes),₹600
+707,Dr. Chintapeta Ravi,"MBBS, MS - Orthopaedics",25 Years Experience Overall  (24 years as specialist),Orthopedist,"Kanchanbagh, Hyderabad",69% ,(13 votes),₹500
+708,Dr. K Gopinath,"MBBS, M.Ch - Orthopaedics",20 Years Experience Overall  (8 years as specialist),Orthopedist,"Malakpet, Hyderabad",73% ,(15 votes),₹600
+709,Dr. Jarugumilli Srikanth,"MBBS, DNB - Orthopedics/Orthopedic Surgery",33 Years Experience Overall  (31 years as specialist),Orthopedist,"Kanchanbagh, Hyderabad",0,0,₹500
+710,Dr. P. Ramu,"MBBS, Diploma in Anesthesiology, DNB - Orthopedics/Orthopedic Surgery",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Miyapur, Hyderabad",93% ,(119 votes),₹500
+711,Dr. M Ashwin Kumar,"MBBS, MS - Orthopaedics",23 Years Experience Overall  (17 years as specialist),Orthopedist,"LB Nagar, Hyderabad",0,0,₹630
+712,Dr. Anvesh Reddy K,"MBBS, MS - Orthopaedics",7 Years Experience Overall,Orthopedist,"Somajiguda, Hyderabad",100% ,(13 votes),₹550
+713,Dr. Shyam Sunder Rendedla,"MBBS, DNB - Orthopedics/Orthopedic Surgery",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Attapur, Hyderabad",100% ,(12 votes),₹700
+714,Dr. Murahari P,"MS - Orthopaedics, MBBS",15 Years Experience Overall  (10 years as specialist),Orthopedist,"Manikonda, Hyderabad",97% ,(33 votes),₹500
+715,Dr. M Naveen Chandar Reddy,"MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",22 Years Experience Overall  (12 years as specialist),Orthopedist,"Kondapur, Hyderabad",96% ,(46 votes),₹600
+716,Dr. Shrikant Ega,"MBBS, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Kukatpally, Hyderabad",100% ,(11 votes),₹700
+717,Dr. Thirupathi Gaddam,"MBBS, MS - Orthopaedics",16 Years Experience Overall,Orthopedist,"Chanda Nagar, Hyderabad",0,0,₹400
+718,Dr. V V Satyanarayana,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (8 years as specialist),Orthopedist,"LB Nagar, Hyderabad",0,0,₹630
+719,Dr. Hemachand Balla,"DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics, MBBS",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Attapur, Hyderabad",100% ,(24 votes),₹300
+720,Dr. Vijayaeswar Reddy,"Diploma in Orthopaedics, MBBS",12 Years Experience Overall  (7 years as specialist),Orthopedist,"AS Rao Nagar, Hyderabad",86% ,(14 votes),₹400
+721,Dr. Anil Kumar P,"MBBS, Diploma in Orthopaedics",10 Years Experience Overall  (4 years as specialist),Orthopedist,"Chaitanyapuri, Hyderabad",0,0,₹400
+722,Dr. G P R K Rohit Reddy,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Madhapur, Hyderabad",0,0,₹500
+723,Dr. P.Madhu,"MBBS, Diploma in Orthopaedics",7 Years Experience Overall  (2 years as specialist),Orthopedist,"Attapur, Hyderabad",0,0,₹500
+724,Dr. Akhila Sunder,"MBBS, MS - Orthopaedics",6 Years Experience Overall  (3 years as specialist),Orthopedist,"Kukatpally, Hyderabad",100% ,(15 votes),₹500
+725,Dr. Saikiran Balagoni,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (7 years as specialist),Orthopedist,"Secunderabad, Hyderabad",100% ,(31 votes),₹500
+726,Dr. Vinay Kishore P R,"MBBS, Diploma in Orthopaedics",10 Years Experience Overall,Orthopedist,"Chanda Nagar, Hyderabad",0,0,₹400
+727,Dr. T V Suresh,"MBBS, Diploma in Orthopaedics",14 Years Experience Overall  (7 years as specialist),Orthopedist,"Kompally, Hyderabad",0,0,₹500
+728,Dr. Santoshini Nemuri,"MBBS, MS - Orthopaedics",7 Years Experience Overall  (4 years as specialist),Orthopedist,"Kukatpally, Hyderabad",0,0,₹700
+729,Dr. Gurram Sudhakar Reddy,"MS - Orthopaedics, MBBS",8 Years Experience Overall  (7 years as specialist),Orthopedist,"Hastinapuram, Hyderabad",0,0,₹500
+730,Dr. Kundan Kumar Jha,"MBBS, DNB - Orthopedics/Orthopedic Surgery",7 Years Experience Overall  (2 years as specialist),Orthopedist,"Banjara Hills, Hyderabad",0,0,₹600
+731,Dr. Abdul Bari,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (9 years as specialist),Orthopedist,"Mehdipatnam, Hyderabad",0,0,₹500
+732,Dr. Rahul Reddy Chinnamari,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (7 years as specialist),Orthopedist,"Chaitanyapuri, Hyderabad",0,0,₹400
+733,Dr. Hari Kishore,"MBBS, DNB - Orthopedics/Orthopedic Surgery",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Jeedimetla, Hyderabad",0,0,₹600
+734,Dr. Lokesh Venkat Bheemisetty,"MBBS, MS - Orthopaedics",8 Years Experience Overall  (5 years as specialist),Orthopedist,"Banjara Hills, Hyderabad",0,0,₹600
+735,Dr. Uma Maheshwar,"MBBS, DNB - Orthopedics/Orthopedic Surgery",3 Years Experience Overall,Orthopedist,"Uppal, Hyderabad",0,0,₹400
+736,Dr. Raghava Dutt Mulukatla,"MBBS, FRCS (Edinburgh), MS - Orthopaedics",42 Years Experience Overall  (37 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",95% ,(322 votes),₹800
+737,Dr. Sunil Dachepalli,"FRCS - Trauma & Orthopedic Surgery, MRCS (UK), MS - Orthopaedics, MBBS",26 Years Experience Overall  (21 years as specialist),Orthopedist,"Madhapur, Hyderabad",93% ,(457 votes),₹600
+738,Dr. Madhu Thumu,"MD - Physician, MS - Orthopaedics",16 Years Experience Overall  (11 years as specialist),Orthopedist,"Miyapur, Hyderabad",93% ,(200 votes),₹700
+739,Dr. Venu Madhav,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (15 years as specialist),Orthopedist,"Jeedimetla, Hyderabad",95% ,(41 votes),₹350
+740,Dr. Jairamchander Pingle,MBBS,50 Years Experience Overall,Orthopedist,"Jubilee Hills, Hyderabad",94% ,(16 votes),₹1000
+741,Dr. Ved Prakash,"FRCS - Trauma & Orthopedic Surgery, MBBS",67 Years Experience Overall  (28 years as specialist),Orthopedist,"Chapel Road, Hyderabad",95% ,(323 votes),₹650
+742,Dr. S.Krishna Reddy,"MBBS, MS - Orthopaedics",43 Years Experience Overall  (39 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",91% ,(11 votes),₹1000
+743,Dr. Kottapalli Divakar Reddy,"MBBS, MRCS (UK), MS - Orthopaedics",23 Years Experience Overall  (20 years as specialist),Orthopedist,"Erragadda, Hyderabad",87% ,(15 votes),₹300
+744,Dr. K J Reddy,"MBBS, MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, FRCS - Trauma & Orthopedic Surgery, FRCS - Trauma & Orthopedic Surgery",37 Years Experience Overall  (31 years as specialist),Orthopedist,"Jubilee Hills, Hyderabad",0,0,₹1000
+745,Dr. Harish . C. R,"MBBS, MS - Orthopaedics",26 Years Experience Overall  (22 years as specialist),Orthopedist,"Bandlaguda, Hyderabad",94% ,(69 votes),₹400
+746,Dr. P.Sharath Babu,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (10 years as specialist),Orthopedist,"Serilingampally, Hyderabad",92% ,(1040 votes),₹500
+747,Dr. Ashwin Kasturi,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (13 years as specialist),Orthopedist,"KPHB, Hyderabad",98% ,(953 votes),₹600
+748,Dr. A.janardhan reddy,"MS - Orthopaedics, MBBS",11 Years Experience Overall  (4 years as specialist),Orthopedist,"LB Nagar, Hyderabad",97% ,(31 votes),₹400
+749,Dr. Kalyan Kumar Varma Kalidindi,"MBBS, MS - Orthopaedics, FNB - Spine Surgery, DNB - Orthopedics/Orthopedic Surgery",10 Years Experience Overall  (6 years as specialist),Orthopedist,"KPHB, Hyderabad",0,0,₹600
+750,Dr. Abhishek Barli,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Secunderabad, Hyderabad",95% ,(38 votes),₹500
+751,Dr. Prabhat Lakkireddi,"FRCS - Trauma & Orthopedic Surgery, MS - Orthopaedics, MRCS (UK), MBBS",26 Years Experience Overall  (20 years as specialist),Orthopedist,"Banjara Hills, Hyderabad",98% ,(1638 votes),₹800
+752,Dr. Anjani kumar,"MBBS, MS - Orthopaedics",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Kukatpally, Hyderabad",98% ,(84 votes),₹350
+753,Dr. Ravindranath V S.,"MBBS, MS - Orthopaedics",37 Years Experience Overall  (28 years as specialist),Orthopedist,"Ameerpet, Hyderabad",73% ,(15 votes),₹500
+754,Dr. Chandrasekhar Reddy SV,"MBBS, MS - Orthopaedics",32 Years Experience Overall,Orthopedist,"Secunderabad, Hyderabad",0,0,₹700
+755,Dr. A Deepthi Nandan Reddy,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",30 Years Experience Overall  (24 years as specialist),Orthopedist,"Chapel Road, Hyderabad",95% ,(57 votes),₹650
+756,Dr. K Ramesh Chandra,"MS - Orthopaedics, DNB - Orthopedics/Orthopedic Surgery",24 Years Experience Overall,Orthopedist,"Somajiguda, Hyderabad",98% ,(50 votes),₹600
+757,Dr. Udai Prakash,"MBBS, FRCS - Trauma & Orthopedic Surgery",32 Years Experience Overall  (21 years as specialist),Orthopedist,"Chapel Road, Hyderabad",94% ,(282 votes),₹800
+758,Dr. G K Sudhakar Reddy,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery, MRCS (UK), Post Graduate Diploma in Sports Medicine",25 Years Experience Overall  (20 years as specialist),Orthopedist,"Kondapur, Hyderabad",95% ,(371 votes),₹600
+759,Dr. Srinivas Thati,"MBBS, MS - Orthopaedics, MRCS (UK)",21 Years Experience Overall  (18 years as specialist),Orthopedist,"Gachibowli, Hyderabad",100% ,(45 votes),₹500
+760,Dr. Shiva Kumar Ale,"MS - Orthopaedics, MBBS",9 Years Experience Overall  (3 years as specialist),Orthopedist,"Nallakunta, Hyderabad",0,0,₹300
+761,Dr. S.T. Ramanuja Chari,"MBBS, MS - Orthopaedics",44 Years Experience Overall  (40 years as specialist),Orthopedist,"Chapel Road, Hyderabad",94% ,(35 votes),₹550
+762,Dr. Uday Reddy,"MS - Orthopaedics, M.Ch - Orthopaedics",14 Years Experience Overall  (12 years as specialist),Orthopedist,"Nacharam, Hyderabad",94% ,(159 votes),₹500
+763,Dr. Sandeep Prasad,"MBBS, MS - Orthopaedics, FRCS - Trauma & Orthopedic Surgery",27 Years Experience Overall  (21 years as specialist),Orthopedist,"Kondapur, Hyderabad",95% ,(20 votes),₹700
+764,Dr. Ambadas Kathare,"MBBS, DNB - Orthopedics/Orthopedic Surgery",20 Years Experience Overall  (16 years as specialist),Orthopedist,"Chapel Road, Hyderabad",0,0,₹550
+765,Dr. Vidyasagar Chandankere,"MBBS, MS - Orthopaedics",19 Years Experience Overall  (14 years as specialist),Orthopedist,"Chapel Road, Hyderabad",93% ,(15 votes),₹600
+766,Dr. Patlolla Karthik Reddy,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (6 years as specialist),Orthopedist,"Narsingi, Hyderabad",0,0,₹400
+767,Dr. Naveen Reddy P,"MBBS, M.Ch - Orthopaedics, Diploma in Orthopaedics",18 Years Experience Overall,Orthopedist,"Secunderabad, Hyderabad",0,0,₹700
+768,Dr. Sreedhar Reddy Anne,"MBBS, MS - Orthopaedics",18 Years Experience Overall  (7 years as specialist),Orthopedist,"Ameerpet, Hyderabad",0,0,₹500
+769,Dr. Sridhar Musthyala,"MBBS, Diploma in Orthopaedics, FRCS - Trauma & Orthopedic Surgery",22 Years Experience Overall,Orthopedist,"Ameerpet, Hyderabad",93% ,(28 votes),₹580
+770,Dr. Siddhartha Maredupaka,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (5 years as specialist),Orthopedist,"Chapel Road, Hyderabad",99% ,(208 votes),₹550
+771,Dr. Pavan Kumar A,"MBBS, Diploma in Orthopaedics",18 Years Experience Overall  (13 years as specialist),Orthopedist,"Chapel Road, Hyderabad",100% ,(45 votes),₹550
+772,Dr. Jaya Prakash Reddy,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (7 years as specialist),Orthopedist,"Kukatpally, Hyderabad",0,0,₹550
+773,Dr. Ramesh Gajula,"MBBS, MS - Orthopaedics, MD - Anaesthesiology",21 Years Experience Overall  (16 years as specialist),Orthopedist,"Uppal, Hyderabad",98% ,(87 votes),₹500
+774,Dr. K R Anil Kumar Reddy,"MBBS, DNB - Orthopedics/Orthopedic Surgery",11 Years Experience Overall,Orthopedist,"Kukatpally, Hyderabad",92% ,(51 votes),₹600
+775,Dr. B.Vivekananda,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (5 years as specialist),Orthopedist,"Somajiguda, Hyderabad",100% ,(37 votes),₹600
+776,Dr. Anand Allam Venkatesh,MS - Orthopaedics,5 Years Experience Overall,Orthopedist,"Malkajgiri, Hyderabad",0,0,₹600
+777,Dr. Venkatesh Putta,"MBBS, MS - Orthopaedics",10 Years Experience Overall  (3 years as specialist),Orthopedist,"Kothapet, Hyderabad",0,0,₹450
+778,Dr. Harinath Bellamkonda,"MBBS, MS - Orthopaedics",12 Years Experience Overall  (11 years as specialist),Orthopedist,"Nizampet, Hyderabad",0,0,₹350
+779,Dr. T. Zeeshan Muzahid,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (6 years as specialist),Orthopedist,"Attapur, Hyderabad",0,0,₹600
+780,Dr. Abhilash Kumar V S S,"MBBS, MS - Orthopaedics",15 Years Experience Overall  (11 years as specialist),Orthopedist,"Kukatpally, Hyderabad",92% ,(48 votes),₹700
+781,Dr. Karthik Yelamarthy,"MBBS, MS - Orthopaedics, FNB - Spine Surgery",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Chapel Road, Hyderabad",90% ,(31 votes),₹550
+782,Dr. Gandhi Govind,"MBBS, DNB - Orthopedics/Orthopedic Surgery",13 Years Experience Overall  (9 years as specialist),Orthopedist,"Chapel Road, Hyderabad",92% ,(13 votes),₹550
+783,Dr. Kartheek Telagareddy,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Gachibowli, Hyderabad",97% ,(62 votes),₹600
+784,Dr. Mirza Shahrukh Baig,"MBBS, DNB - Orthopedics/Orthopedic Surgery",12 Years Experience Overall  (5 years as specialist),Orthopedist,"Chapel Road, Hyderabad",0,0,₹550
+785,Dr. Vikas,"MBBS, MS - Orthopaedics",13 Years Experience Overall  (8 years as specialist),Orthopedist,"Kukatpally, Hyderabad",0,0,₹600
+786,Dr. Kiran Varma Uddaraju,"MBBS, MS - Orthopaedics",14 Years Experience Overall  (8 years as specialist),Orthopedist,"Nizampet, Hyderabad",0,0,₹500
+787,Dr. Praneeth Reddy C V,"MBBS, MS - Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Kondapur, Hyderabad",0,0,₹400
+788,Dr. J Vamshidhar Reddy,"MBBS, DNB - Orthopedics/Orthopedic Surgery, Diploma in Orthopaedics",11 Years Experience Overall  (8 years as specialist),Orthopedist,"Saidabad, Hyderabad",0,0,₹400
+789,Dr. P. Uday Kumar Reddy,"MBBS, Diploma in Orthopaedics",12 Years Experience Overall  (8 years as specialist),Orthopedist,"Kukatpally, Hyderabad",0,0,₹600
+790,Dr. Md Aslam Mohsin,"MBBS, MS - Orthopaedics",9 Years Experience Overall  (2 years as specialist),Orthopedist,"Amberpet, Hyderabad",0,0,₹300
