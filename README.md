@@ -1,4 +1,8 @@
 # PRACTO
+###### [Readme Practo.docx](https://github.com/gauraishwarya/Practo/files/11219630/Readme.Practo.docx)
+
+
+
 ## Objective:-
 - ##### To create a Machine Learning Model which will predict the fees of doctors.
 ## Tech Stack Used:-
